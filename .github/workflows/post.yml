@@ -1,0 +1,53 @@
+name: Rus tili kanali
+
+on:
+  schedule:
+    - cron: "47 3 * * *"    # har kuni 08:47 (Toshkent) — rasm va so'zlar
+    - cron: "47 12 * * *"   # har kuni 17:47 (Toshkent) — testlar
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Nima joylansin?"
+        type: choice
+        options: [words, quiz]
+        default: words
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rus-tili-kanal
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Kanalga joylash
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL: ${{ secrets.CHANNEL }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          elif [ "${{ github.event.schedule }}" = "47 3 * * *" ]; then
+            MODE="words"
+          else
+            MODE="quiz"
+          fi
+          node run.js "$MODE"
+
+      - name: data.json ni saqlash
+        if: always()
+        run: |
+          git config user.name "rus-tili-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || (git commit -m "Holat yangilandi" && git push)
