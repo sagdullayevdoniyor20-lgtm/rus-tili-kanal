@@ -3,6 +3,7 @@
 Har kuni Telegram kanalga o'zi post qiladi:
 
 - 🌅 **~09:00** — mavzu rasmi va tagida 10–15 ta so'z (ruscha — o'zbekcha)
+- 🇷🇺 **~10:00** — Rossiya haqida rasm (Wikimedia Commons saytidan) va ruscha + o'zbekcha qisqa tavsif
 - 🌆 **~18:00** — shu mavzu bo'yicha 10 ta test (Telegram quiz): so'z birikmalari va gaplar
 
 Hozir **30 ta mavzu** tayyor (oziq-ovqat, oila, uy, kiyim, transport...). 30-kundan keyin bot boshidan boshlaydi.
@@ -43,6 +44,7 @@ Shundan keyin bot har kuni o'zi ishlaydi.
 | `images/` | Har bir mavzuning rasmi (`1.png`, `2.png`, ...) |
 | `tools/render.py` | Rasmlarni yasaydigan dastur |
 | `run.js` | Kanalga joylaydigan bot |
+| `content/russia.json` | Rossiyadagi 30 ta joy: nomi, tavsifi (ruscha/o'zbekcha) va rasm qidirish so'zi |
 | `data.json` | Qaysi mavzu navbatda ekani (bot o'zi yangilaydi) |
 | `config.json` | Hashteglar va test vaqti matni |
 
@@ -62,6 +64,7 @@ python3 tools/render.py "@kanal_nomi"
 
 `.github/workflows/post.yml` dagi `cron` qatorlari UTC vaqtda yozilgan (Toshkent = UTC+5):
 - `47 3 * * *` → 08:47 Toshkent (rasm)
+- `47 4 * * *` → 09:47 Toshkent (Rossiya rasmi)
 - `47 12 * * *` → 17:47 Toshkent (test)
 
 GitHub ba'zan 5–20 daqiqa kechiktiradi — bu normal.

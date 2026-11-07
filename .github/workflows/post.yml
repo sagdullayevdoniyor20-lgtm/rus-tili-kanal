@@ -3,13 +3,14 @@ name: Rus tili kanali
 on:
   schedule:
     - cron: "47 3 * * *"    # har kuni 08:47 (Toshkent) — rasm va so'zlar
+    - cron: "47 4 * * *"    # har kuni 09:47 (Toshkent) — Rossiya haqida rasm (~10:00)
     - cron: "47 12 * * *"   # har kuni 17:47 (Toshkent) — testlar
   workflow_dispatch:
     inputs:
       mode:
         description: "Nima joylansin?"
         type: choice
-        options: [words, quiz]
+        options: [words, russia, quiz]
         default: words
 
 permissions:
@@ -39,6 +40,8 @@ jobs:
             MODE="${{ inputs.mode }}"
           elif [ "${{ github.event.schedule }}" = "47 3 * * *" ]; then
             MODE="words"
+          elif [ "${{ github.event.schedule }}" = "47 4 * * *" ]; then
+            MODE="russia"
           else
             MODE="quiz"
           fi

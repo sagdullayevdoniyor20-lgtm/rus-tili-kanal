@@ -2,6 +2,7 @@
 //
 //   node run.js words  → navbatdagi mavzu rasmi + so'zlar ro'yxati (ertalab)
 //   node run.js quiz   → shu mavzu bo'yicha testlar (kechqurun)
+//   node run.js russia → Rossiya haqida rasm (10:00, Wikimedia Commons'dan)
 //
 // Mavzular: content/topics.json, rasmlar: images/<id>.png
 // Holat (qaysi mavzu navbatda): data.json
@@ -127,7 +128,93 @@ async function postQuiz() {
   console.log(`Mavzu №${t.id} testi joylandi.`);
 }
 
+// ---------- 10:00: Rossiya haqida rasm (Wikimedia Commons'dan) ----------
+const UA = "rus-tili-kanal-bot/1.0 (https://github.com/sagdullayevdoniyor20-lgtm/rus-tili-kanal)";
+const stripHtml = (s) => String(s ?? "").replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
+
+async function getJson(url) {
+  const res = await fetch(url, { headers: { "User-Agent": UA } });
+  if (!res.ok) throw new Error(`${res.status} ${url}`);
+  return res.json();
+}
+
+// Commons'dan shu joy bo'yicha sifatli (gorizontal, katta) rasm topadi.
+// Avval "Quality images" (Commons tekshirgan sifatli fotolar) ichidan qidiradi,
+// topilmasa — oddiy qidiruvning eng mos 3 ta natijasidan oladi.
+async function searchCommons(search, top) {
+  const p = new URLSearchParams({
+    action: "query", format: "json", generator: "search", gsrnamespace: "6",
+    gsrsearch: search, gsrlimit: "30",
+    prop: "imageinfo", iiprop: "url|size|mime|extmetadata", iiurlwidth: "1600",
+  });
+  const j = await getJson(`https://commons.wikimedia.org/w/api.php?${p}`);
+  return Object.values(j.query?.pages || {})
+    .sort((a, b) => a.index - b.index)
+    .map((pg) => pg.imageinfo?.[0])
+    .filter((ii) => ii && ii.mime === "image/jpeg" && ii.width >= 1400 && ii.width >= ii.height * 1.2 && ii.thumburl)
+    .slice(0, top);
+}
+
+async function findCommonsImage(query) {
+  let good = await searchCommons(`${query} filetype:bitmap incategory:"Quality_images"`, 5);
+  if (!good.length) good = await searchCommons(`${query} filetype:bitmap`, 3);
+  if (!good.length) throw new Error(`Commons'da rasm topilmadi: ${query}`);
+  const ii = good[Math.floor(Math.random() * good.length)];
+  const m = ii.extmetadata || {};
+  return {
+    url: ii.thumburl,
+    page: ii.descriptionurl,
+    author: stripHtml(m.Artist?.value).slice(0, 80),
+    license: stripHtml(m.LicenseShortName?.value),
+  };
+}
+
+async function postRussia() {
+  if (data.lastRussiaDate === today()) return console.log("Bugungi Rossiya rasmi allaqachon joylangan.");
+  const places = JSON.parse(fs.readFileSync(path.join(ROOT, "content", "russia.json"), "utf8"));
+  const p = places.find((x) => x.id === data.russiaNext) || places[0];
+
+  const img = await findCommonsImage(p.q);
+  const imgRes = await fetch(img.url, { headers: { "User-Agent": UA } });
+  if (!imgRes.ok) throw new Error(`Rasm yuklanmadi: ${imgRes.status}`);
+  const bytes = await imgRes.arrayBuffer();
+
+  const credit = [img.author, img.license].filter(Boolean).join(", ");
+  const caption = (
+    `🇷🇺 <b>${esc(p.ru)}</b>\n${esc(p.ruText)}\n\n` +
+    `🇺🇿 <b>${esc(p.uz)}</b>\n${esc(p.uzText)}\n\n` +
+    `📷 <a href="${esc(img.page)}">${esc(credit || "Wikimedia Commons")}</a> / Wikimedia Commons` +
+    footer()
+  ).slice(0, 1024);
+
+  const form = new FormData();
+  form.append("chat_id", CHANNEL);
+  form.append("caption", caption);
+  form.append("parse_mode", "HTML");
+  form.append("photo", new Blob([bytes], { type: "image/jpeg" }), "russia.jpg");
+  await tg("sendPhoto", form, true);
+
+  data.lastRussiaDate = today();
+  data.russiaNext = p.id >= places.length ? 1 : p.id + 1;
+  saveData();
+  console.log(`Rossiya rasmi №${p.id} (${p.ru}) joylandi: ${img.page}`);
+}
+
 (async () => {
+  if (process.argv[2] === "russia-test") {
+    // Kanalga yubormasdan, faqat rasm topilishini tekshiradi
+    const places = JSON.parse(fs.readFileSync(path.join(ROOT, "content", "russia.json"), "utf8"));
+    for (const p of places) {
+      try {
+        const img = await findCommonsImage(p.q);
+        console.log(`✅ ${p.id}. ${p.ru} → ${img.page}`);
+        await sleep(1500);
+      } catch (e) {
+        console.log(`❌ ${p.id}. ${p.ru} → ${e.message}`);
+      }
+    }
+    return;
+  }
   if (!BOT_TOKEN || !CHANNEL) {
     console.error("BOT_TOKEN yoki CHANNEL topilmadi. GitHub Secrets'ni tekshiring.");
     process.exit(1);
@@ -135,8 +222,9 @@ async function postQuiz() {
   const mode = process.argv[2];
   if (mode === "words") await postWords();
   else if (mode === "quiz") await postQuiz();
+  else if (mode === "russia") await postRussia();
   else {
-    console.error("Ishlatish: node run.js words | quiz");
+    console.error("Ishlatish: node run.js words | quiz | russia");
     process.exit(1);
   }
 })().catch((e) => {
