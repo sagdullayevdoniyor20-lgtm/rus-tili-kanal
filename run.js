@@ -173,6 +173,9 @@ async function postRussia() {
   if (data.lastRussiaDate === today()) return console.log("Bugungi Rossiya rasmi allaqachon joylangan.");
   const places = JSON.parse(fs.readFileSync(path.join(ROOT, "content", "russia.json"), "utf8"));
   const p = places.find((x) => x.id === data.russiaNext) || places[0];
+  // Har 30 kunlik aylanishda boshqa matn: 1-aylanish — 1-matn, 2-si — 2-matn, ...
+  const round = data.russiaRound || 0;
+  const m = p.matnlar[round % p.matnlar.length];
 
   const img = await findCommonsImage(p.q);
   const imgRes = await fetch(img.url, { headers: { "User-Agent": UA } });
@@ -181,8 +184,8 @@ async function postRussia() {
 
   const credit = [img.author, img.license].filter(Boolean).join(", ");
   const caption = (
-    `🇷🇺 <b>${esc(p.ru)}</b>\n${esc(p.ruText)}\n\n` +
-    `🇺🇿 <b>${esc(p.uz)}</b>\n${esc(p.uzText)}\n\n` +
+    `🇷🇺 <b>${esc(p.ru)}</b>\n${esc(m.ru)}\n\n` +
+    `🇺🇿 <b>${esc(p.uz)}</b>\n${esc(m.uz)}\n\n` +
     `📷 <a href="${esc(img.page)}">${esc(credit || "Wikimedia Commons")}</a> / Wikimedia Commons` +
     footer()
   ).slice(0, 1024);
@@ -196,8 +199,9 @@ async function postRussia() {
 
   data.lastRussiaDate = today();
   data.russiaNext = p.id >= places.length ? 1 : p.id + 1;
+  if (p.id >= places.length) data.russiaRound = round + 1; // ro'yxat tugadi — keyingi aylanishda keyingi matn
   saveData();
-  console.log(`Rossiya rasmi №${p.id} (${p.ru}) joylandi: ${img.page}`);
+  console.log(`Rossiya rasmi №${p.id} (${p.ru}), ${(round % p.matnlar.length) + 1}-matn joylandi: ${img.page}`);
 }
 
 (async () => {

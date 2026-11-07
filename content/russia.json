@@ -1,32 +1,182 @@
 [
-  { "id": 1, "ru": "Красная площадь", "uz": "Qizil maydon", "q": "Red Square Moscow", "ruText": "Красная площадь — главная площадь Москвы. Рядом стоят Кремль и собор Василия Блаженного.", "uzText": "Qizil maydon — Moskvaning bosh maydoni. Uning yonida Kreml va Vasiliy Blajenniy sobori turadi." },
-  { "id": 2, "ru": "Собор Василия Блаженного", "uz": "Vasiliy Blajenniy sobori", "q": "Saint Basil's Cathedral", "ruText": "Этот собор построили в XVI веке. Его разноцветные купола знает весь мир.", "uzText": "Bu sobor XVI asrda qurilgan. Uning rang-barang gumbazlarini butun dunyo biladi." },
-  { "id": 3, "ru": "Московский Кремль", "uz": "Moskva Kremli", "q": "Moscow Kremlin", "ruText": "Кремль — старая крепость в центре Москвы. Сегодня здесь работает президент России.", "uzText": "Kreml — Moskva markazidagi qadimiy qal'a. Bugun bu yerda Rossiya prezidenti ishlaydi." },
-  { "id": 4, "ru": "Эрмитаж", "uz": "Ermitaj", "q": "Winter Palace Hermitage Saint Petersburg", "ruText": "Эрмитаж в Санкт-Петербурге — один из самых больших музеев мира. Он находится в Зимнем дворце.", "uzText": "Sankt-Peterburgdagi Ermitaj — dunyodagi eng katta muzeylardan biri. U Qishki saroyda joylashgan." },
-  { "id": 5, "ru": "Петергоф", "uz": "Petergof", "q": "Peterhof Grand Cascade fountains", "ruText": "Петергоф — дворец и парк у Финского залива. Здесь больше ста пятидесяти фонтанов.", "uzText": "Petergof — Fin ko'rfazi yonidagi saroy va bog'. Bu yerda bir yuz ellikdan ortiq favvora bor." },
-  { "id": 6, "ru": "Исаакиевский собор", "uz": "Isaakiy sobori", "q": "Saint Isaac's Cathedral Saint Petersburg", "ruText": "Исаакиевский собор — самый большой храм Санкт-Петербурга. С его колоннады виден весь город.", "uzText": "Isaakiy sobori — Sankt-Peterburgdagi eng katta ibodatxona. Uning ustunli ayvonidan butun shahar ko'rinadi." },
-  { "id": 7, "ru": "Озеро Байкал", "uz": "Baykal ko'li", "q": "Lake Baikal", "ruText": "Байкал — самое глубокое озеро на Земле. Вода в нём очень чистая и прозрачная.", "uzText": "Baykal — Yer yuzidagi eng chuqur ko'l. Uning suvi juda toza va tiniq." },
-  { "id": 8, "ru": "Казанский Кремль", "uz": "Qozon Kremli", "q": "Kazan Kremlin", "ruText": "Казанский Кремль находится в столице Татарстана. Здесь рядом стоят мечеть и православный собор.", "uzText": "Qozon Kremli Tatariston poytaxtida joylashgan. Bu yerda masjid va pravoslav sobori yonma-yon turadi." },
-  { "id": 9, "ru": "Мечеть Кул-Шариф", "uz": "Qul Sharif masjidi", "q": "Kul Sharif Mosque Kazan", "ruText": "Мечеть Кул-Шариф — символ Казани. Она особенно красива вечером, когда горят огни.", "uzText": "Qul Sharif masjidi — Qozonning ramzi. U ayniqsa kechqurun, chiroqlar yonganda chiroyli bo'ladi." },
-  { "id": 10, "ru": "Эльбрус", "uz": "Elbrus", "q": "Mount Elbrus", "ruText": "Эльбрус — самая высокая гора России и Европы. Её высота 5642 метра.", "uzText": "Elbrus — Rossiya va Yevropadagi eng baland tog'. Uning balandligi 5642 metr." },
-  { "id": 11, "ru": "Долина гейзеров", "uz": "Geyzerlar vodiysi", "q": "Valley of Geysers Kamchatka", "ruText": "Долина гейзеров находится на Камчатке. Из земли здесь бьют фонтаны горячей воды.", "uzText": "Geyzerlar vodiysi Kamchatkada joylashgan. Bu yerda yer ostidan issiq suv favvoralari otilib chiqadi." },
-  { "id": 12, "ru": "Ключевская сопка", "uz": "Klyuchevskaya sopka", "q": "Klyuchevskaya Sopka volcano", "ruText": "Ключевская сопка — самый высокий действующий вулкан Евразии. Он находится на Камчатке.", "uzText": "Klyuchevskaya sopka — Yevroosiyodagi eng baland faol vulqon. U Kamchatkada joylashgan." },
-  { "id": 13, "ru": "Кижи", "uz": "Kiji", "q": "Kizhi Pogost church", "ruText": "На острове Кижи стоят старые деревянные церкви. Их построили без единого гвоздя.", "uzText": "Kiji orolida qadimiy yog'och cherkovlar turibdi. Ular birorta ham mixsiz qurilgan." },
-  { "id": 14, "ru": "Сочи", "uz": "Sochi", "q": "Sochi Black Sea coast", "ruText": "Сочи — город на берегу Чёрного моря. Летом сюда приезжают отдыхать миллионы людей.", "uzText": "Sochi — Qora dengiz sohilidagi shahar. Yozda bu yerga millionlab odamlar dam olishga keladi." },
-  { "id": 15, "ru": "Владивосток", "uz": "Vladivostok", "q": "Golden Bridge Vladivostok", "ruText": "Владивосток — большой порт на Тихом океане. Здесь заканчивается Транссибирская магистраль.", "uzText": "Vladivostok — Tinch okeanidagi katta port. Transsibir temir yo'li shu yerda tugaydi." },
-  { "id": 16, "ru": "Мамаев курган", "uz": "Mamayev qo'rg'oni", "q": "The Motherland Calls Volgograd", "ruText": "В Волгограде стоит памятник «Родина-мать зовёт!». Он посвящён Сталинградской битве.", "uzText": "Volgogradda «Ona-Vatan chorlaydi!» haykali turibdi. U Stalingrad jangiga bag'ishlangan." },
-  { "id": 17, "ru": "Троице-Сергиева лавра", "uz": "Troitse-Sergiyev lavrasi", "q": "Trinity Lavra of St. Sergius", "ruText": "Лавра находится в городе Сергиев Посад. Это один из главных монастырей России.", "uzText": "Lavra Sergiyev Posad shahrida joylashgan. Bu Rossiyaning asosiy monastirlaridan biri." },
-  { "id": 18, "ru": "Суздаль", "uz": "Suzdal", "q": "Suzdal", "ruText": "Суздаль — маленький старинный город. В нём много церквей и деревянных домов.", "uzText": "Suzdal — kichik qadimiy shahar. Unda cherkovlar va yog'och uylar ko'p." },
-  { "id": 19, "ru": "Нижний Новгород", "uz": "Nijniy Novgorod", "q": "\"Nizhny Novgorod\" Kremlin", "ruText": "Нижний Новгород стоит там, где Ока впадает в Волгу. Над рекой возвышается красный Кремль.", "uzText": "Nijniy Novgorod Oka daryosi Volgaga quyiladigan joyda joylashgan. Daryo ustida qizil Kreml qad ko'targan." },
-  { "id": 20, "ru": "Маньпупунёр", "uz": "Manpupunyor", "q": "Manpupuner rock formations", "ruText": "Маньпупунёр — семь каменных столбов на Северном Урале. Их называют чудом России.", "uzText": "Manpupunyor — Shimoliy Uraldagi yettita tosh ustun. Ularni Rossiya mo'jizasi deb atashadi." },
-  { "id": 21, "ru": "Северное сияние", "uz": "Qutb yog'dusi", "q": "aurora borealis Murmansk", "ruText": "Зимой на севере России можно увидеть северное сияние. Небо светится зелёным цветом.", "uzText": "Qishda Rossiyaning shimolida qutb yog'dusini ko'rish mumkin. Osmon yashil rangda nur sochadi." },
-  { "id": 22, "ru": "Москва-Сити", "uz": "Moskva-Siti", "q": "Moscow International Business Center", "ruText": "Москва-Сити — деловой район с высокими небоскрёбами. Здесь находятся офисы больших компаний.", "uzText": "Moskva-Siti — baland osmono'par binolari bor ishbilarmonlik tumani. Bu yerda katta kompaniyalarning ofislari joylashgan." },
-  { "id": 23, "ru": "Большой театр", "uz": "Katta teatr", "q": "Bolshoi Theatre Moscow", "ruText": "Большой театр — знаменитый театр оперы и балета в Москве. Ему больше двухсот лет.", "uzText": "Katta teatr — Moskvadagi mashhur opera va balet teatri. Uning yoshi ikki yuz yildan oshgan." },
-  { "id": 24, "ru": "Третьяковская галерея", "uz": "Tretyakov galereyasi", "q": "Tretyakov Gallery", "ruText": "В Третьяковской галерее хранятся картины русских художников. Это главный музей русского искусства.", "uzText": "Tretyakov galereyasida rus rassomlarining rasmlari saqlanadi. Bu rus san'atining bosh muzeyi." },
-  { "id": 25, "ru": "Транссибирская магистраль", "uz": "Transsibir temir yo'li", "q": "Trans-Siberian Railway train", "ruText": "Транссиб — самая длинная железная дорога в мире. Поезд из Москвы во Владивосток идёт почти семь дней.", "uzText": "Transsib — dunyodagi eng uzun temir yo'l. Moskvadan Vladivostokka poyezd qariyb yetti kun yuradi." },
-  { "id": 26, "ru": "Плато Путорана", "uz": "Putorana platosi", "q": "Putorana Plateau", "ruText": "Плато Путорана находится в Сибири. Здесь много водопадов, озёр и высоких скал.", "uzText": "Putorana platosi Sibirda joylashgan. Bu yerda sharsharalar, ko'llar va baland qoyalar ko'p." },
-  { "id": 27, "ru": "Куршская коса", "uz": "Kurshskaya kosa", "q": "Curonian Spit dunes", "ruText": "Куршская коса — узкая полоса песка между морем и заливом. Здесь растёт «танцующий лес».", "uzText": "Kurshskaya kosa — dengiz bilan ko'rfaz orasidagi tor qum yo'lagi. Bu yerda «raqsga tushayotgan o'rmon» o'sadi." },
-  { "id": 28, "ru": "Ленские столбы", "uz": "Lena ustunlari", "q": "Lena Pillars", "ruText": "Ленские столбы — высокие скалы на берегу реки Лены в Якутии. Они похожи на каменный город.", "uzText": "Lena ustunlari — Yoqutistonda Lena daryosi bo'yidagi baland qoyalar. Ular tosh shaharga o'xshaydi." },
-  { "id": 29, "ru": "Новосибирский оперный театр", "uz": "Novosibirsk opera teatri", "q": "Novosibirsk Opera and Ballet Theatre", "ruText": "Новосибирск — самый большой город Сибири. Его оперный театр — самый большой в России.", "uzText": "Novosibirsk — Sibirdagi eng katta shahar. Uning opera teatri Rossiyadagi eng kattasi." },
-  { "id": 30, "ru": "Калининград", "uz": "Kaliningrad", "q": "Königsberg Cathedral Kaliningrad", "ruText": "Калининград — самый западный город России. Здесь находится могила философа Иммануила Канта.", "uzText": "Kaliningrad — Rossiyaning eng g'arbiy shahri. Bu yerda faylasuf Immanuil Kantning qabri bor." }
+  { "id": 1, "ru": "Красная площадь", "uz": "Qizil maydon", "q": "Red Square Moscow",
+    "matnlar": [
+      { "ru": "Красная площадь — главная площадь Москвы. Рядом стоят Кремль и собор Василия Блаженного.", "uz": "Qizil maydon — Moskvaning bosh maydoni. Uning yonida Kreml va Vasiliy Blajenniy sobori turadi." },
+      { "ru": "Каждый год 9 мая на Красной площади проходит парад Победы.", "uz": "Har yili 9-may kuni Qizil maydonda G'alaba paradi o'tadi." },
+      { "ru": "В старом русском языке слово «красная» значило «красивая». Поэтому площадь так называется.", "uz": "Qadimgi rus tilida «krasnaya» so'zi «chiroyli» degan ma'noni bildirgan. Maydon nomi shundan kelib chiqqan." }
+    ] },
+  { "id": 2, "ru": "Собор Василия Блаженного", "uz": "Vasiliy Blajenniy sobori", "q": "Saint Basil's Cathedral",
+    "matnlar": [
+      { "ru": "Этот собор построили в XVI веке. Его разноцветные купола знает весь мир.", "uz": "Bu sobor XVI asrda qurilgan. Uning rang-barang gumbazlarini butun dunyo biladi." },
+      { "ru": "Собор стоит на Красной площади. Сегодня в нём находится музей.", "uz": "Sobor Qizil maydonda turibdi. Bugun uning ichida muzey joylashgan." },
+      { "ru": "Собор построили по приказу царя Ивана Грозного. Внутри него несколько небольших церквей.", "uz": "Sobor podshoh Ivan Grozniy buyrug'i bilan qurilgan. Uning ichida bir nechta kichik cherkov bor." }
+    ] },
+  { "id": 3, "ru": "Московский Кремль", "uz": "Moskva Kremli", "q": "Moscow Kremlin",
+    "matnlar": [
+      { "ru": "Кремль — старая крепость в центре Москвы. Сегодня здесь работает президент России.", "uz": "Kreml — Moskva markazidagi qadimiy qal'a. Bugun bu yerda Rossiya prezidenti ishlaydi." },
+      { "ru": "На башне Кремля есть большие часы — куранты. В Новый год вся страна слушает их бой.", "uz": "Kreml minorasida katta soat — kurantlar bor. Yangi yil kechasi butun mamlakat ularning zarbini tinglaydi." },
+      { "ru": "Стены Кремля красного цвета. В них двадцать башен.", "uz": "Kreml devorlari qizil rangda. Ularda yigirmata minora bor." }
+    ] },
+  { "id": 4, "ru": "Эрмитаж", "uz": "Ermitaj", "q": "Winter Palace Hermitage Saint Petersburg",
+    "matnlar": [
+      { "ru": "Эрмитаж в Санкт-Петербурге — один из самых больших музеев мира. Он находится в Зимнем дворце.", "uz": "Sankt-Peterburgdagi Ermitaj — dunyodagi eng katta muzeylardan biri. U Qishki saroyda joylashgan." },
+      { "ru": "В Эрмитаже больше трёх миллионов экспонатов.", "uz": "Ermitajda uch milliondan ortiq eksponat bor." },
+      { "ru": "В Эрмитаже живут кошки. Они охраняют музей от мышей.", "uz": "Ermitajda mushuklar yashaydi. Ular muzeyni sichqonlardan qo'riqlaydi." }
+    ] },
+  { "id": 5, "ru": "Петергоф", "uz": "Petergof", "q": "Peterhof Grand Cascade fountains",
+    "matnlar": [
+      { "ru": "Петергоф — дворец и парк у Финского залива. Здесь больше ста пятидесяти фонтанов.", "uz": "Petergof — Fin ko'rfazi yonidagi saroy va bog'. Bu yerda bir yuz ellikdan ortiq favvora bor." },
+      { "ru": "Петергоф построили по приказу Петра Первого. Его называют «русским Версалем».", "uz": "Petergof Pyotr I buyrug'i bilan qurilgan. Uni «rus Versali» deb atashadi." },
+      { "ru": "Фонтаны Петергофа работают без насосов. Вода сама течёт с высоких мест.", "uz": "Petergof favvoralari nasossiz ishlaydi. Suv baland joylardan o'zi oqib keladi." }
+    ] },
+  { "id": 6, "ru": "Исаакиевский собор", "uz": "Isaakiy sobori", "q": "Saint Isaac's Cathedral Saint Petersburg",
+    "matnlar": [
+      { "ru": "Исаакиевский собор — самый большой храм Санкт-Петербурга. С его колоннады виден весь город.", "uz": "Isaakiy sobori — Sankt-Peterburgdagi eng katta ibodatxona. Uning ustunli ayvonidan butun shahar ko'rinadi." },
+      { "ru": "Собор строили сорок лет.", "uz": "Sobor qirq yil davomida qurilgan." },
+      { "ru": "Купол собора покрыт золотом. Его видно издалека.", "uz": "Sobor gumbazi oltin bilan qoplangan. U uzoqdan ko'rinib turadi." }
+    ] },
+  { "id": 7, "ru": "Озеро Байкал", "uz": "Baykal ko'li", "q": "Lake Baikal",
+    "matnlar": [
+      { "ru": "Байкал — самое глубокое озеро на Земле. Вода в нём очень чистая и прозрачная.", "uz": "Baykal — Yer yuzidagi eng chuqur ko'l. Uning suvi juda toza va tiniq." },
+      { "ru": "Зимой лёд на Байкале очень толстый. По нему даже ездят машины.", "uz": "Qishda Baykaldagi muz juda qalin bo'ladi. Uning ustida hatto mashinalar yuradi." },
+      { "ru": "В Байкале живёт нерпа. Этот тюлень живёт только здесь.", "uz": "Baykalda nerpa yashaydi. Bu tyulen faqat shu yerda yashaydi." }
+    ] },
+  { "id": 8, "ru": "Казанский Кремль", "uz": "Qozon Kremli", "q": "Kazan Kremlin",
+    "matnlar": [
+      { "ru": "Казанский Кремль находится в столице Татарстана. Здесь рядом стоят мечеть и православный собор.", "uz": "Qozon Kremli Tatariston poytaxtida joylashgan. Bu yerda masjid va pravoslav sobori yonma-yon turadi." },
+      { "ru": "Казанский Кремль входит в список ЮНЕСКО.", "uz": "Qozon Kremli YUNESKO ro'yxatiga kiritilgan." },
+      { "ru": "В Кремле стоит башня Сююмбике. Она немного наклонена, как Пизанская башня.", "uz": "Kremlda Syuyumbike minorasi bor. U Piza minorasi kabi biroz qiyshaygan." }
+    ] },
+  { "id": 9, "ru": "Мечеть Кул-Шариф", "uz": "Qul Sharif masjidi", "q": "Kul Sharif Mosque Kazan",
+    "matnlar": [
+      { "ru": "Мечеть Кул-Шариф — символ Казани. Она особенно красива вечером, когда горят огни.", "uz": "Qul Sharif masjidi — Qozonning ramzi. U ayniqsa kechqurun, chiroqlar yonganda chiroyli bo'ladi." },
+      { "ru": "Мечеть открыли в 2005 году, когда Казани исполнилась тысяча лет.", "uz": "Masjid 2005-yilda, Qozonning ming yilligida ochilgan." },
+      { "ru": "Мечеть названа в честь имама Кул-Шарифа. Он защищал Казань в 1552 году.", "uz": "Masjid imom Qul Sharif sharafiga nomlangan. U 1552-yilda Qozonni himoya qilgan." }
+    ] },
+  { "id": 10, "ru": "Эльбрус", "uz": "Elbrus", "q": "Mount Elbrus",
+    "matnlar": [
+      { "ru": "Эльбрус — самая высокая гора России и Европы. Её высота 5642 метра.", "uz": "Elbrus — Rossiya va Yevropadagi eng baland tog'. Uning balandligi 5642 metr." },
+      { "ru": "Эльбрус — это старый вулкан. У него две вершины.", "uz": "Elbrus — qadimiy vulqon. Uning ikkita cho'qqisi bor." },
+      { "ru": "Зимой на Эльбрус приезжают кататься на лыжах.", "uz": "Qishda Elbrusga chang'i uchish uchun kelishadi." }
+    ] },
+  { "id": 11, "ru": "Долина гейзеров", "uz": "Geyzerlar vodiysi", "q": "Valley of Geysers Kamchatka",
+    "matnlar": [
+      { "ru": "Долина гейзеров находится на Камчатке. Из земли здесь бьют фонтаны горячей воды.", "uz": "Geyzerlar vodiysi Kamchatkada joylashgan. Bu yerda yer ostidan issiq suv favvoralari otilib chiqadi." },
+      { "ru": "Долину гейзеров открыли в 1941 году.", "uz": "Geyzerlar vodiysi 1941-yilda kashf etilgan." },
+      { "ru": "Туристы прилетают в долину на вертолёте. Дорог туда нет.", "uz": "Sayyohlar vodiyga vertolyotda uchib kelishadi. U yerga yo'l yo'q." }
+    ] },
+  { "id": 12, "ru": "Ключевская сопка", "uz": "Klyuchevskaya sopka", "q": "Klyuchevskaya Sopka volcano",
+    "matnlar": [
+      { "ru": "Ключевская сопка — самый высокий действующий вулкан Евразии. Он находится на Камчатке.", "uz": "Klyuchevskaya sopka — Yevroosiyodagi eng baland faol vulqon. U Kamchatkada joylashgan." },
+      { "ru": "Высота вулкана почти 4800 метров.", "uz": "Vulqonning balandligi qariyb 4800 metr." },
+      { "ru": "Вулкан часто извергается. Тогда в небо поднимаются пепел и дым.", "uz": "Vulqon tez-tez otilib turadi. Shunda osmonga kul va tutun ko'tariladi." }
+    ] },
+  { "id": 13, "ru": "Кижи", "uz": "Kiji", "q": "Kizhi Pogost church",
+    "matnlar": [
+      { "ru": "На острове Кижи стоят старые деревянные церкви. Их построили без единого гвоздя.", "uz": "Kiji orolida qadimiy yog'och cherkovlar turibdi. Ular birorta ham mixsiz qurilgan." },
+      { "ru": "Кижи находятся на Онежском озере в Карелии.", "uz": "Kiji Kareliyadagi Onega ko'lida joylashgan." },
+      { "ru": "У главной церкви Кижей двадцать два купола.", "uz": "Kijidagi bosh cherkovning yigirma ikkita gumbazi bor." }
+    ] },
+  { "id": 14, "ru": "Сочи", "uz": "Sochi", "q": "Sochi Black Sea coast",
+    "matnlar": [
+      { "ru": "Сочи — город на берегу Чёрного моря. Летом сюда приезжают отдыхать миллионы людей.", "uz": "Sochi — Qora dengiz sohilidagi shahar. Yozda bu yerga millionlab odamlar dam olishga keladi." },
+      { "ru": "В 2014 году в Сочи прошли зимние Олимпийские игры.", "uz": "2014-yilda Sochida qishki Olimpiya o'yinlari o'tgan." },
+      { "ru": "В Сочи есть и море, и горы. Здесь растут пальмы.", "uz": "Sochida ham dengiz, ham tog'lar bor. Bu yerda palmalar o'sadi." }
+    ] },
+  { "id": 15, "ru": "Владивосток", "uz": "Vladivostok", "q": "Golden Bridge Vladivostok",
+    "matnlar": [
+      { "ru": "Владивосток — большой порт на Тихом океане. Здесь заканчивается Транссибирская магистраль.", "uz": "Vladivostok — Tinch okeanidagi katta port. Transsibir temir yo'li shu yerda tugaydi." },
+      { "ru": "Название города значит «владей Востоком».", "uz": "Shahar nomi «Sharqqa egalik qil» degan ma'noni bildiradi." },
+      { "ru": "Из Владивостока совсем близко до Японии и Кореи.", "uz": "Vladivostokdan Yaponiya va Koreyagacha juda yaqin." }
+    ] },
+  { "id": 16, "ru": "Мамаев курган", "uz": "Mamayev qo'rg'oni", "q": "The Motherland Calls Volgograd",
+    "matnlar": [
+      { "ru": "В Волгограде стоит памятник «Родина-мать зовёт!». Он посвящён Сталинградской битве.", "uz": "Volgogradda «Ona-Vatan chorlaydi!» haykali turibdi. U Stalingrad jangiga bag'ishlangan." },
+      { "ru": "Высота памятника вместе с мечом — 85 метров.", "uz": "Haykalning qilichi bilan birga balandligi 85 metr." },
+      { "ru": "Чтобы подняться к памятнику, нужно пройти двести ступеней.", "uz": "Haykalga chiqish uchun ikki yuzta zinapoyadan o'tish kerak." }
+    ] },
+  { "id": 17, "ru": "Троице-Сергиева лавра", "uz": "Troitse-Sergiyev lavrasi", "q": "Trinity Lavra of St. Sergius",
+    "matnlar": [
+      { "ru": "Лавра находится в городе Сергиев Посад. Это один из главных монастырей России.", "uz": "Lavra Sergiyev Posad shahrida joylashgan. Bu Rossiyaning asosiy monastirlaridan biri." },
+      { "ru": "Лавру основал Сергий Радонежский в XIV веке.", "uz": "Lavraga XIV asrda Sergiy Radonejskiy asos solgan." },
+      { "ru": "Сергиев Посад входит в «Золотое кольцо» России.", "uz": "Sergiyev Posad Rossiyaning «Oltin halqa»siga kiradi." }
+    ] },
+  { "id": 18, "ru": "Суздаль", "uz": "Suzdal", "q": "Suzdal",
+    "matnlar": [
+      { "ru": "Суздаль — маленький старинный город. В нём много церквей и деревянных домов.", "uz": "Suzdal — kichik qadimiy shahar. Unda cherkovlar va yog'och uylar ko'p." },
+      { "ru": "Суздаль входит в «Золотое кольцо». Это старинные города вокруг Москвы.", "uz": "Suzdal «Oltin halqa»ga kiradi. Bu Moskva atrofidagi qadimiy shaharlar." },
+      { "ru": "Каждое лето в Суздале проходит праздник огурца.", "uz": "Har yozda Suzdalda bodring bayrami o'tadi." }
+    ] },
+  { "id": 19, "ru": "Нижний Новгород", "uz": "Nijniy Novgorod", "q": "\"Nizhny Novgorod\" Kremlin",
+    "matnlar": [
+      { "ru": "Нижний Новгород стоит там, где Ока впадает в Волгу. Над рекой возвышается красный Кремль.", "uz": "Nijniy Novgorod Oka daryosi Volgaga quyiladigan joyda joylashgan. Daryo ustida qizil Kreml qad ko'targan." },
+      { "ru": "От Кремля к Волге ведёт Чкаловская лестница. В ней больше пятисот ступеней.", "uz": "Kremldan Volgaga Chkalov zinapoyasi tushadi. Unda besh yuzdan ortiq zina bor." },
+      { "ru": "Нижний Новгород основали в 1221 году.", "uz": "Nijniy Novgorod 1221-yilda asos solingan." }
+    ] },
+  { "id": 20, "ru": "Маньпупунёр", "uz": "Manpupunyor", "q": "Manpupuner rock formations",
+    "matnlar": [
+      { "ru": "Маньпупунёр — семь каменных столбов на Северном Урале. Их называют чудом России.", "uz": "Manpupunyor — Shimoliy Uraldagi yettita tosh ustun. Ularni Rossiya mo'jizasi deb atashadi." },
+      { "ru": "Высота столбов — от 30 до 42 метров.", "uz": "Ustunlarning balandligi 30 metrdan 42 metrgacha." },
+      { "ru": "Добраться сюда трудно: можно прийти пешком или прилететь на вертолёте.", "uz": "Bu yerga yetib kelish qiyin: piyoda kelish yoki vertolyotda uchib kelish mumkin." }
+    ] },
+  { "id": 21, "ru": "Северное сияние", "uz": "Qutb yog'dusi", "q": "aurora borealis Murmansk",
+    "matnlar": [
+      { "ru": "Зимой на севере России можно увидеть северное сияние. Небо светится зелёным цветом.", "uz": "Qishda Rossiyaning shimolida qutb yog'dusini ko'rish mumkin. Osmon yashil rangda nur sochadi." },
+      { "ru": "Лучшее время для северного сияния — с сентября по март.", "uz": "Qutb yog'dusini ko'rish uchun eng yaxshi vaqt — sentabrdan martgacha." },
+      { "ru": "Северное сияние бывает зелёным, розовым и фиолетовым.", "uz": "Qutb yog'dusi yashil, pushti va binafsha rangda bo'ladi." }
+    ] },
+  { "id": 22, "ru": "Москва-Сити", "uz": "Moskva-Siti", "q": "Moscow International Business Center",
+    "matnlar": [
+      { "ru": "Москва-Сити — деловой район с высокими небоскрёбами. Здесь находятся офисы больших компаний.", "uz": "Moskva-Siti — baland osmono'par binolari bor ishbilarmonlik tumani. Bu yerda katta kompaniyalarning ofislari joylashgan." },
+      { "ru": "Башни Москва-Сити — одни из самых высоких зданий Европы.", "uz": "Moskva-Siti minoralari — Yevropadagi eng baland binolardan." },
+      { "ru": "Вечером башни Москва-Сити светятся огнями.", "uz": "Kechqurun Moskva-Siti minoralari chiroqlar bilan nur sochadi." }
+    ] },
+  { "id": 23, "ru": "Большой театр", "uz": "Katta teatr", "q": "Bolshoi Theatre Moscow",
+    "matnlar": [
+      { "ru": "Большой театр — знаменитый театр оперы и балета в Москве. Ему больше двухсот лет.", "uz": "Katta teatr — Moskvadagi mashhur opera va balet teatri. Uning yoshi ikki yuz yildan oshgan." },
+      { "ru": "Над входом в театр стоит колесница с четырьмя конями.", "uz": "Teatr kiraverishining tepasida to'rt otli arava turibdi." },
+      { "ru": "Балет Чайковского «Лебединое озеро» впервые показали именно здесь.", "uz": "Chaykovskiyning «Oqqush ko'li» baleti birinchi marta aynan shu yerda ko'rsatilgan." }
+    ] },
+  { "id": 24, "ru": "Третьяковская галерея", "uz": "Tretyakov galereyasi", "q": "Tretyakov Gallery",
+    "matnlar": [
+      { "ru": "В Третьяковской галерее хранятся картины русских художников. Это главный музей русского искусства.", "uz": "Tretyakov galereyasida rus rassomlarining rasmlari saqlanadi. Bu rus san'atining bosh muzeyi." },
+      { "ru": "Галерею основал купец Павел Третьяков в 1856 году.", "uz": "Galereyaga 1856-yilda savdogar Pavel Tretyakov asos solgan." },
+      { "ru": "Здесь можно увидеть картину «Утро в сосновом лесу» с медведями.", "uz": "Bu yerda ayiqlar tasvirlangan «Qarag'ayzordagi tong» rasmini ko'rish mumkin." }
+    ] },
+  { "id": 25, "ru": "Транссибирская магистраль", "uz": "Transsibir temir yo'li", "q": "Trans-Siberian Railway train",
+    "matnlar": [
+      { "ru": "Транссиб — самая длинная железная дорога в мире. Поезд из Москвы во Владивосток идёт почти семь дней.", "uz": "Transsib — dunyodagi eng uzun temir yo'l. Moskvadan Vladivostokka poyezd qariyb yetti kun yuradi." },
+      { "ru": "Длина Транссиба — больше девяти тысяч километров.", "uz": "Transsibning uzunligi to'qqiz ming kilometrdan ortiq." },
+      { "ru": "Поезд едет через много часовых поясов. Пассажиры часто меняют время на часах.", "uz": "Poyezd ko'plab vaqt mintaqalaridan o'tadi. Yo'lovchilar soatlarini tez-tez o'zgartirishadi." }
+    ] },
+  { "id": 26, "ru": "Плато Путорана", "uz": "Putorana platosi", "q": "Putorana Plateau",
+    "matnlar": [
+      { "ru": "Плато Путорана находится в Сибири. Здесь много водопадов, озёр и высоких скал.", "uz": "Putorana platosi Sibirda joylashgan. Bu yerda sharsharalar, ko'llar va baland qoyalar ko'p." },
+      { "ru": "Плато Путорана находится за Северным полярным кругом.", "uz": "Putorana platosi Shimoliy qutb doirasidan narida joylashgan." },
+      { "ru": "Сюда приходят дикие северные олени.", "uz": "Bu yerga yovvoyi shimol bug'ulari keladi." }
+    ] },
+  { "id": 27, "ru": "Куршская коса", "uz": "Kurshskaya kosa", "q": "Curonian Spit dunes",
+    "matnlar": [
+      { "ru": "Куршская коса — узкая полоса песка между морем и заливом. Здесь растёт «танцующий лес».", "uz": "Kurshskaya kosa — dengiz bilan ko'rfaz orasidagi tor qum yo'lagi. Bu yerda «raqsga tushayotgan o'rmon» o'sadi." },
+      { "ru": "Куршская коса делится между Россией и Литвой.", "uz": "Kurshskaya kosa Rossiya va Litva o'rtasida bo'lingan." },
+      { "ru": "Здесь есть песчаные дюны высотой до шестидесяти метров.", "uz": "Bu yerda balandligi oltmish metrgacha bo'lgan qum tepaliklari bor." }
+    ] },
+  { "id": 28, "ru": "Ленские столбы", "uz": "Lena ustunlari", "q": "Lena Pillars",
+    "matnlar": [
+      { "ru": "Ленские столбы — высокие скалы на берегу реки Лены в Якутии. Они похожи на каменный город.", "uz": "Lena ustunlari — Yoqutistonda Lena daryosi bo'yidagi baland qoyalar. Ular tosh shaharga o'xshaydi." },
+      { "ru": "Ленские столбы входят в список ЮНЕСКО.", "uz": "Lena ustunlari YUNESKO ro'yxatiga kiritilgan." },
+      { "ru": "Зимой здесь очень холодно — минус сорок градусов и ниже.", "uz": "Qishda bu yerda juda sovuq — minus qirq daraja va undan ham past." }
+    ] },
+  { "id": 29, "ru": "Новосибирский оперный театр", "uz": "Novosibirsk opera teatri", "q": "Novosibirsk Opera and Ballet Theatre",
+    "matnlar": [
+      { "ru": "Новосибирск — самый большой город Сибири. Его оперный театр — самый большой в России.", "uz": "Novosibirsk — Sibirdagi eng katta shahar. Uning opera teatri Rossiyadagi eng kattasi." },
+      { "ru": "Новосибирск — третий город России по числу жителей.", "uz": "Novosibirsk aholisi soni bo'yicha Rossiyadagi uchinchi shahar." },
+      { "ru": "Рядом с Новосибирском есть Академгородок — город учёных.", "uz": "Novosibirsk yonida Akademgorodok — olimlar shaharchasi bor." }
+    ] },
+  { "id": 30, "ru": "Калининград", "uz": "Kaliningrad", "q": "Königsberg Cathedral Kaliningrad",
+    "matnlar": [
+      { "ru": "Калининград — самый западный город России. Здесь находится могила философа Иммануила Канта.", "uz": "Kaliningrad — Rossiyaning eng g'arbiy shahri. Bu yerda faylasuf Immanuil Kantning qabri bor." },
+      { "ru": "Раньше Калининград назывался Кёнигсберг.", "uz": "Ilgari Kaliningrad Kyonigsberg deb atalgan." },
+      { "ru": "Здесь находят много янтаря. В городе есть даже Музей янтаря.", "uz": "Bu yerda ko'p qahrabo topiladi. Shaharda hatto Qahrabo muzeyi ham bor." }
+    ] }
 ]

@@ -44,7 +44,7 @@ Shundan keyin bot har kuni o'zi ishlaydi.
 | `images/` | Har bir mavzuning rasmi (`1.png`, `2.png`, ...) |
 | `tools/render.py` | Rasmlarni yasaydigan dastur |
 | `run.js` | Kanalga joylaydigan bot |
-| `content/russia.json` | Rossiyadagi 30 ta joy: nomi, tavsifi (ruscha/o'zbekcha) va rasm qidirish so'zi |
+| `content/russia.json` | Rossiyadagi 30 ta joy: nomi, rasm qidirish so'zi va 3 xil matn (ruscha/o'zbekcha). Har 30 kunda keyingi matn olinadi |
 | `data.json` | Qaysi mavzu navbatda ekani (bot o'zi yangilaydi) |
 | `config.json` | Hashteglar va test vaqti matni |
 
