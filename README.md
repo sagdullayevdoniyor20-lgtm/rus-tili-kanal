@@ -68,3 +68,11 @@ python3 tools/render.py "@kanal_nomi"
 - `47 12 * * *` → 17:47 Toshkent (test)
 
 GitHub ba'zan 5–20 daqiqa kechiktiradi — bu normal.
+
+## Telegram mini ilova
+
+`app/` papkasida so'z kartochkalari va testlar ilovasi bor. U `content/topics.json` dagi mavzulardan foydalanadi, shuning uchun yangi mavzu qo'shilsa, ilovada ham chiqadi.
+
+1. **Settings → Pages** → Branch: `main`, papka: `/ (root)` → Save.
+2. Manzil: `https://sagdullayevdoniyor20-lgtm.github.io/rus-tili-kanal/app/`
+3. @BotFather → botingiz → **Bot Settings → Menu Button** → shu manzil (yoki `/newapp`).

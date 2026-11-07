@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Rus tili — so'zlar va testlar</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* Rus tili kanali: ko'k fon, bayroqlardagi yashil, qizil va oq ranglar */
+    :root {
+      --fon: radial-gradient(circle at 50% 0%, #5cc2ff 0%, #1a7cf0 38%, #0a4fd6 100%);
+      --karta: #ffffff;
+      --matn: #16233d;
+      --xira: #5d6b85;
+      --asosiy: #0b56d8;
+      --orqa-fon: linear-gradient(150deg, #1fb64a 0%, #0f9a3a 100%);
+      --urgu: #e8262b;
+      --urgu-och: #e7f1ff;
+      --ok: #1eb53a;
+      --ok-och: #e6f8ea;
+      --yoq: #e8262b;
+      --yoq-och: #fde8e8;
+    }
+  </style>
+</head>
+<body>
+  <div id="ilova"><div class="yuklanmoqda">Yuklanmoqda…</div></div>
+  <script>
+    // Ma'lumot: content/topics.json (kanal boti ham shundan foydalanadi).
+    window.ILOVA = {
+      nomi: 'Rus tili',
+      shior: "So'zlarni yodlang va o'zingizni sinang",
+      logo: 'logo.webp',
+      til: 'ru-RU',
+      sarlavhaRangi: '#1a7cf0',
+      async yukla() {
+        const javob = await fetch('../content/topics.json', { cache: 'no-cache' });
+        if (!javob.ok) throw new Error(`Mavzular topilmadi (${javob.status})`);
+        const mavzular = await javob.json();
+        return mavzular.map((t) => ({
+          id: `m${t.id}`,
+          nomi: t.uz,
+          izoh: `${t.id}. ${t.ru}`,
+          belgi: t.words[0][0],
+          kartalar: t.words.map(([belgi, ru, uz]) => ({ belgi, old: ru, ovoz: ru, orqa: uz, orqaIzoh: `${belgi} ${ru}` })),
+          savollar: t.quiz,
+        }));
+      },
+    };
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
