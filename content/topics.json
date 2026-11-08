@@ -20,7 +20,7 @@
    [
     "🧀",
     "сыр",
-    "pishloq"
+    "pişloq"
    ],
    [
     "🥚",
@@ -30,7 +30,7 @@
    [
     "🍖",
     "мясо",
-    "go‘sht"
+    "göşt"
    ],
    [
     "🐟",
@@ -40,7 +40,7 @@
    [
     "🍚",
     "рис",
-    "guruch"
+    "guruç"
    ],
    [
     "🍎",
@@ -55,7 +55,7 @@
    [
     "🥔",
     "картошка",
-    "kartoshka"
+    "kartoşka"
    ],
    [
     "🧅",
@@ -85,32 +85,32 @@
      "Yangi non",
      "Issiq non",
      "Qora non",
-     "Shirin non"
+     "Şirin non"
     ],
-    "e": "свежий — yangi, yangi pishgan"
+    "e": "свежий — yangi, yangi pişgan"
    },
    {
-    "q": "«Men sut ichaman» — ruschasi qanday?",
+    "q": "«Men sut içaman» — rusçasi qanday?",
     "o": [
      "Я пью молоко",
      "Я ем молоко",
      "Я пью мясо",
      "Я люблю молоко"
     ],
-    "e": "ichmoq — пить (я пью), yemoq — есть (я ем)"
+    "e": "içmoq — пить (я пью), yemoq — есть (я ем)"
    },
    {
     "q": "«Я ем рыбу» nima degani?",
     "o": [
      "Men baliq yeyman",
-     "Men go‘sht yeyman",
+     "Men göşt yeyman",
      "Men baliq sotib olaman",
      "Men baliq tutaman"
     ],
-    "e": "рыба → рыбу: «nimani?» savoliga javob (tushum kelishigi)"
+    "e": "рыба → рыбу: «nimani?» savoliga javob (tuşum kelişigi)"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Дайте, пожалуйста, два ___» (tuxum)",
+    "q": "Böş joyni töldiring: «Дайте, пожалуйста, два ___» (tuxum)",
     "o": [
      "яйца",
      "яйцо",
@@ -120,64 +120,64 @@
     "e": "два, три, четыре dan keyin: два яйца"
    },
    {
-    "q": "«Kartoshka va piyoz» — ruschasi qanday?",
+    "q": "«Kartoşka va piyoz» — rusçasi qanday?",
     "o": [
      "Картошка и лук",
      "Картошка и морковь",
      "Помидор и лук",
      "Огурец и лук"
     ],
-    "e": "картошка — kartoshka, лук — piyoz, и — va"
+    "e": "картошка — kartoşka, лук — piyoz, и — va"
    },
    {
     "q": "«Сколько стоит мёд?» nima degani?",
     "o": [
-     "Asal qancha turadi?",
+     "Asal qança turadi?",
      "Asal qayerda?",
      "Asal bormi?",
-     "Asal shirinmi?"
+     "Asal şirinmi?"
     ],
-    "e": "Сколько стоит...? — ... qancha turadi?"
+    "e": "Сколько стоит...? — ... qança turadi?"
    },
    {
-    "q": "«Yashil olma» — ruschasi qanday?",
+    "q": "«Yaşil olma» — rusçasi qanday?",
     "o": [
      "Зелёное яблоко",
      "Зелёный яблоко",
      "Зелёная яблоко",
      "Зелёные яблоко"
     ],
-    "e": "яблоко — o‘rta jins, shuning uchun sifat -ое bilan tugaydi"
+    "e": "яблоко — örta jins, şuning uçun sifat -ое bilan tugaydi"
    },
    {
     "q": "«Я не люблю молоко» nima degani?",
     "o": [
      "Men sutni yoqtirmayman",
-     "Men sut ichmayman",
-     "Menda sut yo‘q",
-     "Men sutni yaxshi ko‘raman"
+     "Men sut içmayman",
+     "Menda sut yöq",
+     "Men sutni yaxşi köraman"
     ],
     "e": "не люблю — yoqtirmayman"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я покупаю ___ и сыр» (non)",
+    "q": "Böş joyni töldiring: «Я покупаю ___ и сыр» (non)",
     "o": [
      "хлеб",
      "хлеба",
      "хлебом",
      "хлебе"
     ],
-    "e": "хлеб «nimani?» savoliga javob berganda o‘zgarmaydi"
+    "e": "хлеб «nimani?» savoliga javob berganda özgarmaydi"
    },
    {
     "q": "«На завтрак я ем яйцо и сыр» nima degani?",
     "o": [
-     "Nonushtaga tuxum va pishloq yeyman",
-     "Tushlikka tuxum va pishloq yeyman",
-     "Nonushtaga tuxum va sut ichaman",
-     "Kechki ovqatga tuxum yeyman"
+     "Nonuştaga tuxum va pişloq yeyman",
+     "Tuşlikka tuxum va pişloq yeyman",
+     "Nonuştaga tuxum va sut içaman",
+     "Keçki ovqatga tuxum yeyman"
     ],
-    "e": "завтрак — nonushta, обед — tushlik, ужин — kechki ovqat"
+    "e": "завтрак — nonuşta, обед — tuşlik, ужин — keçki ovqat"
    }
   ]
  },
@@ -202,7 +202,7 @@
    [
     "👦",
     "сын",
-    "o‘g‘il"
+    "öğil"
    ],
    [
     "👧",
@@ -267,7 +267,7 @@
     "e": "мой — erkak jinsi (мой папа), моя — ayol jinsi (моя мама)"
    },
    {
-    "q": "«Mening akam bor» — ruschasi qanday?",
+    "q": "«Mening akam bor» — rusçasi qanday?",
     "o": [
      "У меня есть брат",
      "У меня есть сестра",
@@ -287,7 +287,7 @@
     "e": "Это — bu, отец — ota"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «У меня две ___» (opa-singil)",
+    "q": "Böş joyni töldiring: «У меня две ___» (opa-singil)",
     "o": [
      "сестры",
      "сестра",
@@ -300,14 +300,14 @@
     "q": "«Как зовут твою бабушку?» nima degani?",
     "o": [
      "Buvingning ismi nima?",
-     "Buving necha yoshda?",
-     "Buving qayerda yashaydi?",
+     "Buving neça yoşda?",
+     "Buving qayerda yaşaydi?",
      "Bobongning ismi nima?"
     ],
     "e": "Как зовут...? — ...ning ismi nima?"
    },
    {
-    "q": "«Bizning oila katta» — ruschasi qanday?",
+    "q": "«Bizning oila katta» — rusçasi qanday?",
     "o": [
      "Наша семья большая",
      "Наш семья большой",
@@ -319,15 +319,15 @@
    {
     "q": "«Мой сын учится в школе» nima degani?",
     "o": [
-     "O‘g‘lim maktabda o‘qiydi",
-     "Qizim maktabda o‘qiydi",
-     "O‘g‘lim maktabda ishlaydi",
-     "O‘g‘lim universitetda o‘qiydi"
+     "Öğlim maktabda öqiydi",
+     "Qizim maktabda öqiydi",
+     "Öğlim maktabda işlaydi",
+     "Öğlim universitetda öqiydi"
     ],
-    "e": "учиться — o‘qimoq, школа — maktab"
+    "e": "учиться — öqimoq, школа — maktab"
    },
    {
-    "q": "«Er va xotin» — ruschasi qanday?",
+    "q": "«Er va xotin» — rusçasi qanday?",
     "o": [
      "Муж и жена",
      "Брат и сестра",
@@ -339,15 +339,15 @@
    {
     "q": "«Сколько лет твоему брату?» nima degani?",
     "o": [
-     "Akang necha yoshda?",
+     "Akang neça yoşda?",
      "Akangning ismi nima?",
      "Akang qayerda?",
-     "Akang nima ish qiladi?"
+     "Akang nima iş qiladi?"
     ],
-    "e": "Сколько лет...? — ... necha yoshda?"
+    "e": "Сколько лет...? — ... neça yoşda?"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я люблю ___ родителей» (o‘zimning)",
+    "q": "Böş joyni töldiring: «Я люблю ___ родителей» (özimning)",
     "o": [
      "своих",
      "свои",
@@ -379,7 +379,7 @@
    [
     "🚪",
     "дверь",
-    "eshik"
+    "eşik"
    ],
    [
     "🪟",
@@ -419,7 +419,7 @@
    [
     "💡",
     "лампа",
-    "chiroq"
+    "çiroq"
    ],
    [
     "🪜",
@@ -429,7 +429,7 @@
    [
     "🌳",
     "сад",
-    "bog‘"
+    "boğ"
    ],
    [
     "🧱",
@@ -442,21 +442,21 @@
     "q": "«Большой дом» nima degani?",
     "o": [
      "Katta uy",
-     "Kichik uy",
+     "Kiçik uy",
      "Yangi uy",
      "Eski uy"
     ],
-    "e": "большой — katta, маленький — kichik"
+    "e": "большой — katta, маленький — kiçik"
    },
    {
-    "q": "«Eshikni yoping» — ruschasi qanday?",
+    "q": "«Eşikni yoping» — rusçasi qanday?",
     "o": [
      "Закройте дверь",
      "Откройте дверь",
      "Закройте окно",
      "Откройте окно"
     ],
-    "e": "закрыть — yopmoq, открыть — ochmoq"
+    "e": "закрыть — yopmoq, открыть — oçmoq"
    },
    {
     "q": "«Где ключ?» nima degani?",
@@ -464,22 +464,22 @@
      "Kalit qayerda?",
      "Kalit kimniki?",
      "Kalit bormi?",
-     "Kalit nechta?"
+     "Kalit neçta?"
     ],
     "e": "Где...? — ... qayerda?"
    },
    {
     "q": "«Я живу в квартире» nima degani?",
     "o": [
-     "Men kvartirada yashayman",
-     "Men uyda ishlayman",
+     "Men kvartirada yaşayman",
+     "Men uyda işlayman",
      "Men kvartira sotib oldim",
-     "Men kvartirada ishlayman"
+     "Men kvartirada işlayman"
     ],
-    "e": "жить — yashamoq: я живу"
+    "e": "жить — yaşamoq: я живу"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Кошка спит на ___» (divan)",
+    "q": "Böş joyni töldiring: «Кошка спит на ___» (divan)",
     "o": [
      "диване",
      "диван",
@@ -489,7 +489,7 @@
     "e": "на + qayerda? → -е: на диване"
    },
    {
-    "q": "«Derazani oching, iltimos» — ruschasi qanday?",
+    "q": "«Derazani oçing, iltimos» — rusçasi qanday?",
     "o": [
      "Откройте, пожалуйста, окно",
      "Закройте, пожалуйста, окно",
@@ -501,15 +501,15 @@
    {
     "q": "«В комнате темно» nima degani?",
     "o": [
-     "Xonada qorong‘i",
+     "Xonada qoronği",
      "Xonada issiq",
      "Xonada sovuq",
-     "Xonada yorug‘"
+     "Xonada yoruğ"
     ],
-    "e": "темно — qorong‘i, светло — yorug‘"
+    "e": "темно — qoronği, светло — yoruğ"
    },
    {
-    "q": "«Hojatxona qayerda?» — ruschasi qanday?",
+    "q": "«Hojatxona qayerda?» — rusçasi qanday?",
     "o": [
      "Где туалет?",
      "Где ванная?",
@@ -529,7 +529,7 @@
     "e": "У нас... — Bizda ... bor"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я живу на втором ___» (qavat)",
+    "q": "Böş joyni töldiring: «Я живу на втором ___» (qavat)",
     "o": [
      "этаже",
      "этаж",
@@ -543,7 +543,7 @@
  {
   "id": 4,
   "ru": "Одежда",
-  "uz": "Kiyim-kechak",
+  "uz": "Kiyim-keçak",
   "tag": "одежда",
   "color": "#F3E5F5",
   "accent": "#8E24AA",
@@ -556,17 +556,17 @@
    [
     "👖",
     "джинсы",
-    "jinsi shim"
+    "jinsi şim"
    ],
    [
     "👗",
     "платье",
-    "ayollar ko‘ylagi"
+    "ayollar köylagi"
    ],
    [
     "👔",
     "рубашка",
-    "ko‘ylak"
+    "köylak"
    ],
    [
     "🧥",
@@ -591,12 +591,12 @@
    [
     "🧣",
     "шарф",
-    "sharf"
+    "şarf"
    ],
    [
     "🧤",
     "перчатки",
-    "qo‘lqop"
+    "qölqop"
    ],
    [
     "🧢",
@@ -606,12 +606,12 @@
    [
     "👒",
     "шляпа",
-    "shlyapa"
+    "şlyapa"
    ],
    [
     "🩳",
     "шорты",
-    "shortik"
+    "şortik"
    ],
    [
     "👜",
@@ -631,77 +631,77 @@
     "e": "новый — yangi, старый — eski"
    },
    {
-    "q": "«Men jinsi shim kiyib yuraman» — ruschasi qanday?",
+    "q": "«Men jinsi şim kiyib yuraman» — rusçasi qanday?",
     "o": [
      "Я ношу джинсы",
      "Я покупаю джинсы",
      "Я снимаю джинсы",
      "Я ношу шорты"
     ],
-    "e": "носить — kiyib yurmoq, снимать — yechmoq"
+    "e": "носить — kiyib yurmoq, снимать — yeçmoq"
    },
    {
     "q": "«Сколько стоят эти кроссовки?» nima degani?",
     "o": [
-     "Bu krossovkalar qancha turadi?",
+     "Bu krossovkalar qança turadi?",
      "Bu krossovkalar kimniki?",
      "Bu krossovkalar qayerdan?",
      "Bu krossovkalar yangimi?"
     ],
-    "e": "Сколько стоят...? — ... qancha turadi?"
+    "e": "Сколько стоят...? — ... qança turadi?"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Сегодня холодно, надень ___» (sharf)",
+    "q": "Böş joyni töldiring: «Сегодня холодно, надень ___» (şarf)",
     "o": [
      "шарф",
      "шарфа",
      "шарфом",
      "шарфе"
     ],
-    "e": "надеть что? → шарф (o‘zgarmaydi)"
+    "e": "надеть что? → шарф (özgarmaydi)"
    },
    {
-    "q": "«Qizil ayollar ko‘ylagi» — ruschasi qanday?",
+    "q": "«Qizil ayollar köylagi» — rusçasi qanday?",
     "o": [
      "Красное платье",
      "Красный платье",
      "Красная платье",
      "Красные платье"
     ],
-    "e": "платье — o‘rta jins → красное"
+    "e": "платье — örta jins → красное"
    },
    {
     "q": "«Можно примерить?» nima degani?",
     "o": [
-     "Kiyib ko‘rsam bo‘ladimi?",
-     "Sotib olsam bo‘ladimi?",
-     "Qaytarsam bo‘ladimi?",
+     "Kiyib körsam böladimi?",
+     "Sotib olsam böladimi?",
+     "Qaytarsam böladimi?",
      "Bu menga keladimi?"
     ],
-    "e": "примерить — kiyib ko‘rmoq"
+    "e": "примерить — kiyib körmoq"
    },
    {
-    "q": "«Bu menga katta keladi» — ruschasi qanday?",
+    "q": "«Bu menga katta keladi» — rusçasi qanday?",
     "o": [
      "Это мне велико",
      "Это мне мало",
      "Это мне нравится",
      "Это мне идёт"
     ],
-    "e": "велико — katta keladi, мало — kichik keladi"
+    "e": "велико — katta keladi, мало — kiçik keladi"
    },
    {
     "q": "«Где мои носки?» nima degani?",
     "o": [
      "Paypoqlarim qayerda?",
-     "Qo‘lqoplarim qayerda?",
+     "Qölqoplarim qayerda?",
      "Tuflilarim qayerda?",
-     "Paypoqlarim nechta?"
+     "Paypoqlarim neçta?"
     ],
-    "e": "носки — paypoq, перчатки — qo‘lqop"
+    "e": "носки — paypoq, перчатки — qölqop"
    },
    {
-    "q": "«Tufli va sumka» — ruschasi qanday?",
+    "q": "«Tufli va sumka» — rusçasi qanday?",
     "o": [
      "Туфли и сумка",
      "Туфли и шапка",
@@ -713,12 +713,12 @@
    {
     "q": "«Тебе идёт эта рубашка» nima degani?",
     "o": [
-     "Bu ko‘ylak senga yarashadi",
-     "Bu ko‘ylak senga katta",
-     "Bu ko‘ylak senga yoqadi",
-     "Bu ko‘ylak seniki"
+     "Bu köylak senga yaraşadi",
+     "Bu köylak senga katta",
+     "Bu köylak senga yoqadi",
+     "Bu köylak seniki"
     ],
-    "e": "идёт — yarashadi, нравится — yoqadi"
+    "e": "идёт — yaraşadi, нравится — yoqadi"
    }
   ]
  },
@@ -733,7 +733,7 @@
    [
     "🚗",
     "машина",
-    "mashina"
+    "maşina"
    ],
    [
     "🚌",
@@ -783,7 +783,7 @@
    [
     "🛣",
     "дорога",
-    "yo‘l"
+    "yöl"
    ],
    [
     "🚏",
@@ -793,7 +793,7 @@
    [
     "🎫",
     "билет",
-    "chipta"
+    "çipta"
    ],
    [
     "🚉",
@@ -807,13 +807,13 @@
     "o": [
      "Men avtobusda ketyapman",
      "Men avtobusni kutyapman",
-     "Men avtobusda ishlayman",
+     "Men avtobusda işlayman",
      "Men taksida ketyapman"
     ],
     "e": "на + transport → на автобусе, на метро, на такси"
    },
    {
-    "q": "«Bekat qayerda?» — ruschasi qanday?",
+    "q": "«Bekat qayerda?» — rusçasi qanday?",
     "o": [
      "Где остановка?",
      "Где вокзал?",
@@ -825,15 +825,15 @@
    {
     "q": "«Один билет, пожалуйста» nima degani?",
     "o": [
-     "Bitta chipta, iltimos",
-     "Ikkita chipta, iltimos",
-     "Chipta qancha?",
-     "Chipta kerak emas"
+     "Bitta çipta, iltimos",
+     "Ikkita çipta, iltimos",
+     "Çipta qança?",
+     "Çipta kerak emas"
     ],
     "e": "один — bitta, два — ikkita"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Мы летим на ___» (samolyot)",
+    "q": "Böş joyni töldiring: «Мы летим на ___» (samolyot)",
     "o": [
      "самолёте",
      "самолёт",
@@ -843,47 +843,47 @@
     "e": "на + qayerda? → на самолёте"
    },
    {
-    "q": "«Taksi chaqiring» — ruschasi qanday?",
+    "q": "«Taksi çaqiring» — rusçasi qanday?",
     "o": [
      "Вызовите такси",
      "Ждите такси",
      "Купите такси",
      "Остановите такси"
     ],
-    "e": "вызвать — chaqirmoq"
+    "e": "вызвать — çaqirmoq"
    },
    {
     "q": "«Поезд опаздывает» nima degani?",
     "o": [
-     "Poyezd kechikyapti",
+     "Poyezd keçikyapti",
      "Poyezd keldi",
      "Poyezd ketdi",
-     "Poyezd to‘xtadi"
+     "Poyezd töxtadi"
     ],
-    "e": "опаздывать — kechikmoq"
+    "e": "опаздывать — keçikmoq"
    },
    {
-    "q": "«Metroga qanday borsam bo‘ladi?» — ruschasi qanday?",
+    "q": "«Metroga qanday borsam böladi?» — rusçasi qanday?",
     "o": [
      "Как доехать до метро?",
      "Где купить метро?",
      "Когда метро?",
      "Сколько стоит метро?"
     ],
-    "e": "Как доехать до...? — ...ga qanday borsam bo‘ladi?"
+    "e": "Как доехать до...? — ...ga qanday borsam böladi?"
    },
    {
     "q": "«Остановитесь здесь, пожалуйста» nima degani?",
     "o": [
-     "Shu yerda to‘xtang, iltimos",
-     "Shu yerdan buriling, iltimos",
-     "To‘g‘riga yuring, iltimos",
+     "Şu yerda töxtang, iltimos",
+     "Şu yerdan buriling, iltimos",
+     "Töğriga yuring, iltimos",
      "Tezroq yuring, iltimos"
     ],
-    "e": "остановиться — to‘xtamoq, здесь — shu yerda"
+    "e": "остановиться — töxtamoq, здесь — şu yerda"
    },
    {
-    "q": "«Men velosiped haydayman» — ruschasi qanday?",
+    "q": "«Men velosiped haydayman» — rusçasi qanday?",
     "o": [
      "Я катаюсь на велосипеде",
      "Я катаюсь на велосипед",
@@ -895,12 +895,12 @@
    {
     "q": "«Красный свет — стой!» nima degani?",
     "o": [
-     "Qizil chiroq — to‘xta!",
-     "Qizil chiroq — yur!",
-     "Yashil chiroq — to‘xta!",
-     "Sariq chiroq — kut!"
+     "Qizil çiroq — töxta!",
+     "Qizil çiroq — yur!",
+     "Yaşil çiroq — töxta!",
+     "Sariq çiroq — kut!"
     ],
-    "e": "стой — to‘xta, иди — yur"
+    "e": "стой — töxta, иди — yur"
    }
   ]
  },
@@ -920,7 +920,7 @@
    [
     "👁",
     "глаз",
-    "ko‘z"
+    "köz"
    ],
    [
     "👂",
@@ -935,12 +935,12 @@
    [
     "👄",
     "рот",
-    "og‘iz"
+    "oğiz"
    ],
    [
     "🦷",
     "зуб",
-    "tish"
+    "tiş"
    ],
    [
     "👅",
@@ -950,12 +950,12 @@
    [
     "💇",
     "волосы",
-    "soch"
+    "soç"
    ],
    [
     "✋",
     "рука",
-    "qo‘l"
+    "qöl"
    ],
    [
     "👆",
@@ -977,15 +977,15 @@
    {
     "q": "«У меня болит голова» nima degani?",
     "o": [
-     "Boshim og‘riyapti",
-     "Tishim og‘riyapti",
-     "Qornim og‘riyapti",
-     "Boshim aylanyapti"
+     "Boşim oğriyapti",
+     "Tişim oğriyapti",
+     "Qornim oğriyapti",
+     "Boşim aylanyapti"
     ],
-    "e": "У меня болит... — ...im og‘riyapti; голова — bosh"
+    "e": "У меня болит... — ...im oğriyapti; голова — boş"
    },
    {
-    "q": "«Qo‘lingni yuv» — ruschasi qanday?",
+    "q": "«Qölingni yuv» — rusçasi qanday?",
     "o": [
      "Помой руки",
      "Помой ноги",
@@ -997,15 +997,15 @@
    {
     "q": "«Голубые глаза» nima degani?",
     "o": [
-     "Ko‘k ko‘zlar",
-     "Qora ko‘zlar",
-     "Katta ko‘zlar",
-     "Ko‘k sochlar"
+     "Kök közlar",
+     "Qora közlar",
+     "Katta közlar",
+     "Kök soçlar"
     ],
-    "e": "глаза — ko‘zlar (глаз — ko‘z)"
+    "e": "глаза — közlar (глаз — köz)"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я чищу ___ каждый день» (tishlar)",
+    "q": "Böş joyni töldiring: «Я чищу ___ каждый день» (tişlar)",
     "o": [
      "зубы",
      "зуб",
@@ -1015,7 +1015,7 @@
     "e": "чистить что? → зубы"
    },
    {
-    "q": "«Uzun sochlar» — ruschasi qanday?",
+    "q": "«Uzun soçlar» — rusçasi qanday?",
     "o": [
      "Длинные волосы",
      "Короткие волосы",
@@ -1027,45 +1027,45 @@
    {
     "q": "«Закрой глаза» nima degani?",
     "o": [
-     "Ko‘zingni yum",
-     "Ko‘zingni och",
-     "Og‘zingni yum",
-     "Qulog‘ingni yop"
+     "Közingni yum",
+     "Közingni oç",
+     "Oğzingni yum",
+     "Quloğingni yop"
     ],
-    "e": "закрыть — yopmoq, открыть — ochmoq"
+    "e": "закрыть — yopmoq, открыть — oçmoq"
    },
    {
-    "q": "«Oyog‘im og‘riyapti» — ruschasi qanday?",
+    "q": "«Oyoğim oğriyapti» — rusçasi qanday?",
     "o": [
      "У меня болит нога",
      "У меня болит рука",
      "У меня болит ухо",
      "У меня болела нога"
     ],
-    "e": "болит — hozir og‘riyapti, болела — og‘rigan edi"
+    "e": "болит — hozir oğriyapti, болела — oğrigan edi"
    },
    {
     "q": "«Подними руку» nima degani?",
     "o": [
-     "Qo‘lingni ko‘tar",
-     "Qo‘lingni tushir",
-     "Qo‘lingni ber",
-     "Qo‘lingni yuv"
+     "Qölingni kötar",
+     "Qölingni tuşir",
+     "Qölingni ber",
+     "Qölingni yuv"
     ],
-    "e": "поднять — ko‘tarmoq, опустить — tushirmoq"
+    "e": "поднять — kötarmoq, опустить — tuşirmoq"
    },
    {
     "q": "«Сердце бьётся быстро» nima degani?",
     "o": [
      "Yurak tez uryapti",
      "Yurak sekin uryapti",
-     "Yurak og‘riyapti",
-     "Yurak to‘xtadi"
+     "Yurak oğriyapti",
+     "Yurak töxtadi"
     ],
     "e": "быстро — tez, медленно — sekin"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «У меня десять ___» (barmoq)",
+    "q": "Böş joyni töldiring: «У меня десять ___» (barmoq)",
     "o": [
      "пальцев",
      "пальца",
@@ -1092,7 +1092,7 @@
    [
     "🔵",
     "синий",
-    "ko‘k"
+    "kök"
    ],
    [
     "💧",
@@ -1102,7 +1102,7 @@
    [
     "🟢",
     "зелёный",
-    "yashil"
+    "yaşil"
    ],
    [
     "🟡",
@@ -1112,17 +1112,17 @@
    [
     "🟠",
     "оранжевый",
-    "to‘q sariq"
+    "töq sariq"
    ],
    [
     "🟣",
     "фиолетовый",
-    "binafsha"
+    "binafşa"
    ],
    [
     "🌸",
     "розовый",
-    "pushti"
+    "puşti"
    ],
    [
     "⚫",
@@ -1154,45 +1154,45 @@
    {
     "q": "«Красная машина» nima degani?",
     "o": [
-     "Qizil mashina",
-     "Qora mashina",
-     "Oq mashina",
-     "Katta mashina"
+     "Qizil maşina",
+     "Qora maşina",
+     "Oq maşina",
+     "Katta maşina"
     ],
     "e": "машина — ayol jinsi → красная"
    },
    {
-    "q": "«Ko‘k osmon» — ruschasi qanday?",
+    "q": "«Kök osmon» — rusçasi qanday?",
     "o": [
      "Голубое небо",
      "Голубой небо",
      "Голубая небо",
      "Зелёное небо"
     ],
-    "e": "небо — o‘rta jins → голубое"
+    "e": "небо — örta jins → голубое"
    },
    {
     "q": "«Какого цвета твоя сумка?» nima degani?",
     "o": [
      "Sumkang qanday rangda?",
      "Sumkang qayerda?",
-     "Sumkang qancha turadi?",
+     "Sumkang qança turadi?",
      "Sumkang yangimi?"
     ],
     "e": "Какого цвета...? — ... qanday rangda?"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «У неё ___ волосы» (qora)",
+    "q": "Böş joyni töldiring: «У неё ___ волосы» (qora)",
     "o": [
      "чёрные",
      "чёрный",
      "чёрная",
      "чёрное"
     ],
-    "e": "волосы — ko‘plik → чёрные"
+    "e": "волосы — köplik → чёрные"
    },
    {
-    "q": "«Oq qor» — ruschasi qanday?",
+    "q": "«Oq qor» — rusçasi qanday?",
     "o": [
      "Белый снег",
      "Белая снег",
@@ -1204,15 +1204,15 @@
    {
     "q": "«Мой любимый цвет — зелёный» nima degani?",
     "o": [
-     "Mening sevimli rangim — yashil",
+     "Mening sevimli rangim — yaşil",
      "Mening sevimli rangim — sariq",
-     "Sening sevimli ranging — yashil",
-     "Men yashil rangni yoqtirmayman"
+     "Sening sevimli ranging — yaşil",
+     "Men yaşil rangni yoqtirmayman"
     ],
     "e": "любимый — sevimli, цвет — rang"
    },
    {
-    "q": "«Sariq banan» — ruschasi qanday?",
+    "q": "«Sariq banan» — rusçasi qanday?",
     "o": [
      "Жёлтый банан",
      "Жёлтая банан",
@@ -1226,13 +1226,13 @@
     "o": [
      "Qora qahva va oq non",
      "Oq qahva va qora non",
-     "Qora choy va oq non",
+     "Qora çoy va oq non",
      "Qora qahva va oq sut"
     ],
     "e": "чёрный — qora, белый — oq"
    },
    {
-    "q": "«Pushti gul» — ruschasi qanday?",
+    "q": "«Puşti gul» — rusçasi qanday?",
     "o": [
      "Розовый цветок",
      "Розовая цветок",
@@ -1244,12 +1244,12 @@
    {
     "q": "«Небо серое — будет дождь» nima degani?",
     "o": [
-     "Osmon kulrang — yomg‘ir yog‘adi",
-     "Osmon ko‘k — quyosh chiqadi",
-     "Osmon kulrang — qor yog‘adi",
-     "Osmon qora — tun bo‘ldi"
+     "Osmon kulrang — yomğir yoğadi",
+     "Osmon kök — quyoş çiqadi",
+     "Osmon kulrang — qor yoğadi",
+     "Osmon qora — tun böldi"
     ],
-    "e": "серый — kulrang, дождь — yomg‘ir"
+    "e": "серый — kulrang, дождь — yomğir"
    }
   ]
  },
@@ -1264,12 +1264,12 @@
    [
     "☀",
     "солнце",
-    "quyosh"
+    "quyoş"
    ],
    [
     "🌧",
     "дождь",
-    "yomg‘ir"
+    "yomğir"
    ],
    [
     "❄",
@@ -1279,7 +1279,7 @@
    [
     "💨",
     "ветер",
-    "shamol"
+    "şamol"
    ],
    [
     "☁",
@@ -1339,32 +1339,32 @@
      "Bugun issiq",
      "Bugun sovuq",
      "Bugun iliq",
-     "Kecha issiq edi"
+     "Keça issiq edi"
     ],
-    "e": "сегодня — bugun, вчера — kecha"
+    "e": "сегодня — bugun, вчера — keça"
    },
    {
-    "q": "«Yomg‘ir yog‘yapti» — ruschasi qanday?",
+    "q": "«Yomğir yoğyapti» — rusçasi qanday?",
     "o": [
      "Идёт дождь",
      "Идёт снег",
      "Дует ветер",
      "Светит солнце"
     ],
-    "e": "Yomg‘ir va qor haqida «идёт» deyiladi"
+    "e": "Yomğir va qor haqida «идёт» deyiladi"
    },
    {
     "q": "«Возьми зонт» nima degani?",
     "o": [
      "Soyabonni ol",
-     "Soyabonni ochma",
+     "Soyabonni oçma",
      "Kurtkani ol",
      "Soyabonni qoldir"
     ],
     "e": "взять — olmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Зимой часто идёт ___» (qor)",
+    "q": "Böş joyni töldiring: «Зимой часто идёт ___» (qor)",
     "o": [
      "снег",
      "снега",
@@ -1374,7 +1374,7 @@
     "e": "Kim/nima? → снег идёт"
    },
    {
-    "q": "«Kuchli shamol» — ruschasi qanday?",
+    "q": "«Kuçli şamol» — rusçasi qanday?",
     "o": [
      "Сильный ветер",
      "Сильная ветер",
@@ -1388,7 +1388,7 @@
     "o": [
      "Bugun ob-havo qanday?",
      "Ertaga ob-havo qanday?",
-     "Bugun nechanchi sana?",
+     "Bugun neçançi sana?",
      "Bugun issiqmi?"
     ],
     "e": "Какая...? — ... qanday?"
@@ -1396,35 +1396,35 @@
    {
     "q": "«На улице минус пять» nima degani?",
     "o": [
-     "Tashqarida minus besh",
-     "Tashqarida plyus besh",
-     "Uyda minus besh",
-     "Tashqarida minus o‘n besh"
+     "Taşqarida minus beş",
+     "Taşqarida plyus beş",
+     "Uyda minus beş",
+     "Taşqarida minus ön beş"
     ],
-    "e": "на улице — tashqarida, пять — besh"
+    "e": "на улице — taşqarida, пять — beş"
    },
    {
-    "q": "«Quyosh charaqlab turibdi» — ruschasi qanday?",
+    "q": "«Quyoş çaraqlab turibdi» — rusçasi qanday?",
     "o": [
      "Светит солнце",
      "Идёт солнце",
      "Дует солнце",
      "Светит луна"
     ],
-    "e": "светить — nur sochmoq; луна — oy"
+    "e": "светить — nur soçmoq; луна — oy"
    },
    {
     "q": "«Летом тепло, а зимой холодно» nima degani?",
     "o": [
-     "Yozda iliq, qishda esa sovuq",
-     "Qishda iliq, yozda esa sovuq",
+     "Yozda iliq, qişda esa sovuq",
+     "Qişda iliq, yozda esa sovuq",
      "Bahorda iliq, kuzda esa sovuq",
-     "Yozda issiq, qishda esa qor"
+     "Yozda issiq, qişda esa qor"
     ],
-    "e": "летом — yozda, зимой — qishda"
+    "e": "летом — yozda, зимой — qişda"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Завтра будет ___ погода» (yaxshi)",
+    "q": "Böş joyni töldiring: «Завтра будет ___ погода» (yaxşi)",
     "o": [
      "хорошая",
      "хороший",
@@ -1446,47 +1446,47 @@
    [
     "🩺",
     "врач",
-    "shifokor"
+    "şifokor"
    ],
    [
     "📚",
     "учитель",
-    "o‘qituvchi"
+    "öqituvçi"
    ],
    [
     "🍳",
     "повар",
-    "oshpaz"
+    "oşpaz"
    ],
    [
     "🚖",
     "водитель",
-    "haydovchi"
+    "haydovçi"
    ],
    [
     "👷",
     "строитель",
-    "quruvchi"
+    "quruvçi"
    ],
    [
     "👮",
     "полицейский",
-    "politsiyachi"
+    "politsiyaçi"
    ],
    [
     "💇",
     "парикмахер",
-    "sartarosh"
+    "sartaroş"
    ],
    [
     "🧵",
     "портной",
-    "tikuvchi"
+    "tikuvçi"
    ],
    [
     "💻",
     "программист",
-    "dasturchi"
+    "dasturçi"
    ],
    [
     "⚖",
@@ -1518,35 +1518,35 @@
    {
     "q": "«Он работает врачом» nima degani?",
     "o": [
-     "U shifokor bo‘lib ishlaydi",
-     "U shifokorga boradi",
-     "U shifokorni kutyapti",
-     "U o‘qituvchi bo‘lib ishlaydi"
+     "U şifokor bölib işlaydi",
+     "U şifokorga boradi",
+     "U şifokorni kutyapti",
+     "U öqituvçi bölib işlaydi"
     ],
     "e": "работать кем? → врачом, учителем"
    },
    {
-    "q": "«Kim bo‘lib ishlaysiz?» — ruschasi qanday?",
+    "q": "«Kim bölib işlaysiz?» — rusçasi qanday?",
     "o": [
      "Кем вы работаете?",
      "Где вы работаете?",
      "Когда вы работаете?",
      "Как вы работаете?"
     ],
-    "e": "кем — kim bo‘lib, где — qayerda"
+    "e": "кем — kim bölib, где — qayerda"
    },
    {
     "q": "«Моя мама — учитель» nima degani?",
     "o": [
-     "Onam o‘qituvchi",
-     "Onam shifokor",
-     "Opam o‘qituvchi",
-     "Onam o‘qiydi"
+     "Onam öqituvçi",
+     "Onam şifokor",
+     "Opam öqituvçi",
+     "Onam öqiydi"
     ],
-    "e": "учитель — o‘qituvchi"
+    "e": "учитель — öqituvçi"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я хочу стать ___» (dasturchi)",
+    "q": "Böş joyni töldiring: «Я хочу стать ___» (dasturçi)",
     "o": [
      "программистом",
      "программист",
@@ -1556,7 +1556,7 @@
     "e": "стать кем? → программистом"
    },
    {
-    "q": "«Yaxshi oshpaz» — ruschasi qanday?",
+    "q": "«Yaxşi oşpaz» — rusçasi qanday?",
     "o": [
      "Хороший повар",
      "Хорошая повар",
@@ -1568,35 +1568,35 @@
    {
     "q": "«Водитель такси» nima degani?",
     "o": [
-     "Taksi haydovchisi",
-     "Avtobus haydovchisi",
-     "Taksi chaqirish",
+     "Taksi haydovçisi",
+     "Avtobus haydovçisi",
+     "Taksi çaqiriş",
      "Taksi bekati"
     ],
-    "e": "водитель — haydovchi"
+    "e": "водитель — haydovçi"
    },
    {
-    "q": "«Men quruvchi bo‘lib ishlayman» — ruschasi qanday?",
+    "q": "«Men quruvçi bölib işlayman» — rusçasi qanday?",
     "o": [
      "Я работаю строителем",
      "Я работаю строитель",
      "Я работал строителем",
      "Я строю работу"
     ],
-    "e": "работаю — ishlayman, работал — ishlaganman"
+    "e": "работаю — işlayman, работал — işlaganman"
    },
    {
     "q": "«Где работает твой брат?» nima degani?",
     "o": [
-     "Akang qayerda ishlaydi?",
-     "Akang kim bo‘lib ishlaydi?",
-     "Akang qachon ishlaydi?",
-     "Akang ishlaydimi?"
+     "Akang qayerda işlaydi?",
+     "Akang kim bölib işlaydi?",
+     "Akang qaçon işlaydi?",
+     "Akang işlaydimi?"
     ],
-    "e": "где — qayerda, когда — qachon"
+    "e": "где — qayerda, когда — qaçon"
    },
    {
-    "q": "«Bu juda qiziqarli kasb» — ruschasi qanday?",
+    "q": "«Bu juda qiziqarli kasb» — rusçasi qanday?",
     "o": [
      "Это очень интересная профессия",
      "Это очень интересный профессия",
@@ -1608,12 +1608,12 @@
    {
     "q": "«Парикмахер стрижёт волосы» nima degani?",
     "o": [
-     "Sartarosh soch oladi",
-     "Sartarosh soch bo‘yaydi",
-     "Tikuvchi kiyim tikadi",
-     "Sartarosh soch yuvadi"
+     "Sartaroş soç oladi",
+     "Sartaroş soç böyaydi",
+     "Tikuvçi kiyim tikadi",
+     "Sartaroş soç yuvadi"
     ],
-    "e": "стричь — (soch) olmoq"
+    "e": "стричь — (soç) olmoq"
    }
   ]
  },
@@ -1653,12 +1653,12 @@
    [
     "🖊",
     "ручка",
-    "ruchka"
+    "ruçka"
    ],
    [
     "📏",
     "линейка",
-    "chizg‘ich"
+    "çizğiç"
    ],
    [
     "🎒",
@@ -1673,12 +1673,12 @@
    [
     "🔔",
     "звонок",
-    "qo‘ng‘iroq"
+    "qönğiroq"
    ],
    [
     "🧒",
     "ученик",
-    "o‘quvchi"
+    "öquvçi"
    ],
    [
     "📋",
@@ -1700,15 +1700,15 @@
    {
     "q": "«Открой книгу» nima degani?",
     "o": [
-     "Kitobni och",
+     "Kitobni oç",
      "Kitobni yop",
      "Kitobni ol",
-     "Daftarni och"
+     "Daftarni oç"
     ],
-    "e": "открыть — ochmoq, закрыть — yopmoq"
+    "e": "открыть — oçmoq, закрыть — yopmoq"
    },
    {
-    "q": "«Uy vazifasini qildingmi?» — ruschasi qanday?",
+    "q": "«Uy vazifasini qildingmi?» — rusçasi qanday?",
     "o": [
      "Ты сделал домашнее задание?",
      "Ты купил домашнее задание?",
@@ -1720,15 +1720,15 @@
    {
     "q": "«Урок начинается в восемь» nima degani?",
     "o": [
-     "Dars soat sakkizda boshlanadi",
+     "Dars soat sakkizda boşlanadi",
      "Dars soat sakkizda tugaydi",
      "Dars sakkiz soat davom etadi",
-     "Dars soat to‘qqizda boshlanadi"
+     "Dars soat töqqizda boşlanadi"
     ],
-    "e": "начинаться — boshlanmoq, заканчиваться — tugamoq"
+    "e": "начинаться — boşlanmoq, заканчиваться — tugamoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я пишу ___» (ruchka bilan)",
+    "q": "Böş joyni töldiring: «Я пишу ___» (ruçka bilan)",
     "o": [
      "ручкой",
      "ручка",
@@ -1740,15 +1740,15 @@
    {
     "q": "«Можно выйти?» nima degani?",
     "o": [
-     "Chiqsam bo‘ladimi?",
-     "Kirsam bo‘ladimi?",
-     "Savol bersam bo‘ladimi?",
-     "O‘tirsam bo‘ladimi?"
+     "Çiqsam böladimi?",
+     "Kirsam böladimi?",
+     "Savol bersam böladimi?",
+     "Ötirsam böladimi?"
     ],
-    "e": "выйти — chiqmoq, войти — kirmoq"
+    "e": "выйти — çiqmoq, войти — kirmoq"
    },
    {
-    "q": "«Doskaga chiq» — ruschasi qanday?",
+    "q": "«Doskaga çiq» — rusçasi qanday?",
     "o": [
      "Иди к доске",
      "Иди к двери",
@@ -1768,7 +1768,7 @@
     "e": "предмет — fan"
    },
    {
-    "q": "«Daftar va qalam» — ruschasi qanday?",
+    "q": "«Daftar va qalam» — rusçasi qanday?",
     "o": [
      "Тетрадь и карандаш",
      "Тетрадь и ручка",
@@ -1781,28 +1781,28 @@
     "q": "«Повторите, пожалуйста» nima degani?",
     "o": [
      "Takrorlang, iltimos",
-     "Tushuntiring, iltimos",
+     "Tuşuntiring, iltimos",
      "Sekinroq gapiring, iltimos",
      "Yozing, iltimos"
     ],
     "e": "повторить — takrorlamoq"
    },
    {
-    "q": "«Men tushunmadim» — ruschasi qanday?",
+    "q": "«Men tuşunmadim» — rusçasi qanday?",
     "o": [
      "Я не понял",
      "Я не знал",
      "Я не слышал",
      "Я понял"
     ],
-    "e": "понять — tushunmoq, знать — bilmoq"
+    "e": "понять — tuşunmoq, знать — bilmoq"
    }
   ]
  },
  {
   "id": 11,
   "ru": "Город",
-  "uz": "Shahar",
+  "uz": "Şahar",
   "tag": "город",
   "color": "#ECEFF1",
   "accent": "#546E7A",
@@ -1810,12 +1810,12 @@
    [
     "🏙",
     "город",
-    "shahar"
+    "şahar"
    ],
    [
     "🏪",
     "магазин",
-    "do‘kon"
+    "dökon"
    ],
    [
     "🏥",
@@ -1860,17 +1860,17 @@
    [
     "📮",
     "почта",
-    "pochta"
+    "poçta"
    ],
    [
     "🏘",
     "улица",
-    "ko‘cha"
+    "köça"
    ],
    [
     "🌉",
     "мост",
-    "ko‘prik"
+    "köprik"
    ],
    [
     "🏟",
@@ -1885,12 +1885,12 @@
      "Dorixona qayerda?",
      "Kasalxona qayerda?",
      "Bank qayerda?",
-     "Do‘kon qayerda?"
+     "Dökon qayerda?"
     ],
     "e": "аптека — dorixona, больница — kasalxona"
    },
    {
-    "q": "«Men parkda sayr qilaman» — ruschasi qanday?",
+    "q": "«Men parkda sayr qilaman» — rusçasi qanday?",
     "o": [
      "Я гуляю в парке",
      "Я гуляю в парк",
@@ -1902,15 +1902,15 @@
    {
     "q": "«Идите прямо, потом направо» nima degani?",
     "o": [
-     "To‘g‘riga yuring, keyin o‘ngga",
-     "To‘g‘riga yuring, keyin chapga",
-     "Orqaga qayting, keyin o‘ngga",
-     "O‘ngga buriling, keyin to‘g‘riga"
+     "Töğriga yuring, keyin öngga",
+     "Töğriga yuring, keyin çapga",
+     "Orqaga qayting, keyin öngga",
+     "Öngga buriling, keyin töğriga"
     ],
-    "e": "прямо — to‘g‘riga, направо — o‘ngga, налево — chapga"
+    "e": "прямо — töğriga, направо — öngga, налево — çapga"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Мы живём в большом ___» (shahar)",
+    "q": "Böş joyni töldiring: «Мы живём в большом ___» (şahar)",
     "o": [
      "городе",
      "город",
@@ -1920,14 +1920,14 @@
     "e": "в + qayerda? → в городе"
    },
    {
-    "q": "«Bank yopiq» — ruschasi qanday?",
+    "q": "«Bank yopiq» — rusçasi qanday?",
     "o": [
      "Банк закрыт",
      "Банк открыт",
      "Банк далеко",
      "Банк рядом"
     ],
-    "e": "закрыт — yopiq, открыт — ochiq"
+    "e": "закрыт — yopiq, открыт — oçiq"
    },
    {
     "q": "«Музей рядом» nima degani?",
@@ -1940,7 +1940,7 @@
     "e": "рядом — yaqin, далеко — uzoq"
    },
    {
-    "q": "«Bu ko‘cha qanday ataladi?» — ruschasi qanday?",
+    "q": "«Bu köça qanday ataladi?» — rusçasi qanday?",
     "o": [
      "Как называется эта улица?",
      "Где эта улица?",
@@ -1953,14 +1953,14 @@
     "q": "«Я ищу гостиницу» nima degani?",
     "o": [
      "Men mehmonxona qidiryapman",
-     "Men mehmonxonada yashayman",
+     "Men mehmonxonada yaşayman",
      "Men mehmonxonani topdim",
      "Men restoran qidiryapman"
     ],
     "e": "искать — qidirmoq, найти — topmoq"
    },
    {
-    "q": "«Daryo ustidagi ko‘prik» — ruschasi qanday?",
+    "q": "«Daryo ustidagi köprik» — rusçasi qanday?",
     "o": [
      "Мост через реку",
      "Река через мост",
@@ -1970,7 +1970,7 @@
     "e": "через — orqali, ustidan; река — daryo"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я иду в ___» (masjid)",
+    "q": "Böş joyni töldiring: «Я иду в ___» (masjid)",
     "o": [
      "мечеть",
      "мечети",
@@ -1984,7 +1984,7 @@
  {
   "id": 12,
   "ru": "Кухня",
-  "uz": "Oshxona",
+  "uz": "Oşxona",
   "tag": "кухня",
   "color": "#FFFDE7",
   "accent": "#F57F17",
@@ -1992,12 +1992,12 @@
    [
     "🍽",
     "тарелка",
-    "likopcha"
+    "likopça"
    ],
    [
     "🥄",
     "ложка",
-    "qoshiq"
+    "qoşiq"
    ],
    [
     "🍴",
@@ -2007,7 +2007,7 @@
    [
     "🔪",
     "нож",
-    "pichoq"
+    "piçoq"
    ],
    [
     "🥣",
@@ -2017,7 +2017,7 @@
    [
     "☕",
     "чашка",
-    "chashka"
+    "çaşka"
    ],
    [
     "🥛",
@@ -2027,7 +2027,7 @@
    [
     "🫖",
     "чайник",
-    "choynak"
+    "çoynak"
    ],
    [
     "🍳",
@@ -2042,7 +2042,7 @@
    [
     "🧊",
     "холодильник",
-    "muzlatgich"
+    "muzlatgiç"
    ],
    [
     "🔥",
@@ -2057,42 +2057,42 @@
    [
     "🫒",
     "масло",
-    "yog‘"
+    "yoğ"
    ]
   ],
   "quiz": [
    {
     "q": "«Дай мне ложку» nima degani?",
     "o": [
-     "Menga qoshiq ber",
-     "Menga pichoq ber",
+     "Menga qoşiq ber",
+     "Menga piçoq ber",
      "Menga vilka ber",
-     "Menga likopcha ber"
+     "Menga likopça ber"
     ],
     "e": "ложка → ложку (nimani?)"
    },
    {
-    "q": "«Choynakni qaynatishga qo‘y» — ruschasi qanday?",
+    "q": "«Çoynakni qaynatişga qöy» — rusçasi qanday?",
     "o": [
      "Поставь чайник",
      "Купи чайник",
      "Помой чайник",
      "Возьми чайник"
     ],
-    "e": "поставить чайник — choy uchun suv qaynatmoq"
+    "e": "поставить чайник — çoy uçun suv qaynatmoq"
    },
    {
     "q": "«Тарелка грязная» nima degani?",
     "o": [
-     "Likopcha iflos",
-     "Likopcha toza",
-     "Likopcha bo‘sh",
-     "Likopcha sinib qoldi"
+     "Likopça iflos",
+     "Likopça toza",
+     "Likopça böş",
+     "Likopça sinib qoldi"
     ],
     "e": "грязный — iflos, чистый — toza"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я ем суп ___» (qoshiq bilan)",
+    "q": "Böş joyni töldiring: «Я ем суп ___» (qoşiq bilan)",
     "o": [
      "ложкой",
      "ложка",
@@ -2102,7 +2102,7 @@
     "e": "nima bilan? → ложкой, вилкой"
    },
    {
-    "q": "«Muzlatgichda sut bor» — ruschasi qanday?",
+    "q": "«Muzlatgiçda sut bor» — rusçasi qanday?",
     "o": [
      "В холодильнике есть молоко",
      "В холодильнике нет молока",
@@ -2114,15 +2114,15 @@
    {
     "q": "«Нож очень острый» nima degani?",
     "o": [
-     "Pichoq juda o‘tkir",
-     "Pichoq juda katta",
-     "Pichoq juda eski",
-     "Pichoq juda qimmat"
+     "Piçoq juda ötkir",
+     "Piçoq juda katta",
+     "Piçoq juda eski",
+     "Piçoq juda qimmat"
     ],
-    "e": "острый — o‘tkir"
+    "e": "острый — ötkir"
    },
    {
-    "q": "«Bir stakan suv, iltimos» — ruschasi qanday?",
+    "q": "«Bir stakan suv, iltimos» — rusçasi qanday?",
     "o": [
      "Стакан воды, пожалуйста",
      "Стакан вода, пожалуйста",
@@ -2134,15 +2134,15 @@
    {
     "q": "«Добавь немного соли» nima degani?",
     "o": [
-     "Biroz tuz qo‘sh",
-     "Ko‘p tuz qo‘sh",
-     "Tuz qo‘shma",
-     "Biroz shakar qo‘sh"
+     "Biroz tuz qöş",
+     "Köp tuz qöş",
+     "Tuz qöşma",
+     "Biroz şakar qöş"
     ],
-    "e": "немного — biroz, много — ko‘p"
+    "e": "немного — biroz, много — köp"
    },
    {
-    "q": "«Ovqat tayyor» — ruschasi qanday?",
+    "q": "«Ovqat tayyor» — rusçasi qanday?",
     "o": [
      "Еда готова",
      "Еда вкусная",
@@ -2154,12 +2154,12 @@
    {
     "q": "«Помой посуду, пожалуйста» nima degani?",
     "o": [
-     "Idishlarni yuv, iltimos",
-     "Idishlarni qo‘y, iltimos",
-     "Idishlarni olib kel, iltimos",
+     "Idişlarni yuv, iltimos",
+     "Idişlarni qöy, iltimos",
+     "Idişlarni olib kel, iltimos",
      "Stolni art, iltimos"
     ],
-    "e": "посуда — idish-tovoq"
+    "e": "посуда — idiş-tovoq"
    }
   ]
  },
@@ -2179,7 +2179,7 @@
    [
     "🐈",
     "кошка",
-    "mushuk"
+    "muşuk"
    ],
    [
     "🐄",
@@ -2194,12 +2194,12 @@
    [
     "🐑",
     "овца",
-    "qo‘y"
+    "qöy"
    ],
    [
     "🐐",
     "коза",
-    "echki"
+    "eçki"
    ],
    [
     "🐔",
@@ -2209,7 +2209,7 @@
    [
     "🐓",
     "петух",
-    "xo‘roz"
+    "xöroz"
    ],
    [
     "🐇",
@@ -2224,7 +2224,7 @@
    [
     "🐺",
     "волк",
-    "bo‘ri"
+    "böri"
    ],
    [
     "🦊",
@@ -2234,7 +2234,7 @@
    [
     "🦁",
     "лев",
-    "sher"
+    "şer"
    ],
    [
     "🐫",
@@ -2247,14 +2247,14 @@
     "q": "«У меня есть собака» nima degani?",
     "o": [
      "Mening itim bor",
-     "Mening mushugim bor",
-     "Men itni yaxshi ko‘raman",
-     "Menda it yo‘q"
+     "Mening muşugim bor",
+     "Men itni yaxşi köraman",
+     "Menda it yöq"
     ],
     "e": "У меня есть... — Menda ... bor"
    },
    {
-    "q": "«Mushuk uxlayapti» — ruschasi qanday?",
+    "q": "«Muşuk uxlayapti» — rusçasi qanday?",
     "o": [
      "Кошка спит",
      "Кошка ест",
@@ -2274,7 +2274,7 @@
     "e": "бегать — yugurmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я кормлю ___» (mushuk)",
+    "q": "Böş joyni töldiring: «Я кормлю ___» (muşuk)",
     "o": [
      "кошку",
      "кошка",
@@ -2284,7 +2284,7 @@
     "e": "кормить кого? → кошку"
    },
    {
-    "q": "«Katta ayiq» — ruschasi qanday?",
+    "q": "«Katta ayiq» — rusçasi qanday?",
     "o": [
      "Большой медведь",
      "Большая медведь",
@@ -2297,34 +2297,34 @@
     "q": "«Корова даёт молоко» nima degani?",
     "o": [
      "Sigir sut beradi",
-     "Echki sut beradi",
-     "Sigir sut ichadi",
-     "Sigir o‘t yeydi"
+     "Eçki sut beradi",
+     "Sigir sut içadi",
+     "Sigir öt yeydi"
     ],
     "e": "давать — bermoq"
    },
    {
-    "q": "«Tulki va bo‘ri» — ruschasi qanday?",
+    "q": "«Tulki va böri» — rusçasi qanday?",
     "o": [
      "Лиса и волк",
      "Лиса и медведь",
      "Заяц и волк",
      "Лев и волк"
     ],
-    "e": "лиса — tulki, волк — bo‘ri"
+    "e": "лиса — tulki, волк — böri"
    },
    {
     "q": "«Лев — царь зверей» nima degani?",
     "o": [
-     "Sher — hayvonlar shohi",
-     "Sher — eng katta hayvon",
-     "Sher — o‘rmon hayvoni",
-     "Ayiq — hayvonlar shohi"
+     "Şer — hayvonlar şohi",
+     "Şer — eng katta hayvon",
+     "Şer — örmon hayvoni",
+     "Ayiq — hayvonlar şohi"
     ],
-    "e": "царь — shoh, звери — hayvonlar"
+    "e": "царь — şoh, звери — hayvonlar"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «У нас три ___» (qo‘y)",
+    "q": "Böş joyni töldiring: «У нас три ___» (qöy)",
     "o": [
      "овцы",
      "овца",
@@ -2334,7 +2334,7 @@
     "e": "два, три, четыре dan keyin: три овцы"
    },
    {
-    "q": "«Bu kimning iti?» — ruschasi qanday?",
+    "q": "«Bu kimning iti?» — rusçasi qanday?",
     "o": [
      "Чья это собака?",
      "Чей это собака?",
@@ -2381,12 +2381,12 @@
    [
     "🍑",
     "персик",
-    "shaftoli"
+    "şaftoli"
    ],
    [
     "🍒",
     "вишня",
-    "olcha"
+    "olça"
    ],
    [
     "🍓",
@@ -2423,22 +2423,22 @@
    {
     "q": "«Сладкий арбуз» nima degani?",
     "o": [
-     "Shirin tarvuz",
+     "Şirin tarvuz",
      "Katta tarvuz",
-     "Pishgan tarvuz",
-     "Shirin qovun"
+     "Pişgan tarvuz",
+     "Şirin qovun"
     ],
-    "e": "сладкий — shirin, арбуз — tarvuz, дыня — qovun"
+    "e": "сладкий — şirin, арбуз — tarvuz, дыня — qovun"
    },
    {
-    "q": "«Men uzumni yaxshi ko‘raman» — ruschasi qanday?",
+    "q": "«Men uzumni yaxşi köraman» — rusçasi qanday?",
     "o": [
      "Я люблю виноград",
      "Я ем виноград",
      "Я люблю вишню",
      "Я покупаю виноград"
     ],
-    "e": "любить — yaxshi ko‘rmoq"
+    "e": "любить — yaxşi körmoq"
    },
    {
     "q": "«Килограмм груш, пожалуйста» nima degani?",
@@ -2451,7 +2451,7 @@
     "e": "груша — nok; килограмм груш — bir kilo nok"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я хочу ___» (banan)",
+    "q": "Böş joyni töldiring: «Я хочу ___» (banan)",
     "o": [
      "банан",
      "бананом",
@@ -2461,7 +2461,7 @@
     "e": "хотеть что? → банан"
    },
    {
-    "q": "«Nordon limon» — ruschasi qanday?",
+    "q": "«Nordon limon» — rusçasi qanday?",
     "o": [
      "Кислый лимон",
      "Кислая лимон",
@@ -2473,15 +2473,15 @@
    {
     "q": "«Дыня очень спелая» nima degani?",
     "o": [
-     "Qovun juda pishgan",
+     "Qovun juda pişgan",
      "Qovun juda katta",
-     "Tarvuz juda pishgan",
+     "Tarvuz juda pişgan",
      "Qovun juda arzon"
     ],
-    "e": "спелый — pishgan"
+    "e": "спелый — pişgan"
    },
    {
-    "q": "«Apelsin sharbati» — ruschasi qanday?",
+    "q": "«Apelsin şarbati» — rusçasi qanday?",
     "o": [
      "Апельсиновый сок",
      "Апельсин сок",
@@ -2501,31 +2501,31 @@
     "e": "помыть — yuvmoq"
    },
    {
-    "q": "«Qulupnay qancha turadi?» — ruschasi qanday?",
+    "q": "«Qulupnay qança turadi?» — rusçasi qanday?",
     "o": [
      "Сколько стоит клубника?",
      "Где клубника?",
      "Сколько стоит вишня?",
      "Есть клубника?"
     ],
-    "e": "клубника — qulupnay, вишня — olcha"
+    "e": "клубника — qulupnay, вишня — olça"
    },
    {
     "q": "«Летом много фруктов» nima degani?",
     "o": [
-     "Yozda meva ko‘p",
-     "Qishda meva ko‘p",
+     "Yozda meva köp",
+     "Qişda meva köp",
      "Yozda meva kam",
-     "Yozda sabzavot ko‘p"
+     "Yozda sabzavot köp"
     ],
-    "e": "летом — yozda, много — ko‘p, мало — kam"
+    "e": "летом — yozda, много — köp, мало — kam"
    }
   ]
  },
  {
   "id": 15,
   "ru": "Напитки",
-  "uz": "Ichimliklar",
+  "uz": "Içimliklar",
   "tag": "напитки",
   "color": "#E0F2F1",
   "accent": "#00897B",
@@ -2538,12 +2538,12 @@
    [
     "🍵",
     "чай",
-    "choy"
+    "çoy"
    ],
    [
     "🫖",
     "зелёный чай",
-    "ko‘k choy"
+    "kök çoy"
    ],
    [
     "☕",
@@ -2553,7 +2553,7 @@
    [
     "🧃",
     "сок",
-    "sharbat"
+    "şarbat"
    ],
    [
     "🥤",
@@ -2590,15 +2590,15 @@
    {
     "q": "«Чай с сахаром» nima degani?",
     "o": [
-     "Shakarli choy",
-     "Shakarsiz choy",
-     "Asalli choy",
-     "Sutli choy"
+     "Şakarli çoy",
+     "Şakarsiz çoy",
+     "Asalli çoy",
+     "Sutli çoy"
     ],
     "e": "с — bilan (-li), без — -siz"
    },
    {
-    "q": "«Menga qahva, iltimos» — ruschasi qanday?",
+    "q": "«Menga qahva, iltimos» — rusçasi qanday?",
     "o": [
      "Мне кофе, пожалуйста",
      "Мне чай, пожалуйста",
@@ -2610,15 +2610,15 @@
    {
     "q": "«Я пью зелёный чай» nima degani?",
     "o": [
-     "Men ko‘k choy ichaman",
-     "Men qora choy ichaman",
-     "Men ko‘k choyni yoqtiraman",
-     "Men ko‘k choy damlayman"
+     "Men kök çoy içaman",
+     "Men qora çoy içaman",
+     "Men kök çoyni yoqtiraman",
+     "Men kök çoy damlayman"
     ],
-    "e": "зелёный чай — ko‘k choy, чёрный чай — qora choy"
+    "e": "зелёный чай — kök çoy, чёрный чай — qora çoy"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Можно стакан ___?» (suv)",
+    "q": "Böş joyni töldiring: «Можно стакан ___?» (suv)",
     "o": [
      "воды",
      "вода",
@@ -2628,7 +2628,7 @@
     "e": "nimaning? → стакан воды"
    },
    {
-    "q": "«Muzdek sharbat» — ruschasi qanday?",
+    "q": "«Muzdek şarbat» — rusçasi qanday?",
     "o": [
      "Холодный сок",
      "Холодная сок",
@@ -2640,52 +2640,52 @@
    {
     "q": "«Кофе без сахара» nima degani?",
     "o": [
-     "Shakarsiz qahva",
-     "Shakarli qahva",
+     "Şakarsiz qahva",
+     "Şakarli qahva",
      "Sutsiz qahva",
-     "Shakarsiz choy"
+     "Şakarsiz çoy"
     ],
     "e": "без — -siz"
    },
    {
-    "q": "«Men chanqadim» — ruschasi qanday?",
+    "q": "«Men çanqadim» — rusçasi qanday?",
     "o": [
      "Я хочу пить",
      "Я хочу есть",
      "Я хочу спать",
      "Я пью"
     ],
-    "e": "хочу пить — chanqadim, хочу есть — qornim och"
+    "e": "хочу пить — çanqadim, хочу есть — qornim oç"
    },
    {
     "q": "«Апельсиновый сок очень вкусный» nima degani?",
     "o": [
-     "Apelsin sharbati juda mazali",
-     "Olma sharbati juda mazali",
-     "Apelsin sharbati juda sovuq",
+     "Apelsin şarbati juda mazali",
+     "Olma şarbati juda mazali",
+     "Apelsin şarbati juda sovuq",
      "Apelsin juda mazali"
     ],
     "e": "вкусный — mazali"
    },
    {
-    "q": "«Ikki chashka choy» — ruschasi qanday?",
+    "q": "«Ikki çaşka çoy» — rusçasi qanday?",
     "o": [
      "Две чашки чая",
      "Два чашки чая",
      "Две чашка чая",
      "Две чашки чай"
     ],
-    "e": "чашка — ayol jinsi → две чашки; чая — choyning"
+    "e": "чашка — ayol jinsi → две чашки; чая — çoyning"
    },
    {
     "q": "«Что вы будете пить?» nima degani?",
     "o": [
-     "Nima ichasiz?",
+     "Nima içasiz?",
      "Nima yeysiz?",
-     "Nima ichdingiz?",
-     "Qayerda ichasiz?"
+     "Nima içdingiz?",
+     "Qayerda içasiz?"
     ],
-    "e": "будете пить — ichasiz (kelasi zamon)"
+    "e": "будете пить — içasiz (kelasi zamon)"
    }
   ]
  },
@@ -2700,22 +2700,22 @@
    [
     "💼",
     "понедельник",
-    "dushanba"
+    "duşanba"
    ],
    [
     "📘",
     "вторник",
-    "seshanba"
+    "seşanba"
    ],
    [
     "📗",
     "среда",
-    "chorshanba"
+    "çorşanba"
    ],
    [
     "📙",
     "четверг",
-    "payshanba"
+    "payşanba"
    ],
    [
     "🕌",
@@ -2725,12 +2725,12 @@
    [
     "🎉",
     "суббота",
-    "shanba"
+    "şanba"
    ],
    [
     "🛌",
     "воскресенье",
-    "yakshanba"
+    "yakşanba"
    ],
    [
     "☀",
@@ -2745,7 +2745,7 @@
    [
     "⏮",
     "вчера",
-    "kecha"
+    "keça"
    ],
    [
     "🗓",
@@ -2760,7 +2760,7 @@
    [
     "🏖",
     "выходные",
-    "dam olish kunlari"
+    "dam oliş kunlari"
    ]
   ],
   "quiz": [
@@ -2768,44 +2768,44 @@
     "q": "«Какой сегодня день?» nima degani?",
     "o": [
      "Bugun qaysi kun?",
-     "Bugun nechanchi sana?",
+     "Bugun neçançi sana?",
      "Ertaga qaysi kun?",
      "Bugun nima qilasan?"
     ],
     "e": "какой — qaysi, qanday"
    },
    {
-    "q": "«Bugun dushanba» — ruschasi qanday?",
+    "q": "«Bugun duşanba» — rusçasi qanday?",
     "o": [
      "Сегодня понедельник",
      "Сегодня вторник",
      "Завтра понедельник",
      "Вчера был понедельник"
     ],
-    "e": "понедельник — dushanba, вторник — seshanba"
+    "e": "понедельник — duşanba, вторник — seşanba"
    },
    {
     "q": "«В субботу я отдыхаю» nima degani?",
     "o": [
-     "Shanba kuni dam olaman",
-     "Yakshanba kuni dam olaman",
-     "Shanba kuni ishlayman",
+     "Şanba kuni dam olaman",
+     "Yakşanba kuni dam olaman",
+     "Şanba kuni işlayman",
      "Juma kuni dam olaman"
     ],
     "e": "отдыхать — dam olmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Увидимся в ___» (chorshanba)",
+    "q": "Böş joyni töldiring: «Увидимся в ___» (çorşanba)",
     "o": [
      "среду",
      "среда",
      "среды",
      "средой"
     ],
-    "e": "в + qachon? → в среду, в пятницу"
+    "e": "в + qaçon? → в среду, в пятницу"
    },
    {
-    "q": "«Ertaga juma» — ruschasi qanday?",
+    "q": "«Ertaga juma» — rusçasi qanday?",
     "o": [
      "Завтра пятница",
      "Завтра четверг",
@@ -2817,42 +2817,42 @@
    {
     "q": "«Вчера было воскресенье» nima degani?",
     "o": [
-     "Kecha yakshanba edi",
-     "Ertaga yakshanba",
-     "Bugun yakshanba",
-     "Kecha shanba edi"
+     "Keça yakşanba edi",
+     "Ertaga yakşanba",
+     "Bugun yakşanba",
+     "Keça şanba edi"
     ],
-    "e": "вчера — kecha, было — edi"
+    "e": "вчера — keça, было — edi"
    },
    {
-    "q": "«Dam olish kunlari nima qilasan?» — ruschasi qanday?",
+    "q": "«Dam oliş kunlari nima qilasan?» — rusçasi qanday?",
     "o": [
      "Что ты делаешь на выходных?",
      "Где ты на выходных?",
      "Что ты делал в понедельник?",
      "Когда у тебя выходные?"
     ],
-    "e": "на выходных — dam olish kunlari"
+    "e": "на выходных — dam oliş kunlari"
    },
    {
     "q": "«Я работаю пять дней в неделю» nima degani?",
     "o": [
-     "Men haftada besh kun ishlayman",
-     "Men haftada olti kun ishlayman",
-     "Men besh haftadan beri ishlayman",
-     "Men kuniga besh soat ishlayman"
+     "Men haftada beş kun işlayman",
+     "Men haftada olti kun işlayman",
+     "Men beş haftadan beri işlayman",
+     "Men kuniga beş soat işlayman"
     ],
     "e": "в неделю — haftada"
    },
    {
-    "q": "«Payshanbagacha» — ruschasi qanday?",
+    "q": "«Payşanbagaça» — rusçasi qanday?",
     "o": [
      "До четверга",
      "После четверга",
      "В четверг",
      "С четверга"
     ],
-    "e": "до — -gacha, после — keyin, с — -dan"
+    "e": "до — -gaça, после — keyin, с — -dan"
    },
    {
     "q": "«Каждый день» nima degani?",
@@ -2887,17 +2887,17 @@
    [
     "3",
     "три",
-    "uch"
+    "uç"
    ],
    [
     "4",
     "четыре",
-    "to‘rt"
+    "tört"
    ],
    [
     "5",
     "пять",
-    "besh"
+    "beş"
    ],
    [
     "6",
@@ -2917,12 +2917,12 @@
    [
     "9",
     "девять",
-    "to‘qqiz"
+    "töqqiz"
    ],
    [
     "10",
     "десять",
-    "o‘n"
+    "ön"
    ],
    [
     "20",
@@ -2944,15 +2944,15 @@
    {
     "q": "«Сколько тебе лет?» nima degani?",
     "o": [
-     "Necha yoshdasan?",
+     "Neça yoşdasan?",
      "Isming nima?",
      "Qayerdansan?",
-     "Nechta akang bor?"
+     "Neçta akang bor?"
     ],
-    "e": "Сколько лет? — Necha yosh?"
+    "e": "Сколько лет? — Neça yoş?"
    },
    {
-    "q": "«Menga yigirma yosh» — ruschasi qanday?",
+    "q": "«Menga yigirma yoş» — rusçasi qanday?",
     "o": [
      "Мне двадцать лет",
      "Мне двадцать год",
@@ -2964,15 +2964,15 @@
    {
     "q": "«Три яблока» nima degani?",
     "o": [
-     "Uchta olma",
+     "Uçta olma",
      "Ikkita olma",
-     "To‘rtta olma",
-     "Uch kilo olma"
+     "Törtta olma",
+     "Uç kilo olma"
     ],
-    "e": "три — uch"
+    "e": "три — uç"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «У меня пять ___» (kitob)",
+    "q": "Böş joyni töldiring: «У меня пять ___» (kitob)",
     "o": [
      "книг",
      "книги",
@@ -2982,7 +2982,7 @@
     "e": "5 va undan katta sonlardan keyin: пять книг"
    },
    {
-    "q": "«Telefon raqamingiz qanday?» — ruschasi qanday?",
+    "q": "«Telefon raqamingiz qanday?» — rusçasi qanday?",
     "o": [
      "Какой у вас номер телефона?",
      "Где ваш телефон?",
@@ -3002,7 +3002,7 @@
     "e": "семь — yetti, шесть — olti"
    },
    {
-    "q": "«Ikki yuz» — ruschasi qanday?",
+    "q": "«Ikki yuz» — rusçasi qanday?",
     "o": [
      "двести",
      "двадцать",
@@ -3014,15 +3014,15 @@
    {
     "q": "«Мне нужно десять минут» nima degani?",
     "o": [
-     "Menga o‘n daqiqa kerak",
-     "Menga o‘n soat kerak",
-     "Menga besh daqiqa kerak",
-     "Men o‘n daqiqada kelaman"
+     "Menga ön daqiqa kerak",
+     "Menga ön soat kerak",
+     "Menga beş daqiqa kerak",
+     "Men ön daqiqada kelaman"
     ],
     "e": "нужно — kerak"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «У меня два ___» (do‘st)",
+    "q": "Böş joyni töldiring: «У меня два ___» (döst)",
     "o": [
      "друга",
      "друг",
@@ -3046,7 +3046,7 @@
  {
   "id": 18,
   "ru": "Магазин",
-  "uz": "Do‘konda",
+  "uz": "Dökonda",
   "tag": "магазин",
   "color": "#FBE9E7",
   "accent": "#F4511E",
@@ -3054,12 +3054,12 @@
    [
     "🏪",
     "магазин",
-    "do‘kon"
+    "dökon"
    ],
    [
     "🛒",
     "тележка",
-    "aravacha"
+    "aravaça"
    ],
    [
     "🧺",
@@ -3084,7 +3084,7 @@
    [
     "🧾",
     "чек",
-    "chek"
+    "çek"
    ],
    [
     "🏷",
@@ -3104,12 +3104,12 @@
    [
     "📉",
     "скидка",
-    "chegirma"
+    "çegirma"
    ],
    [
     "🙋",
     "продавец",
-    "sotuvchi"
+    "sotuvçi"
    ],
    [
     "🪙",
@@ -3121,7 +3121,7 @@
    {
     "q": "«Сколько это стоит?» nima degani?",
     "o": [
-     "Bu qancha turadi?",
+     "Bu qança turadi?",
      "Bu nima?",
      "Bu kimniki?",
      "Bu qayerda?"
@@ -3129,7 +3129,7 @@
     "e": "стоить — turmoq (narx)"
    },
    {
-    "q": "«Karta bilan to‘lasam bo‘ladimi?» — ruschasi qanday?",
+    "q": "«Karta bilan tölasam böladimi?» — rusçasi qanday?",
     "o": [
      "Можно оплатить картой?",
      "Можно оплатить наличными?",
@@ -3143,43 +3143,43 @@
     "o": [
      "Bu juda qimmat",
      "Bu juda arzon",
-     "Bu juda chiroyli",
+     "Bu juda çiroyli",
      "Bu juda katta"
     ],
     "e": "дорого — qimmat, дёшево — arzon"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Дайте, пожалуйста, ___» (paket)",
+    "q": "Böş joyni töldiring: «Дайте, пожалуйста, ___» (paket)",
     "o": [
      "пакет",
      "пакета",
      "пакетом",
      "пакете"
     ],
-    "e": "дать что? → пакет (o‘zgarmaydi)"
+    "e": "дать что? → пакет (özgarmaydi)"
    },
    {
-    "q": "«Chegirma bormi?» — ruschasi qanday?",
+    "q": "«Çegirma bormi?» — rusçasi qanday?",
     "o": [
      "Есть скидка?",
      "Есть сдача?",
      "Есть пакет?",
      "Есть чек?"
     ],
-    "e": "скидка — chegirma, сдача — qaytim"
+    "e": "скидка — çegirma, сдача — qaytim"
    },
    {
     "q": "«Сдачи не надо» nima degani?",
     "o": [
      "Qaytim kerak emas",
      "Qaytimni bering",
-     "Chek kerak emas",
+     "Çek kerak emas",
      "Paket kerak emas"
     ],
     "e": "не надо — kerak emas"
    },
    {
-    "q": "«Men non sotib olmoqchiman» — ruschasi qanday?",
+    "q": "«Men non sotib olmoqçiman» — rusçasi qanday?",
     "o": [
      "Я хочу купить хлеб",
      "Я хочу продать хлеб",
@@ -3191,15 +3191,15 @@
    {
     "q": "«Магазин работает до десяти» nima degani?",
     "o": [
-     "Do‘kon soat o‘ngacha ishlaydi",
-     "Do‘kon soat o‘nda ochiladi",
-     "Do‘kon o‘n kun ishlaydi",
-     "Do‘kon soat o‘ndan ishlaydi"
+     "Dökon soat öngaça işlaydi",
+     "Dökon soat önda oçiladi",
+     "Dökon ön kun işlaydi",
+     "Dökon soat öndan işlaydi"
     ],
-    "e": "до — -gacha, с — -dan"
+    "e": "до — -gaça, с — -dan"
    },
    {
-    "q": "«Arzonroq bormi?» — ruschasi qanday?",
+    "q": "«Arzonroq bormi?» — rusçasi qanday?",
     "o": [
      "Есть подешевле?",
      "Есть подороже?",
@@ -3212,18 +3212,18 @@
     "q": "«Где касса?» nima degani?",
     "o": [
      "Kassa qayerda?",
-     "Sotuvchi qayerda?",
-     "Chiqish qayerda?",
+     "Sotuvçi qayerda?",
+     "Çiqiş qayerda?",
      "Savat qayerda?"
     ],
-    "e": "касса — kassa (to‘lov joyi)"
+    "e": "касса — kassa (tölov joyi)"
    }
   ]
  },
  {
   "id": 19,
   "ru": "Здоровье",
-  "uz": "Sog‘liq",
+  "uz": "Soğliq",
   "tag": "здоровье",
   "color": "#F9FBE7",
   "accent": "#9E9D24",
@@ -3236,7 +3236,7 @@
    [
     "🩺",
     "осмотр",
-    "ko‘rik"
+    "körik"
    ],
    [
     "💊",
@@ -3261,12 +3261,12 @@
    [
     "😷",
     "кашель",
-    "yo‘tal"
+    "yötal"
    ],
    [
     "🤕",
     "боль",
-    "og‘riq"
+    "oğriq"
    ],
    [
     "🩹",
@@ -3286,27 +3286,27 @@
    [
     "🦷",
     "зубной врач",
-    "tish shifokori"
+    "tiş şifokori"
    ],
    [
     "💪",
     "здоровый",
-    "sog‘lom"
+    "soğlom"
    ]
   ],
   "quiz": [
    {
     "q": "«Как вы себя чувствуете?» nima degani?",
     "o": [
-     "O‘zingizni qanday his qilyapsiz?",
-     "Qayeringiz og‘riyapti?",
-     "Necha yoshdasiz?",
+     "Özingizni qanday his qilyapsiz?",
+     "Qayeringiz oğriyapti?",
+     "Neça yoşdasiz?",
      "Ismingiz nima?"
     ],
-    "e": "чувствовать себя — o‘zini his qilmoq"
+    "e": "чувствовать себя — özini his qilmoq"
    },
    {
-    "q": "«Menga shifokor kerak» — ruschasi qanday?",
+    "q": "«Menga şifokor kerak» — rusçasi qanday?",
     "o": [
      "Мне нужен врач",
      "Мне нужна врач",
@@ -3321,12 +3321,12 @@
      "Isitmam bor",
      "Haroratim past",
      "Tumovim bor",
-     "Boshim og‘riyapti"
+     "Boşim oğriyapti"
     ],
-    "e": "У меня температура — isitmam chiqdi"
+    "e": "У меня температура — isitmam çiqdi"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Принимайте по одной ___ в день» (tabletka)",
+    "q": "Böş joyni töldiring: «Принимайте по одной ___ в день» (tabletka)",
     "o": [
      "таблетке",
      "таблетка",
@@ -3336,47 +3336,47 @@
     "e": "по одной таблетке — bittadan tabletka"
    },
    {
-    "q": "«Tez yordam chaqiring!» — ruschasi qanday?",
+    "q": "«Tez yordam çaqiring!» — rusçasi qanday?",
     "o": [
      "Вызовите скорую помощь!",
      "Вызовите полицию!",
      "Вызовите такси!",
      "Где скорая помощь?"
     ],
-    "e": "вызвать — chaqirmoq"
+    "e": "вызвать — çaqirmoq"
    },
    {
     "q": "«Выздоравливай!» nima degani?",
     "o": [
      "Tezroq tuzal!",
-     "Ehtiyot bo‘l!",
-     "Kasal bo‘lma!",
+     "Ehtiyot böl!",
+     "Kasal bölma!",
      "Dam ol!"
     ],
     "e": "выздоравливать — tuzalmoq"
    },
    {
-    "q": "«Men yo‘talyapman» — ruschasi qanday?",
+    "q": "«Men yötalyapman» — rusçasi qanday?",
     "o": [
      "Я кашляю",
      "Я чихаю",
      "Я плачу",
      "Я кричу"
     ],
-    "e": "кашлять — yo‘talmoq, чихать — aksirmoq"
+    "e": "кашлять — yötalmoq, чихать — aksirmoq"
    },
    {
     "q": "«Аптека за углом» nima degani?",
     "o": [
-     "Dorixona muyulishdan o‘tgach",
+     "Dorixona muyulişdan ötgaç",
      "Dorixona uzoqda",
      "Dorixona yopiq",
-     "Dorixona ro‘parada"
+     "Dorixona röparada"
     ],
-    "e": "за углом — muyulishning narigi tomonida"
+    "e": "за углом — muyulişning narigi tomonida"
    },
    {
-    "q": "«Ko‘p suv iching» — ruschasi qanday?",
+    "q": "«Köp suv içing» — rusçasi qanday?",
     "o": [
      "Пейте много воды",
      "Пейте мало воды",
@@ -3388,10 +3388,10 @@
    {
     "q": "«Здоровье дороже денег» nima degani?",
     "o": [
-     "Sog‘liq puldan qimmatroq",
-     "Pul sog‘liqdan qimmatroq",
-     "Sog‘liqni pulga sotib olsa bo‘ladi",
-     "Sog‘liq va pul teng"
+     "Soğliq puldan qimmatroq",
+     "Pul soğliqdan qimmatroq",
+     "Soğliqni pulga sotib olsa böladi",
+     "Soğliq va pul teng"
     ],
     "e": "дороже — qimmatroq"
    }
@@ -3428,12 +3428,12 @@
    [
     "🏊",
     "плавание",
-    "suzish"
+    "suziş"
    ],
    [
     "🏃",
     "бег",
-    "yugurish"
+    "yuguriş"
    ],
    [
     "🚴",
@@ -3448,22 +3448,22 @@
    [
     "🤼",
     "борьба",
-    "kurash"
+    "kuraş"
    ],
    [
     "♟",
     "шахматы",
-    "shaxmat"
+    "şaxmat"
    ],
    [
     "🏋",
     "тренировка",
-    "mashg‘ulot"
+    "maşğulot"
    ],
    [
     "🏆",
     "победа",
-    "g‘alaba"
+    "ğalaba"
    ],
    [
     "🥅",
@@ -3473,22 +3473,22 @@
    [
     "🥇",
     "чемпион",
-    "chempion"
+    "çempion"
    ]
   ],
   "quiz": [
    {
     "q": "«Я играю в футбол» nima degani?",
     "o": [
-     "Men futbol o‘ynayman",
-     "Men futbol ko‘raman",
+     "Men futbol öynayman",
+     "Men futbol köraman",
      "Men futbolni yoqtirmayman",
-     "Men tennis o‘ynayman"
+     "Men tennis öynayman"
     ],
-    "e": "играть в + o‘yin: в футбол, в теннис"
+    "e": "играть в + öyin: в футбол, в теннис"
    },
    {
-    "q": "«Sen suzishni bilasanmi?» — ruschasi qanday?",
+    "q": "«Sen suzişni bilasanmi?» — rusçasi qanday?",
     "o": [
      "Ты умеешь плавать?",
      "Ты любишь плавать?",
@@ -3502,13 +3502,13 @@
     "o": [
      "Bizning jamoa yutdi",
      "Bizning jamoa yutqazdi",
-     "Bizning jamoa o‘ynadi",
+     "Bizning jamoa öynadi",
      "Ularning jamoasi yutdi"
     ],
     "e": "выиграть — yutmoq, проиграть — yutqazmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Он играет в ___» (shaxmat)",
+    "q": "Böş joyni töldiring: «Он играет в ___» (şaxmat)",
     "o": [
      "шахматы",
      "шахмат",
@@ -3518,27 +3518,27 @@
     "e": "играть во что? → в шахматы"
    },
    {
-    "q": "«Har kuni ertalab yuguraman» — ruschasi qanday?",
+    "q": "«Har kuni ertalab yuguraman» — rusçasi qanday?",
     "o": [
      "Каждое утро я бегаю",
      "Каждый вечер я бегаю",
      "Каждое утро я плаваю",
      "Каждое утро я бегал"
     ],
-    "e": "утро — ertalab, вечер — kechqurun"
+    "e": "утро — ertalab, вечер — keçqurun"
    },
    {
     "q": "«Какой счёт?» nima degani?",
     "o": [
      "Hisob qanday?",
-     "O‘yin qachon?",
+     "Öyin qaçon?",
      "Kim yutdi?",
      "Qaysi jamoa?"
     ],
-    "e": "счёт — hisob (o‘yinda)"
+    "e": "счёт — hisob (öyinda)"
    },
    {
-    "q": "«Men sport zaliga qatnayman» — ruschasi qanday?",
+    "q": "«Men sport zaliga qatnayman» — rusçasi qanday?",
     "o": [
      "Я хожу в спортзал",
      "Я хожу в спортзале",
@@ -3550,15 +3550,15 @@
    {
     "q": "«Он чемпион по боксу» nima degani?",
     "o": [
-     "U boks bo‘yicha chempion",
-     "U boks bilan shug‘ullanadi",
+     "U boks böyiça çempion",
+     "U boks bilan şuğullanadi",
      "U boks murabbiyi",
-     "U kurash bo‘yicha chempion"
+     "U kuraş böyiça çempion"
     ],
-    "e": "по + nima bo‘yicha? → по боксу"
+    "e": "по + nima böyiça? → по боксу"
    },
    {
-    "q": "«Kim yutdi?» — ruschasi qanday?",
+    "q": "«Kim yutdi?» — rusçasi qanday?",
     "o": [
      "Кто выиграл?",
      "Кто проиграл?",
@@ -3570,12 +3570,12 @@
    {
     "q": "«Спорт — это здоровье» nima degani?",
     "o": [
-     "Sport — bu sog‘liq",
-     "Sport — bu o‘yin",
-     "Sport — bu ish",
-     "Sog‘liq — bu pul"
+     "Sport — bu soğliq",
+     "Sport — bu öyin",
+     "Sport — bu iş",
+     "Soğliq — bu pul"
     ],
-    "e": "здоровье — sog‘liq"
+    "e": "здоровье — soğliq"
    }
   ]
  },
@@ -3590,12 +3590,12 @@
    [
     "🌲",
     "лес",
-    "o‘rmon"
+    "örmon"
    ],
    [
     "⛰",
     "гора",
-    "tog‘"
+    "toğ"
    ],
    [
     "🌊",
@@ -3625,17 +3625,17 @@
    [
     "🌿",
     "трава",
-    "o‘t"
+    "öt"
    ],
    [
     "🪨",
     "камень",
-    "tosh"
+    "toş"
    ],
    [
     "🏜",
     "пустыня",
-    "cho‘l"
+    "çöl"
    ],
    [
     "🌌",
@@ -3662,15 +3662,15 @@
    {
     "q": "«Высокая гора» nima degani?",
     "o": [
-     "Baland tog‘",
-     "Katta tog‘",
-     "Past tog‘",
+     "Baland toğ",
+     "Katta toğ",
+     "Past toğ",
      "Baland daraxt"
     ],
     "e": "высокий — baland, низкий — past"
    },
    {
-    "q": "«Biz o‘rmonga boryapmiz» — ruschasi qanday?",
+    "q": "«Biz örmonga boryapmiz» — rusçasi qanday?",
     "o": [
      "Мы идём в лес",
      "Мы идём в лесу",
@@ -3682,15 +3682,15 @@
    {
     "q": "«На небе много звёзд» nima degani?",
     "o": [
-     "Osmonda yulduzlar ko‘p",
-     "Osmonda bulutlar ko‘p",
-     "Osmonda yulduz yo‘q",
-     "Dengizda yulduzlar ko‘p"
+     "Osmonda yulduzlar köp",
+     "Osmonda bulutlar köp",
+     "Osmonda yulduz yöq",
+     "Dengizda yulduzlar köp"
     ],
     "e": "звёзды — yulduzlar, облака — bulutlar"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Летом мы отдыхаем на ___» (dengiz)",
+    "q": "Böş joyni töldiring: «Летом мы отдыхаем на ___» (dengiz)",
     "o": [
      "море",
      "моря",
@@ -3700,7 +3700,7 @@
     "e": "на + qayerda? → на море"
    },
    {
-    "q": "«Chiroyli gullar» — ruschasi qanday?",
+    "q": "«Çiroyli gullar» — rusçasi qanday?",
     "o": [
      "Красивые цветы",
      "Красивый цветы",
@@ -3712,15 +3712,15 @@
    {
     "q": "«Река очень глубокая» nima degani?",
     "o": [
-     "Daryo juda chuqur",
+     "Daryo juda çuqur",
      "Daryo juda keng",
      "Daryo juda sovuq",
-     "Dengiz juda chuqur"
+     "Dengiz juda çuqur"
     ],
-    "e": "глубокий — chuqur, широкий — keng"
+    "e": "глубокий — çuqur, широкий — keng"
    },
    {
-    "q": "«Tog‘larda havo toza» — ruschasi qanday?",
+    "q": "«Toğlarda havo toza» — rusçasi qanday?",
     "o": [
      "В горах чистый воздух",
      "В горах грязный воздух",
@@ -3740,22 +3740,22 @@
     "e": "рвать — uzmoq"
    },
    {
-    "q": "«Oy va yulduzlar» — ruschasi qanday?",
+    "q": "«Oy va yulduzlar» — rusçasi qanday?",
     "o": [
      "Луна и звёзды",
      "Солнце и звёзды",
      "Луна и облака",
      "Земля и звёзды"
     ],
-    "e": "луна — oy (osmondagi), солнце — quyosh"
+    "e": "луна — oy (osmondagi), солнце — quyoş"
    },
    {
     "q": "«Берегите природу!» nima degani?",
     "o": [
      "Tabiatni asrang!",
-     "Tabiatni o‘rganing!",
+     "Tabiatni örganing!",
      "Tabiatga boring!",
-     "Tabiatni chizing!"
+     "Tabiatni çizing!"
     ],
     "e": "беречь — asramoq"
    }
@@ -3764,7 +3764,7 @@
  {
   "id": 22,
   "ru": "Чувства",
-  "uz": "His-tuyg‘ular",
+  "uz": "His-tuyğular",
   "tag": "чувства",
   "color": "#FFF0F5",
   "accent": "#C2185B",
@@ -3772,7 +3772,7 @@
    [
     "😊",
     "радость",
-    "quvonch"
+    "quvonç"
    ],
    [
     "😃",
@@ -3782,7 +3782,7 @@
    [
     "😢",
     "грусть",
-    "qayg‘u"
+    "qayğu"
    ],
    [
     "😡",
@@ -3792,7 +3792,7 @@
    [
     "😨",
     "страх",
-    "qo‘rquv"
+    "qörquv"
    ],
    [
     "😲",
@@ -3807,12 +3807,12 @@
    [
     "😴",
     "усталость",
-    "charchoq"
+    "çarçoq"
    ],
    [
     "🥱",
     "скука",
-    "zerikish"
+    "zerikiş"
    ],
    [
     "😌",
@@ -3835,34 +3835,34 @@
     "q": "«Я очень рад» nima degani?",
     "o": [
      "Men juda xursandman",
-     "Men juda charchadim",
+     "Men juda çarçadim",
      "Men juda xafaman",
-     "Men juda qo‘rqdim"
+     "Men juda qörqdim"
     ],
     "e": "рад / рада — xursand"
    },
    {
-    "q": "«Men charchadim» — ruschasi qanday?",
+    "q": "«Men çarçadim» — rusçasi qanday?",
     "o": [
      "Я устал",
      "Я упал",
      "Я уснул",
      "Я ушёл"
     ],
-    "e": "устать — charchamoq, упасть — yiqilmoq"
+    "e": "устать — çarçamoq, упасть — yiqilmoq"
    },
    {
     "q": "«Не грусти!» nima degani?",
     "o": [
-     "Xafa bo‘lma!",
-     "Qo‘rqma!",
+     "Xafa bölma!",
+     "Qörqma!",
      "Jahl qilma!",
      "Kulma!"
     ],
-    "e": "грустить — xafa bo‘lmoq"
+    "e": "грустить — xafa bölmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я боюсь ___» (qorong‘ilik)",
+    "q": "Böş joyni töldiring: «Я боюсь ___» (qoronğilik)",
     "o": [
      "темноты",
      "темнота",
@@ -3872,7 +3872,7 @@
     "e": "бояться чего? → темноты"
    },
    {
-    "q": "«Men xavotirdaman» — ruschasi qanday?",
+    "q": "«Men xavotirdaman» — rusçasi qanday?",
     "o": [
      "Я волнуюсь",
      "Я радуюсь",
@@ -3885,34 +3885,34 @@
     "q": "«Мне скучно» nima degani?",
     "o": [
      "Men zerikdim",
-     "Men charchadim",
-     "Seni sog‘indim",
+     "Men çarçadim",
+     "Seni soğindim",
      "Menga qiziq"
     ],
     "e": "мне скучно — zerikdim"
    },
    {
-    "q": "«Seni sog‘indim» — ruschasi qanday?",
+    "q": "«Seni soğindim» — rusçasi qanday?",
     "o": [
      "Я скучаю по тебе",
      "Мне скучно с тобой",
      "Я люблю тебя",
      "Я жду тебя"
     ],
-    "e": "скучать по кому? — kimnidir sog‘inmoq"
+    "e": "скучать по кому? — kimnidir soğinmoq"
    },
    {
     "q": "«Какой сюрприз!» nima degani?",
     "o": [
      "Qanday kutilmagan narsa!",
      "Qanday yomon!",
-     "Qanday chiroyli!",
-     "Qanday qo‘rqinchli!"
+     "Qanday çiroyli!",
+     "Qanday qörqinçli!"
     ],
     "e": "сюрприз — kutilmagan narsa, syurpriz"
    },
    {
-    "q": "«Men baxtliman» — ruschasi qanday?",
+    "q": "«Men baxtliman» — rusçasi qanday?",
     "o": [
      "Я счастлив",
      "Я несчастен",
@@ -3924,12 +3924,12 @@
    {
     "q": "«Не волнуйся, всё будет хорошо» nima degani?",
     "o": [
-     "Xavotir olma, hammasi yaxshi bo‘ladi",
-     "Xafa bo‘lma, hammasi o‘tib ketadi",
-     "Qo‘rqma, men shu yerdaman",
-     "Xavotir olma, hammasi yaxshi edi"
+     "Xavotir olma, hammasi yaxşi böladi",
+     "Xafa bölma, hammasi ötib ketadi",
+     "Qörqma, men şu yerdaman",
+     "Xavotir olma, hammasi yaxşi edi"
     ],
-    "e": "будет — bo‘ladi, было — edi"
+    "e": "будет — böladi, было — edi"
    }
   ]
  },
@@ -3954,7 +3954,7 @@
    [
     "🥤",
     "пить",
-    "ichmoq"
+    "içmoq"
    ],
    [
     "🚶",
@@ -3969,7 +3969,7 @@
    [
     "📖",
     "читать",
-    "o‘qimoq"
+    "öqimoq"
    ],
    [
     "✍",
@@ -3989,49 +3989,49 @@
    [
     "👀",
     "смотреть",
-    "ko‘rmoq"
+    "körmoq"
    ],
    [
     "🧹",
     "убирать",
-    "yig‘ishtirmoq"
+    "yiğiştirmoq"
    ],
    [
     "🍳",
     "готовить",
-    "ovqat pishirmoq"
+    "ovqat pişirmoq"
    ],
    [
     "💼",
     "работать",
-    "ishlamoq"
+    "işlamoq"
    ],
    [
     "🎵",
     "петь",
-    "qo‘shiq aytmoq"
+    "qöşiq aytmoq"
    ]
   ],
   "quiz": [
    {
     "q": "«Я читаю книгу» nima degani?",
     "o": [
-     "Men kitob o‘qiyapman",
+     "Men kitob öqiyapman",
      "Men kitob yozyapman",
      "Men kitob sotib olyapman",
      "Men kitob qidiryapman"
     ],
-    "e": "читать — o‘qimoq, писать — yozmoq"
+    "e": "читать — öqimoq, писать — yozmoq"
    },
    {
-    "q": "«U (ayol) ovqat pishiryapti» — ruschasi qanday?",
+    "q": "«U (ayol) ovqat pişiryapti» — rusçasi qanday?",
     "o": [
      "Она готовит обед",
      "Она ест обед",
      "Она покупает обед",
      "Она готовила обед"
     ],
-    "e": "готовит — pishiryapti, готовила — pishirdi"
+    "e": "готовит — pişiryapti, готовила — pişirdi"
    },
    {
     "q": "«Говорите медленнее, пожалуйста» nima degani?",
@@ -4039,12 +4039,12 @@
      "Sekinroq gapiring, iltimos",
      "Balandroq gapiring, iltimos",
      "Tezroq gapiring, iltimos",
-     "Ruscha gapiring, iltimos"
+     "Rusça gapiring, iltimos"
     ],
     "e": "медленнее — sekinroq, громче — balandroq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Мы ___ музыку» (tinglaymiz)",
+    "q": "Böş joyni töldiring: «Мы ___ музыку» (tinglaymiz)",
     "o": [
      "слушаем",
      "слушаю",
@@ -4054,14 +4054,14 @@
     "e": "мы → -ем: мы слушаем"
    },
    {
-    "q": "«Men har kuni ishlayman» — ruschasi qanday?",
+    "q": "«Men har kuni işlayman» — rusçasi qanday?",
     "o": [
      "Я работаю каждый день",
      "Я работал каждый день",
      "Я работаю весь день",
      "Я отдыхаю каждый день"
     ],
-    "e": "каждый день — har kuni, весь день — kun bo‘yi"
+    "e": "каждый день — har kuni, весь день — kun böyi"
    },
    {
     "q": "«Что ты делаешь?» nima degani?",
@@ -4069,12 +4069,12 @@
      "Nima qilyapsan?",
      "Qayerdasan?",
      "Nima qilding?",
-     "Qachon kelasan?"
+     "Qaçon kelasan?"
     ],
     "e": "делать — qilmoq"
    },
    {
-    "q": "«Ular televizor ko‘ryapti» — ruschasi qanday?",
+    "q": "«Ular televizor köryapti» — rusçasi qanday?",
     "o": [
      "Они смотрят телевизор",
      "Они слушают телевизор",
@@ -4088,13 +4088,13 @@
     "o": [
      "Men uyga ketyapman",
      "Men uydaman",
-     "Men uydan chiqdim",
+     "Men uydan çiqdim",
      "Men uyga bordim"
     ],
     "e": "домой — uyga, дома — uyda"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Ты ___ по-русски?» (gapirasan)",
+    "q": "Böş joyni töldiring: «Ты ___ по-русски?» (gapirasan)",
     "o": [
      "говоришь",
      "говорю",
@@ -4107,18 +4107,18 @@
     "q": "«Пиши мне!» nima degani?",
     "o": [
      "Menga yoz!",
-     "Menga qo‘ng‘iroq qil!",
+     "Menga qönğiroq qil!",
      "Meni kut!",
-     "Menga o‘qib ber!"
+     "Menga öqib ber!"
     ],
-    "e": "писать — yozmoq, звонить — qo‘ng‘iroq qilmoq"
+    "e": "писать — yozmoq, звонить — qönğiroq qilmoq"
    }
   ]
  },
  {
   "id": 24,
   "ru": "Работа",
-  "uz": "Ish joyi",
+  "uz": "Iş joyi",
   "tag": "работа",
   "color": "#EEF2F7",
   "accent": "#37474F",
@@ -4126,7 +4126,7 @@
    [
     "💼",
     "работа",
-    "ish"
+    "iş"
    ],
    [
     "🏢",
@@ -4151,7 +4151,7 @@
    [
     "📅",
     "встреча",
-    "uchrashuv"
+    "uçraşuv"
    ],
    [
     "📊",
@@ -4161,7 +4161,7 @@
    [
     "👔",
     "начальник",
-    "boshliq"
+    "boşliq"
    ],
    [
     "🤝",
@@ -4171,7 +4171,7 @@
    [
     "💵",
     "зарплата",
-    "maosh"
+    "maoş"
    ],
    [
     "🖨",
@@ -4198,35 +4198,35 @@
    {
     "q": "«Где вы работаете?» nima degani?",
     "o": [
-     "Qayerda ishlaysiz?",
-     "Kim bo‘lib ishlaysiz?",
-     "Qachon ishlaysiz?",
-     "Nega ishlaysiz?"
+     "Qayerda işlaysiz?",
+     "Kim bölib işlaysiz?",
+     "Qaçon işlaysiz?",
+     "Nega işlaysiz?"
     ],
     "e": "где — qayerda, почему — nega"
    },
    {
-    "q": "«Bugun uchrashuv bor» — ruschasi qanday?",
+    "q": "«Bugun uçraşuv bor» — rusçasi qanday?",
     "o": [
      "Сегодня есть встреча",
      "Сегодня нет встречи",
      "Завтра есть встреча",
      "Сегодня была встреча"
     ],
-    "e": "есть — bor, нет — yo‘q"
+    "e": "есть — bor, нет — yöq"
    },
    {
     "q": "«Начальник в офисе» nima degani?",
     "o": [
-     "Boshliq ofisda",
-     "Boshliq uyda",
+     "Boşliq ofisda",
+     "Boşliq uyda",
      "Hamkasb ofisda",
-     "Boshliq ofisdan ketdi"
+     "Boşliq ofisdan ketdi"
     ],
     "e": "в офисе — ofisda"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я отправил ___» (xat)",
+    "q": "Böş joyni töldiring: «Я отправил ___» (xat)",
     "o": [
      "письмо",
      "письма",
@@ -4236,7 +4236,7 @@
     "e": "отправить что? → письмо"
    },
    {
-    "q": "«Men ta’tildaman» — ruschasi qanday?",
+    "q": "«Men ta’tildaman» — rusçasi qanday?",
     "o": [
      "Я в отпуске",
      "Я на работе",
@@ -4249,14 +4249,14 @@
     "q": "«У меня перерыв» nima degani?",
     "o": [
      "Menda tanaffus",
-     "Menda uchrashuv",
-     "Menda ish ko‘p",
+     "Menda uçraşuv",
+     "Menda iş köp",
      "Menda ta’til"
     ],
     "e": "перерыв — tanaffus"
    },
    {
-    "q": "«Hisobotni yuboring, iltimos» — ruschasi qanday?",
+    "q": "«Hisobotni yuboring, iltimos» — rusçasi qanday?",
     "o": [
      "Отправьте, пожалуйста, отчёт",
      "Напишите, пожалуйста, отчёт",
@@ -4268,32 +4268,32 @@
    {
     "q": "«Я работаю с девяти до шести» nima degani?",
     "o": [
-     "Men to‘qqizdan oltigacha ishlayman",
-     "Men oltidan to‘qqizgacha ishlayman",
-     "Men to‘qqiz soat ishlayman",
-     "Men olti kun ishlayman"
+     "Men töqqizdan oltigaça işlayman",
+     "Men oltidan töqqizgaça işlayman",
+     "Men töqqiz soat işlayman",
+     "Men olti kun işlayman"
     ],
-    "e": "с — -dan, до — -gacha"
+    "e": "с — -dan, до — -gaça"
    },
    {
-    "q": "«Hamkasblarim yaxshi» — ruschasi qanday?",
+    "q": "«Hamkasblarim yaxşi» — rusçasi qanday?",
     "o": [
      "Мои коллеги хорошие",
      "Мой коллеги хорошие",
      "Мои коллеги плохие",
      "Мои коллега хорошие"
     ],
-    "e": "ko‘plik → мои коллеги"
+    "e": "köplik → мои коллеги"
    },
    {
     "q": "«Когда зарплата?» nima degani?",
     "o": [
-     "Maosh qachon?",
-     "Maosh qancha?",
-     "Maosh qayerda?",
-     "Maosh bormi?"
+     "Maoş qaçon?",
+     "Maoş qança?",
+     "Maoş qayerda?",
+     "Maoş bormi?"
     ],
-    "e": "когда — qachon, сколько — qancha"
+    "e": "когда — qaçon, сколько — qança"
    }
   ]
  },
@@ -4313,7 +4313,7 @@
    [
     "🧳",
     "чемодан",
-    "chamadon"
+    "çamadon"
    ],
    [
     "🛂",
@@ -4323,7 +4323,7 @@
    [
     "🎫",
     "билет",
-    "chipta"
+    "çipta"
    ],
    [
     "🗺",
@@ -4358,12 +4358,12 @@
    [
     "💱",
     "обмен валюты",
-    "valyuta almashtirish"
+    "valyuta almaştiriş"
    ],
    [
     "🌴",
     "отдых",
-    "dam olish"
+    "dam oliş"
    ],
    [
     "🗽",
@@ -4376,34 +4376,34 @@
     "q": "«Где мой паспорт?» nima degani?",
     "o": [
      "Pasportim qayerda?",
-     "Chiptam qayerda?",
-     "Chamadonim qayerda?",
-     "Pasportim shu yerda"
+     "Çiptam qayerda?",
+     "Çamadonim qayerda?",
+     "Pasportim şu yerda"
     ],
     "e": "мой — mening"
    },
    {
-    "q": "«Men Moskvaga uchyapman» — ruschasi qanday?",
+    "q": "«Men Moskvaga uçyapman» — rusçasi qanday?",
     "o": [
      "Я лечу в Москву",
      "Я лечу в Москве",
      "Я еду в Москву",
      "Я был в Москве"
     ],
-    "e": "лететь — uchmoq, ехать — (transportda) bormoq"
+    "e": "лететь — uçmoq, ехать — (transportda) bormoq"
    },
    {
     "q": "«У меня бронь на имя Алишер» nima degani?",
     "o": [
-     "Menda Alisher nomiga bron bor",
-     "Mening ismim Alisher",
-     "Alisher meni kutyapti",
-     "Alisher nomiga chipta yo‘q"
+     "Menda Alişer nomiga bron bor",
+     "Mening ismim Alişer",
+     "Alişer meni kutyapti",
+     "Alişer nomiga çipta yöq"
     ],
     "e": "на имя — nomiga"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Мы были во ___» (Fransiya)",
+    "q": "Böş joyni töldiring: «Мы были во ___» (Fransiya)",
     "o": [
      "Франции",
      "Франция",
@@ -4413,7 +4413,7 @@
     "e": "в + qayerda? → во Франции"
    },
    {
-    "q": "«Menga bir kishilik xona kerak» — ruschasi qanday?",
+    "q": "«Menga bir kişilik xona kerak» — rusçasi qanday?",
     "o": [
      "Мне нужен номер на одного",
      "Мне нужен номер на двоих",
@@ -4425,49 +4425,49 @@
    {
     "q": "«Рейс задерживается» nima degani?",
     "o": [
-     "Reys kechikyapti",
+     "Reys keçikyapti",
      "Reys bekor qilindi",
-     "Reys jo‘nab ketdi",
-     "Reys o‘z vaqtida"
+     "Reys jönab ketdi",
+     "Reys öz vaqtida"
     ],
-    "e": "задерживаться — kechikmoq"
+    "e": "задерживаться — keçikmoq"
    },
    {
-    "q": "«Valyutani qayerda almashtirsa bo‘ladi?» — ruschasi qanday?",
+    "q": "«Valyutani qayerda almaştirsa böladi?» — rusçasi qanday?",
     "o": [
      "Где можно обменять валюту?",
      "Сколько стоит валюта?",
      "Где можно обменять билет?",
      "Когда можно обменять валюту?"
     ],
-    "e": "обменять — almashtirmoq"
+    "e": "обменять — almaştirmoq"
    },
    {
     "q": "«Я впервые в Ташкенте» nima degani?",
     "o": [
-     "Men Toshkentda birinchi martaman",
-     "Men Toshkentda tug‘ilganman",
-     "Men Toshkentda yashayman",
-     "Men Toshkentga ertaga boraman"
+     "Men Toşkentda birinçi martaman",
+     "Men Toşkentda tuğilganman",
+     "Men Toşkentda yaşayman",
+     "Men Toşkentga ertaga boraman"
     ],
-    "e": "впервые — birinchi marta"
+    "e": "впервые — birinçi marta"
    },
    {
-    "q": "«Plyajga qanday borsa bo‘ladi?» — ruschasi qanday?",
+    "q": "«Plyajga qanday borsa böladi?» — rusçasi qanday?",
     "o": [
      "Как добраться до пляжа?",
      "Где пляж?",
      "Какой пляж?",
      "Как добраться до отеля?"
     ],
-    "e": "добраться до — ...gacha yetib bormoq"
+    "e": "добраться до — ...gaça yetib bormoq"
    },
    {
     "q": "«Сфотографируйте нас, пожалуйста» nima degani?",
     "o": [
      "Bizni rasmga oling, iltimos",
-     "Rasmlarni ko‘rsating, iltimos",
-     "Bu yerda rasmga olsa bo‘ladimi?",
+     "Rasmlarni körsating, iltimos",
+     "Bu yerda rasmga olsa böladimi?",
      "Rasmni yuboring, iltimos"
     ],
     "e": "сфотографировать — rasmga olmoq"
@@ -4505,7 +4505,7 @@
    [
     "🍲",
     "суп",
-    "sho‘rva"
+    "şörva"
    ],
    [
     "🥗",
@@ -4515,7 +4515,7 @@
    [
     "🍢",
     "шашлык",
-    "shashlik"
+    "şaşlik"
    ],
    [
     "🍕",
@@ -4535,7 +4535,7 @@
    [
     "💵",
     "чаевые",
-    "choychaqa"
+    "çoyçaqa"
    ],
    [
     "😋",
@@ -4545,7 +4545,7 @@
    [
     "🍴",
     "приятного аппетита",
-    "yoqimli ishtaha"
+    "yoqimli iştaha"
    ]
   ],
   "quiz": [
@@ -4554,13 +4554,13 @@
     "o": [
      "Menyuni bering, iltimos",
      "Hisobni bering, iltimos",
-     "Bo‘sh stol bormi?",
+     "Böş stol bormi?",
      "Menyu kerak emas"
     ],
     "e": "меню — menyu, счёт — hisob"
    },
    {
-    "q": "«Hisobni olib keling, iltimos» — ruschasi qanday?",
+    "q": "«Hisobni olib keling, iltimos» — rusçasi qanday?",
     "o": [
      "Принесите, пожалуйста, счёт",
      "Принесите, пожалуйста, меню",
@@ -4572,15 +4572,15 @@
    {
     "q": "«Я хочу заказать шашлык» nima degani?",
     "o": [
-     "Men shashlik buyurtma qilmoqchiman",
-     "Men shashlik yedim",
-     "Men shashlik pishirmoqchiman",
-     "Men shashlikni yoqtirmayman"
+     "Men şaşlik buyurtma qilmoqçiman",
+     "Men şaşlik yedim",
+     "Men şaşlik pişirmoqçiman",
+     "Men şaşlikni yoqtirmayman"
     ],
     "e": "заказать — buyurtma qilmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Мне салат с ___» (tovuq)",
+    "q": "Böş joyni töldiring: «Мне салат с ___» (tovuq)",
     "o": [
      "курицей",
      "курица",
@@ -4590,27 +4590,27 @@
     "e": "с + nima bilan? → с курицей"
    },
    {
-    "q": "«Juda mazali!» — ruschasi qanday?",
+    "q": "«Juda mazali!» — rusçasi qanday?",
     "o": [
      "Очень вкусно!",
      "Очень дорого!",
      "Очень много!",
      "Очень остро!"
     ],
-    "e": "вкусно — mazali, остро — achchiq"
+    "e": "вкусно — mazali, остро — aççiq"
    },
    {
     "q": "«Столик на двоих» nima degani?",
     "o": [
-     "Ikki kishilik stol",
+     "Ikki kişilik stol",
      "Ikkita stol",
-     "Ikkinchi stol",
-     "Ikki kishi kutyapti"
+     "Ikkinçi stol",
+     "Ikki kişi kutyapti"
     ],
-    "e": "на двоих — ikki kishi uchun"
+    "e": "на двоих — ikki kişi uçun"
    },
    {
-    "q": "«Yoqimli ishtaha!» — ruschasi qanday?",
+    "q": "«Yoqimli iştaha!» — rusçasi qanday?",
     "o": [
      "Приятного аппетита!",
      "Спасибо за обед!",
@@ -4624,13 +4624,13 @@
     "o": [
      "Piyozsiz, iltimos",
      "Piyozli, iltimos",
-     "Ko‘proq piyoz, iltimos",
+     "Köproq piyoz, iltimos",
      "Piyoz bering, iltimos"
     ],
     "e": "без — -siz"
    },
    {
-    "q": "«Menga desert kerak emas» — ruschasi qanday?",
+    "q": "«Menga desert kerak emas» — rusçasi qanday?",
     "o": [
      "Мне не нужен десерт",
      "Мне нужен десерт",
@@ -4642,12 +4642,12 @@
    {
     "q": "«Это очень остро?» nima degani?",
     "o": [
-     "Bu juda achchiqmi?",
-     "Bu juda shirinmi?",
+     "Bu juda aççiqmi?",
+     "Bu juda şirinmi?",
      "Bu juda qimmatmi?",
      "Bu juda issiqmi?"
     ],
-    "e": "острый — achchiq (ovqat)"
+    "e": "острый — aççiq (ovqat)"
    }
   ]
  },
@@ -4682,12 +4682,12 @@
    [
     "🖱",
     "мышка",
-    "sichqoncha"
+    "siçqonça"
    ],
    [
     "🎧",
     "наушники",
-    "quloqchin"
+    "quloqçin"
    ],
    [
     "📺",
@@ -4707,7 +4707,7 @@
    [
     "🔌",
     "зарядка",
-    "zaryadlovchi"
+    "zaryadlovçi"
    ],
    [
     "📶",
@@ -4717,7 +4717,7 @@
    [
     "🎮",
     "игра",
-    "o‘yin"
+    "öyin"
    ],
    [
     "⌚",
@@ -4731,13 +4731,13 @@
     "o": [
      "Telefonimning zaryadi tugadi",
      "Telefonim buzildi",
-     "Telefonim yo‘qoldi",
-     "Telefonimni zaryadga qo‘ydim"
+     "Telefonim yöqoldi",
+     "Telefonimni zaryadga qöydim"
     ],
     "e": "разрядиться — zaryadi tugamoq"
    },
    {
-    "q": "«Wi-Fi paroli qanday?» — ruschasi qanday?",
+    "q": "«Wi-Fi paroli qanday?» — rusçasi qanday?",
     "o": [
      "Какой пароль от Wi-Fi?",
      "Где Wi-Fi?",
@@ -4750,14 +4750,14 @@
     "q": "«Включи телевизор» nima degani?",
     "o": [
      "Televizorni yoq",
-     "Televizorni o‘chir",
-     "Televizor ko‘r",
+     "Televizorni öçir",
+     "Televizor kör",
      "Televizor sotib ol"
     ],
-    "e": "включить — yoqmoq, выключить — o‘chirmoq"
+    "e": "включить — yoqmoq, выключить — öçirmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я слушаю музыку в ___» (quloqchin)",
+    "q": "Böş joyni töldiring: «Я слушаю музыку в ___» (quloqçin)",
     "o": [
      "наушниках",
      "наушники",
@@ -4767,27 +4767,27 @@
     "e": "в + qayerda? → в наушниках"
    },
    {
-    "q": "«Internet ishlamayapti» — ruschasi qanday?",
+    "q": "«Internet işlamayapti» — rusçasi qanday?",
     "o": [
      "Интернет не работает",
      "Интернет работает",
      "Интернет быстрый",
      "Телефон не работает"
     ],
-    "e": "не работает — ishlamayapti"
+    "e": "не работает — işlamayapti"
    },
    {
     "q": "«Позвони мне вечером» nima degani?",
     "o": [
-     "Kechqurun menga qo‘ng‘iroq qil",
-     "Ertalab menga qo‘ng‘iroq qil",
-     "Kechqurun menga yoz",
-     "Kechqurun meni kut"
+     "Keçqurun menga qönğiroq qil",
+     "Ertalab menga qönğiroq qil",
+     "Keçqurun menga yoz",
+     "Keçqurun meni kut"
     ],
-    "e": "позвонить — qo‘ng‘iroq qilmoq, вечером — kechqurun"
+    "e": "позвонить — qönğiroq qilmoq, вечером — keçqurun"
    },
    {
-    "q": "«Zaryadlovchingiz bormi?» — ruschasi qanday?",
+    "q": "«Zaryadlovçingiz bormi?» — rusçasi qanday?",
     "o": [
      "У вас есть зарядка?",
      "У вас есть телефон?",
@@ -4799,15 +4799,15 @@
    {
     "q": "«Выключи компьютер» nima degani?",
     "o": [
-     "Kompyuterni o‘chir",
+     "Kompyuterni öçir",
      "Kompyuterni yoq",
      "Kompyuterni tuzat",
      "Kompyuterni ol"
     ],
-    "e": "выключить — o‘chirmoq"
+    "e": "выключить — öçirmoq"
    },
    {
-    "q": "«Men yangi noutbuk sotib oldim» — ruschasi qanday?",
+    "q": "«Men yangi noutbuk sotib oldim» — rusçasi qanday?",
     "o": [
      "Я купил новый ноутбук",
      "Я купил новую ноутбук",
@@ -4820,9 +4820,9 @@
     "q": "«Отправь мне фото» nima degani?",
     "o": [
      "Menga rasm yubor",
-     "Menga rasm ko‘rsat",
+     "Menga rasm körsat",
      "Meni rasmga ol",
-     "Rasmni o‘chir"
+     "Rasmni öçir"
     ],
     "e": "отправить — yubormoq"
    }
@@ -4831,7 +4831,7 @@
  {
   "id": 28,
   "ru": "Хобби",
-  "uz": "Qiziqishlar",
+  "uz": "Qiziqişlar",
   "tag": "хобби",
   "color": "#F4F9EC",
   "accent": "#558B2F",
@@ -4839,7 +4839,7 @@
    [
     "📚",
     "чтение",
-    "kitob o‘qish"
+    "kitob öqiş"
    ],
    [
     "🎵",
@@ -4854,7 +4854,7 @@
    [
     "🎨",
     "рисование",
-    "rasm chizish"
+    "rasm çiziş"
    ],
    [
     "💃",
@@ -4869,22 +4869,22 @@
    [
     "🎮",
     "игры",
-    "o‘yinlar"
+    "öyinlar"
    ],
    [
     "🧶",
     "вязание",
-    "to‘qish"
+    "töqiş"
    ],
    [
     "🍳",
     "кулинария",
-    "pazandachilik"
+    "pazandaçilik"
    ],
    [
     "🌱",
     "садоводство",
-    "bog‘dorchilik"
+    "boğdorçilik"
    ],
    [
     "🎣",
@@ -4906,35 +4906,35 @@
    {
     "q": "«Какое у тебя хобби?» nima degani?",
     "o": [
-     "Qiziqishing nima?",
-     "Ishing nima?",
+     "Qiziqişing nima?",
+     "Işing nima?",
      "Isming nima?",
      "Kasbing nima?"
     ],
-    "e": "хобби — qiziqish, sevimli mashg‘ulot"
+    "e": "хобби — qiziqiş, sevimli maşğulot"
    },
    {
-    "q": "«Men gitara chalaman» — ruschasi qanday?",
+    "q": "«Men gitara çalaman» — rusçasi qanday?",
     "o": [
      "Я играю на гитаре",
      "Я играю в гитару",
      "Я играю гитару",
      "Я слушаю гитару"
     ],
-    "e": "cholg‘u asbobi: играть на + -е (на гитаре)"
+    "e": "çolğu asbobi: играть на + -е (на гитаре)"
    },
    {
     "q": "«Я люблю рисовать» nima degani?",
     "o": [
-     "Men rasm chizishni yaxshi ko‘raman",
-     "Men rasmlarni yaxshi ko‘raman",
-     "Men rasm chiza olmayman",
-     "Men rasmga tushishni yaxshi ko‘raman"
+     "Men rasm çizişni yaxşi köraman",
+     "Men rasmlarni yaxşi köraman",
+     "Men rasm çiza olmayman",
+     "Men rasmga tuşişni yaxşi köraman"
     ],
-    "e": "рисовать — rasm chizmoq"
+    "e": "рисовать — rasm çizmoq"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Я занимаюсь ___» (raqs)",
+    "q": "Böş joyni töldiring: «Я занимаюсь ___» (raqs)",
     "o": [
      "танцами",
      "танцы",
@@ -4944,27 +4944,27 @@
     "e": "заниматься чем? → танцами, спортом"
    },
    {
-    "q": "«Biz kinoga boryapmiz» — ruschasi qanday?",
+    "q": "«Biz kinoga boryapmiz» — rusçasi qanday?",
     "o": [
      "Мы идём в кино",
      "Мы идём в кине",
      "Мы смотрим кино",
      "Мы идём на кино"
     ],
-    "e": "кино o‘zgarmaydi: в кино"
+    "e": "кино özgarmaydi: в кино"
    },
    {
     "q": "«В свободное время я читаю» nima degani?",
     "o": [
-     "Bo‘sh vaqtimda kitob o‘qiyman",
-     "Ish vaqtida kitob o‘qiyman",
-     "Bo‘sh vaqtim yo‘q",
-     "Bo‘sh vaqtimda uxlayman"
+     "Böş vaqtimda kitob öqiyman",
+     "Iş vaqtida kitob öqiyman",
+     "Böş vaqtim yöq",
+     "Böş vaqtimda uxlayman"
     ],
-    "e": "свободное время — bo‘sh vaqt"
+    "e": "свободное время — böş vaqt"
    },
    {
-    "q": "«Otam baliq oviga boradi» — ruschasi qanday?",
+    "q": "«Otam baliq oviga boradi» — rusçasi qanday?",
     "o": [
      "Папа ездит на рыбалку",
      "Папа ездит на рыбалке",
@@ -4976,15 +4976,15 @@
    {
     "q": "«Она хорошо танцует» nima degani?",
     "o": [
-     "U yaxshi raqs tushadi",
-     "U yaxshi qo‘shiq aytadi",
+     "U yaxşi raqs tuşadi",
+     "U yaxşi qöşiq aytadi",
      "U raqsni yoqtirmaydi",
-     "U yaxshi rasm chizadi"
+     "U yaxşi rasm çizadi"
     ],
-    "e": "танцевать — raqs tushmoq, петь — qo‘shiq aytmoq"
+    "e": "танцевать — raqs tuşmoq, петь — qöşiq aytmoq"
    },
    {
-    "q": "«Qanday musiqa tinglaysan?» — ruschasi qanday?",
+    "q": "«Qanday musiqa tinglaysan?» — rusçasi qanday?",
     "o": [
      "Какую музыку ты слушаешь?",
      "Где ты слушаешь музыку?",
@@ -4996,12 +4996,12 @@
    {
     "q": "«Моё хобби — фотография» nima degani?",
     "o": [
-     "Mening qiziqishim — fotografiya",
+     "Mening qiziqişim — fotografiya",
      "Mening kasbim — fotograf",
      "Bu mening suratim",
      "Men fotografiyani yoqtirmayman"
     ],
-    "e": "хобби — o‘rta jins → моё"
+    "e": "хобби — örta jins → моё"
    }
   ]
  },
@@ -5021,22 +5021,22 @@
    [
     "🎂",
     "день рождения",
-    "tug‘ilgan kun"
+    "tuğilgan kun"
    ],
    [
     "🎁",
     "подарок",
-    "sovg‘a"
+    "sovğa"
    ],
    [
     "🎈",
     "шарик",
-    "shar"
+    "şar"
    ],
    [
     "🕯",
     "свеча",
-    "sham"
+    "şam"
    ],
    [
     "🍰",
@@ -5071,12 +5071,12 @@
    [
     "💍",
     "свадьба",
-    "to‘y"
+    "töy"
    ],
    [
     "🌷",
     "Навруз",
-    "Navro‘z"
+    "Navröz"
    ],
    [
     "🎊",
@@ -5088,45 +5088,45 @@
    {
     "q": "«С днём рождения!» nima degani?",
     "o": [
-     "Tug‘ilgan kuning bilan!",
+     "Tuğilgan kuning bilan!",
      "Yangi yiling bilan!",
      "Bayraming bilan!",
-     "To‘ying muborak!"
+     "Töying muborak!"
     ],
     "e": "С + -ем/-ом: с днём рождения"
    },
    {
-    "q": "«Yangi yilingiz bilan!» — ruschasi qanday?",
+    "q": "«Yangi yilingiz bilan!» — rusçasi qanday?",
     "o": [
      "С Новым годом!",
      "С Новый год!",
      "С днём рождения!",
      "С праздником!"
     ],
-    "e": "с + qurol kelishigi: с Новым годом"
+    "e": "с + qurol kelişigi: с Новым годом"
    },
    {
     "q": "«Это подарок для тебя» nima degani?",
     "o": [
-     "Bu sen uchun sovg‘a",
-     "Bu mening sovg‘am",
-     "Bu sovg‘ani kim berdi?",
-     "Bu sovg‘a menga yoqdi"
+     "Bu sen uçun sovğa",
+     "Bu mening sovğam",
+     "Bu sovğani kim berdi?",
+     "Bu sovğa menga yoqdi"
     ],
-    "e": "для — uchun"
+    "e": "для — uçun"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «Мы пригласили много ___» (mehmon)",
+    "q": "Böş joyni töldiring: «Мы пригласили много ___» (mehmon)",
     "o": [
      "гостей",
      "гости",
      "гостя",
      "гостям"
     ],
-    "e": "много + ko‘plik: много гостей"
+    "e": "много + köplik: много гостей"
    },
    {
-    "q": "«Bayramingiz bilan!» — ruschasi qanday?",
+    "q": "«Bayramingiz bilan!» — rusçasi qanday?",
     "o": [
      "С праздником!",
      "С праздники!",
@@ -5138,15 +5138,15 @@
    {
     "q": "«Желаю тебе счастья и здоровья» nima degani?",
     "o": [
-     "Senga baxt va sog‘liq tilayman",
+     "Senga baxt va soğliq tilayman",
      "Senga omad va pul tilayman",
-     "Men baxtli va sog‘lomman",
+     "Men baxtli va soğlomman",
      "Senga baxt va muhabbat tilayman"
     ],
     "e": "желать — tilamoq"
    },
    {
-    "q": "«Biz to‘yga boryapmiz» — ruschasi qanday?",
+    "q": "«Biz töyga boryapmiz» — rusçasi qanday?",
     "o": [
      "Мы идём на свадьбу",
      "Мы идём в свадьбу",
@@ -5158,15 +5158,15 @@
    {
     "q": "«Задуй свечи!» nima degani?",
     "o": [
-     "Shamlarni puflab o‘chir!",
-     "Shamlarni yoq!",
+     "Şamlarni puflab öçir!",
+     "Şamlarni yoq!",
      "Tortni kes!",
-     "Sovg‘ani och!"
+     "Sovğani oç!"
     ],
-    "e": "задуть — puflab o‘chirmoq"
+    "e": "задуть — puflab öçirmoq"
    },
    {
-    "q": "«Navro‘z bayrami bahorda» — ruschasi qanday?",
+    "q": "«Navröz bayrami bahorda» — rusçasi qanday?",
     "o": [
      "Праздник Навруз весной",
      "Праздник Навруз летом",
@@ -5178,12 +5178,12 @@
    {
     "q": "«Спасибо за подарок!» nima degani?",
     "o": [
-     "Sovg‘a uchun rahmat!",
-     "Kelganingiz uchun rahmat!",
-     "Sovg‘a qayerda?",
-     "Sovg‘a kerak emas!"
+     "Sovğa uçun rahmat!",
+     "Kelganingiz uçun rahmat!",
+     "Sovğa qayerda?",
+     "Sovğa kerak emas!"
     ],
-    "e": "спасибо за... — ... uchun rahmat"
+    "e": "спасибо за... — ... uçun rahmat"
    }
   ]
  },
@@ -5213,7 +5213,7 @@
    [
     "⛄",
     "зима",
-    "qish"
+    "qiş"
    ],
    [
     "🗓",
@@ -5233,7 +5233,7 @@
    [
     "🌼",
     "цветение",
-    "gullash"
+    "gullaş"
    ],
    [
     "🌾",
@@ -5265,22 +5265,22 @@
    {
     "q": "«Зимой холодно» nima degani?",
     "o": [
-     "Qishda sovuq",
+     "Qişda sovuq",
      "Yozda sovuq",
      "Kuzda sovuq",
-     "Qishda issiq"
+     "Qişda issiq"
     ],
-    "e": "зимой — qishda, летом — yozda"
+    "e": "зимой — qişda, летом — yozda"
    },
    {
-    "q": "«Bahorda gullar ochiladi» — ruschasi qanday?",
+    "q": "«Bahorda gullar oçiladi» — rusçasi qanday?",
     "o": [
      "Весной распускаются цветы",
      "Весной падают листья",
      "Осенью распускаются цветы",
      "Весной идёт снег"
     ],
-    "e": "распускаться — ochilmoq (gul)"
+    "e": "распускаться — oçilmoq (gul)"
    },
    {
     "q": "«Моё любимое время года — осень» nima degani?",
@@ -5288,62 +5288,62 @@
      "Mening sevimli faslim — kuz",
      "Mening sevimli faslim — bahor",
      "Men kuzni yoqtirmayman",
-     "Mening sevimli faslim — qish"
+     "Mening sevimli faslim — qiş"
     ],
     "e": "время года — fasl"
    },
    {
-    "q": "Bo‘sh joyni to‘ldiring: «___ я езжу на море» (yozda)",
+    "q": "Böş joyni töldiring: «___ я езжу на море» (yozda)",
     "o": [
      "Летом",
      "Лето",
      "Летний",
      "Лету"
     ],
-    "e": "qachon? → летом, зимой, весной, осенью"
+    "e": "qaçon? → летом, зимой, весной, осенью"
    },
    {
-    "q": "«Kuzda barglar to‘kiladi» — ruschasi qanday?",
+    "q": "«Kuzda barglar tökiladi» — rusçasi qanday?",
     "o": [
      "Осенью падают листья",
      "Весной падают листья",
      "Осенью растут листья",
      "Осенью падает снег"
     ],
-    "e": "падать — tushmoq, to‘kilmoq"
+    "e": "падать — tuşmoq, tökilmoq"
    },
    {
     "q": "«Сколько месяцев в году?» nima degani?",
     "o": [
-     "Bir yilda necha oy bor?",
-     "Bir oyda necha kun bor?",
-     "Bir yilda necha fasl bor?",
+     "Bir yilda neça oy bor?",
+     "Bir oyda neça kun bor?",
+     "Bir yilda neça fasl bor?",
      "Bugun qaysi oy?"
     ],
     "e": "месяц — oy, год — yil"
    },
    {
-    "q": "«Yozgi ta’til» — ruschasi qanday?",
+    "q": "«Yozgi ta’til» — rusçasi qanday?",
     "o": [
      "Летние каникулы",
      "Зимние каникулы",
      "Летний каникулы",
      "Летом каникулы"
     ],
-    "e": "каникулы — ko‘plik → летние"
+    "e": "каникулы — köplik → летние"
    },
    {
     "q": "«В январе сильный мороз» nima degani?",
     "o": [
      "Yanvarda qattiq ayoz",
-     "Yanvarda kuchli shamol",
+     "Yanvarda kuçli şamol",
      "Fevralda qattiq ayoz",
-     "Yanvarda qor ko‘p"
+     "Yanvarda qor köp"
     ],
     "e": "мороз — ayoz, январь — yanvar"
    },
    {
-    "q": "«Bolalar qor odam yasashyapti» — ruschasi qanday?",
+    "q": "«Bolalar qor odam yasaşyapti» — rusçasi qanday?",
     "o": [
      "Дети лепят снеговика",
      "Дети играют в снежки",
@@ -5355,12 +5355,12 @@
    {
     "q": "«Урожай собирают осенью» nima degani?",
     "o": [
-     "Hosil kuzda yig‘iladi",
-     "Hosil yozda yig‘iladi",
+     "Hosil kuzda yiğiladi",
+     "Hosil yozda yiğiladi",
      "Hosil kuzda ekiladi",
-     "Kuzda hosil bo‘lmaydi"
+     "Kuzda hosil bölmaydi"
     ],
-    "e": "собирать — yig‘moq"
+    "e": "собирать — yiğmoq"
    }
   ]
  }

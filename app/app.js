@@ -88,11 +88,11 @@
         </div>
       </header>
       <div class="statlar">
-        <div><b>${jamiYod}</b><span>so'z yodlandi</span></div>
-        <div><b>${testlar}</b><span>test yechildi</span></div>
+        <div><b>${jamiYod}</b><span>söz yodlandi</span></div>
+        <div><b>${testlar}</b><span>test yeçildi</span></div>
       </div>
       <div class="tablar">
-        <button data-rejim="karta" class="${rejim === 'karta' ? 'faol' : ''}">🃏 Kartochkalar</button>
+        <button data-rejim="karta" class="${rejim === 'karta' ? 'faol' : ''}">🃏 Kartoçkalar</button>
         <button data-rejim="test" class="${rejim === 'test' ? 'faol' : ''}">📝 Test</button>
       </div>
       ${toifalar.length ? `<div class="toifalar">${toifalar.map((t) => `<button data-toifa="${esc(t)}" class="${t === toifa ? 'faol' : ''}">${esc(t)}</button>`).join('')}</div>` : ''}
@@ -152,10 +152,10 @@
               ${k.misol ? `<div class="k-misol">${k.misol}</div>` : ''}
             </div>
           </div>
-          ${ovozBor ? `<button class="ovoz" data-ovoz title="Eshitish">🔊</button>` : ''}
+          ${ovozBor ? `<button class="ovoz" data-ovoz title="Eşitiş">🔊</button>` : ''}
         </div>
         <div class="tugmalar">
-          <button class="qayta" data-javob="0">🔁 Yana ko'raman</button>
+          <button class="qayta" data-javob="0">🔁 Yana köraman</button>
           <button class="bildim" data-javob="1">✅ Bilaman</button>
         </div>`;
       ilova.onclick = (e) => {
@@ -177,10 +177,10 @@
         <div class="yakun">
           <div class="katta">🎉</div>
           <h2>Barakalla!</h2>
-          <p>«${esc(g.nomi)}» mavzusidagi ${jami} ta so'zning hammasini ko'rib chiqdingiz.</p>
-          <button class="asosiy" data-test>📝 Endi test yechish</button>
+          <p>«${esc(g.nomi)}» mavzusidagi ${jami} ta sözning hammasini körib çiqdingiz.</p>
+          <button class="asosiy" data-test>📝 Endi test yeçiş</button>
           <button class="ikkinchi" data-qayta>🔁 Yana bir marta</button>
-          <button class="ikkinchi" data-orqa>🏠 Bosh sahifa</button>
+          <button class="ikkinchi" data-orqa>🏠 Boş sahifa</button>
         </div>`;
       ilova.onclick = (e) => {
         if (e.target.closest('[data-test]')) test(g);
@@ -220,9 +220,9 @@
         if (tanlov.togri) { ball++; tebran('ok'); } else { b.classList.add('xato'); tebran('xato'); }
         $('.izoh-joy').innerHTML = `
           <div class="izoh ${tanlov.togri ? 'ok' : 'yoq'}">
-            <b>${tanlov.togri ? "✅ To'g'ri!" : "❌ Noto'g'ri"}</b>${s.e ? `<span>💡 ${esc(s.e)}</span>` : ''}
+            <b>${tanlov.togri ? "✅ Töğri!" : "❌ Notöğri"}</b>${s.e ? `<span>💡 ${esc(s.e)}</span>` : ''}
           </div>
-          <button class="asosiy" data-keyingi>${i + 1 < savollar.length ? 'Keyingi savol →' : 'Natijani ko\'rish'}</button>`;
+          <button class="asosiy" data-keyingi>${i + 1 < savollar.length ? 'Keyingi savol →' : 'Natijani köriş'}</button>`;
         $('[data-keyingi]').onclick = (ev) => { ev.stopPropagation(); i++; chiz(); };
       };
     }
@@ -233,7 +233,7 @@
       natija.eng[g.id] = Math.max(oldingi ?? 0, ball);
       saqla();
       const foiz = ball / jami;
-      const [emoji, gap] = foiz === 1 ? ['🏆', "Ajoyib! Hammasi to'g'ri!"] : foiz >= 0.7 ? ['🎉', 'Zo\'r natija!'] : foiz >= 0.4 ? ['👍', "Yomon emas, yana mashq qiling!"] : ['💪', 'Kartochkalarni takrorlab, qayta urinib ko\'ring!'];
+      const [emoji, gap] = foiz === 1 ? ['🏆', "Ajoyib! Hammasi töğri!"] : foiz >= 0.7 ? ['🎉', 'Zör natija!'] : foiz >= 0.4 ? ['👍', "Yomon emas, yana maşq qiling!"] : ['💪', 'Kartoçkalarni takrorlab, qayta urinib köring!'];
       tebran(foiz >= 0.7 ? 'ok' : undefined);
       ilova.innerHTML = `
         <div class="yakun">
@@ -241,9 +241,9 @@
           <h2>${ball} / ${jami}</h2>
           <p>${gap}</p>
           ${oldingi != null && ball > oldingi ? `<p class="rekord">🔥 Yangi rekord! (oldin: ${oldingi})</p>` : ''}
-          <button class="asosiy" data-qayta>🔁 Qayta yechish</button>
-          <button class="ikkinchi" data-karta>🃏 Kartochkalarni ko'rish</button>
-          <button class="ikkinchi" data-orqa>🏠 Bosh sahifa</button>
+          <button class="asosiy" data-qayta>🔁 Qayta yeçiş</button>
+          <button class="ikkinchi" data-karta>🃏 Kartoçkalarni köriş</button>
+          <button class="ikkinchi" data-orqa>🏠 Boş sahifa</button>
         </div>`;
       ilova.onclick = (e) => {
         if (e.target.closest('[data-qayta]')) test(g);
@@ -261,6 +261,6 @@
   Promise.all([C.yukla(), oqi()])
     .then(([g]) => { guruhlar = g; bosh(); })
     .catch((xato) => {
-      ilova.innerHTML = `<div class="yakun"><div class="katta">😕</div><h2>Yuklab bo'lmadi</h2><p>${esc(xato.message)}</p><button class="asosiy" onclick="location.reload()">Qayta urinish</button></div>`;
+      ilova.innerHTML = `<div class="yakun"><div class="katta">😕</div><h2>Yuklab bölmadi</h2><p>${esc(xato.message)}</p><button class="asosiy" onclick="location.reload()">Qayta uriniş</button></div>`;
     });
 })();

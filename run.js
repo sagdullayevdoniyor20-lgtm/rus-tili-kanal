@@ -67,12 +67,12 @@ function shuffle(arr, seed) {
 
 // ---------- Ertalab: rasm + so'zlar ----------
 async function postWords() {
-  if (data.lastWordsDate === today()) return console.log("Bugungi mavzu allaqachon joylangan.");
+  if (data.lastWordsDate === today()) return console.log("Bugungi mavzu allaqaçon joylangan.");
   const t = topics.find((x) => x.id === data.next) || topics[0];
 
   const lines = [`📚 <b>Mavzu №${t.id}: ${esc(t.ru.toUpperCase())}</b> — ${esc(t.uz)}`, ""];
   for (const [em, ru, uz] of t.words) lines.push(`${/^[0-9]+$/.test(em) ? `<b>${em}</b>` : em} <b>${esc(ru)}</b> — ${esc(uz)}`);
-  lines.push("", `💡 Bugun soat ${cfg.QUIZ_TIME_TEXT} da shu so‘zlar bo‘yicha test bo‘ladi!`);
+  lines.push("", `💡 Bugun soat ${cfg.QUIZ_TIME_TEXT} da şu sözlar böyiça test böladi!`);
   const caption = (lines.join("\n") + footer()).slice(0, 1024);
 
   const form = new FormData();
@@ -92,14 +92,14 @@ async function postWords() {
 
 // ---------- Kechqurun: testlar ----------
 async function postQuiz() {
-  if (data.lastQuizDate === today()) return console.log("Bugungi test allaqachon joylangan.");
-  if (!data.current) return console.log("Hali birorta mavzu joylanmagan — test yo‘q.");
+  if (data.lastQuizDate === today()) return console.log("Bugungi test allaqaçon joylangan.");
+  if (!data.current) return console.log("Hali birorta mavzu joylanmagan — test yöq.");
   const t = topics.find((x) => x.id === data.current);
 
   await tg("sendMessage", {
     chat_id: CHANNEL,
     parse_mode: "HTML",
-    text: `📝 <b>Test vaqti!</b>\n\nMavzu №${t.id}: <b>${esc(t.ru.toUpperCase())}</b> — ${esc(t.uz)}\n${t.quiz.length} ta savol. Qani, nechtasiga to‘g‘ri javob berasiz? 👇`,
+    text: `📝 <b>Test vaqti!</b>\n\nMavzu №${t.id}: <b>${esc(t.ru.toUpperCase())}</b> — ${esc(t.uz)}\n${t.quiz.length} ta savol. Qani, neçtasiga töğri javob berasiz? 👇`,
   });
 
   for (let i = 0; i < t.quiz.length; i++) {
@@ -170,7 +170,7 @@ async function findCommonsImage(query) {
 }
 
 async function postRussia() {
-  if (data.lastRussiaDate === today()) return console.log("Bugungi Rossiya rasmi allaqachon joylangan.");
+  if (data.lastRussiaDate === today()) return console.log("Bugungi Rossiya rasmi allaqaçon joylangan.");
   const places = JSON.parse(fs.readFileSync(path.join(ROOT, "content", "russia.json"), "utf8"));
   const p = places.find((x) => x.id === data.russiaNext) || places[0];
   // Har 30 kunlik aylanishda boshqa matn: 1-aylanish — 1-matn, 2-si — 2-matn, ...
@@ -220,7 +220,7 @@ async function postRussia() {
     return;
   }
   if (!BOT_TOKEN || !CHANNEL) {
-    console.error("BOT_TOKEN yoki CHANNEL topilmadi. GitHub Secrets'ni tekshiring.");
+    console.error("BOT_TOKEN yoki CHANNEL topilmadi. GitHub Secrets'ni tekşiring.");
     process.exit(1);
   }
   const mode = process.argv[2];
@@ -228,7 +228,7 @@ async function postRussia() {
   else if (mode === "quiz") await postQuiz();
   else if (mode === "russia") await postRussia();
   else {
-    console.error("Ishlatish: node run.js words | quiz | russia");
+    console.error("Işlatiş: node run.js words | quiz | russia");
     process.exit(1);
   }
 })().catch((e) => {

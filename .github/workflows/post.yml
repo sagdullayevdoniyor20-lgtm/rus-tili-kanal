@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: 22
 
-      - name: Kanalga joylash
+      - name: Kanalga joylaş
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL: ${{ secrets.CHANNEL }}
@@ -47,7 +47,7 @@ jobs:
           fi
           node run.js "$MODE"
 
-      - name: data.json ni saqlash
+      - name: data.json ni saqlaş
         if: always()
         run: |
           git config user.name "rus-tili-bot"
