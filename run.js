@@ -98,7 +98,7 @@ async function postWords() {
 
   data.current = t.id;
   data.lastWordsDate = today();
-  data.next = t.id >= topics.length ? 1 : t.id + 1; // 30-mavzudan keyin boshidan boshlanadi
+  data.next = t.id >= topics.length ? 1 : t.id + 1; // oxirgi mavzudan keyin boshidan boshlanadi
   saveData();
   console.log(`Mavzu №${t.id} joylandi.`);
 }
@@ -186,7 +186,7 @@ async function postRussia() {
   if (data.lastRussiaDate === today()) return console.log("Bugungi Rossiya rasmi allaqaçon joylangan.");
   const places = JSON.parse(fs.readFileSync(path.join(ROOT, "content", "russia.json"), "utf8"));
   const p = places.find((x) => x.id === data.russiaNext) || places[0];
-  // Har 30 kunlik aylanishda boshqa matn: 1-aylanish — 1-matn, 2-si — 2-matn, ...
+  // Har bir to'liq aylanishda (hozir 60 kun) boshqa matn: 1-aylanish — 1-matn, 2-si — 2-matn, ...
   const round = data.russiaRound || 0;
   const m = p.matnlar[round % p.matnlar.length];
 

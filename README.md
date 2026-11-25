@@ -6,7 +6,7 @@ Har kuni Telegram kanalga özi post qiladi:
 - 🇷🇺 **~10:00** — Rossiya haqida rasm (Wikimedia Commons saytidan) va rusça + özbekça qisqa tavsif
 - 🌆 **~18:00** — şu mavzu böyiça 10 ta test (Telegram quiz): söz birikmalari va gaplar
 
-Hozir **30 ta mavzu** tayyor (oziq-ovqat, oila, uy, kiyim, transport...). 30-kundan keyin bot boşidan boşlaydi.
+Hozir **60 ta mavzu** tayyor (oziq-ovqat, oila, uy, kiyim, transport...). 60-kundan keyin bot boşidan boşlaydi.
 GitHub Actions'da bepul işlaydi, kompyuter yoqiq turişi şart emas.
 
 ---
@@ -44,7 +44,7 @@ Keyin yana **Run workflow** → `quiz` → şu mavzu testlari çiqadi.
 | `images/` | Har bir mavzuning rasmi (`1.png`, `2.png`, ...) |
 | `tools/render.py` | Rasmlarni yasaydigan dastur |
 | `run.js` | Kanalga joylaydigan bot |
-| `content/russia.json` | Rossiyadagi 30 ta joy: nomi, rasm qidiriş sözi va 3 xil matn (rusça/özbekça). Har 30 kunda keyingi matn olinadi |
+| `content/russia.json` | Rossiyadagi 60 ta joy: nomi, rasm qidiriş sözi va 3 xil matn (rusça/özbekça). Har 60 kunda keyingi matn olinadi |
 | `data.json` | Qaysi mavzu navbatda ekani (bot özi yangilaydi) |
 | `config.json` | Haşteglar va test vaqti matni |
 

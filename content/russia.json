@@ -178,5 +178,185 @@
       { "ru": "Калининград — самый западный город России. Здесь находится могила философа Иммануила Канта.", "uz": "Kaliningrad — Rossiyaning eng ğarbiy şahri. Bu yerda faylasuf Immanuil Kantning qabri bor." },
       { "ru": "Раньше Калининград назывался Кёнигсберг.", "uz": "Ilgari Kaliningrad Kyonigsberg deb atalgan." },
       { "ru": "Здесь находят много янтаря. В городе есть даже Музей янтаря.", "uz": "Bu yerda köp qahrabo topiladi. Şaharda hatto Qahrabo muzeyi ham bor." }
+    ] },
+  { "id": 31, "ru": "Петропавловская крепость", "uz": "Pyotr va Pavel qal'asi", "q": "Peter and Paul Fortress Saint Petersburg",
+    "matnlar": [
+      { "ru": "Петропавловская крепость — старейшее здание Санкт-Петербурга. Её заложили в 1703 году на Заячьем острове.", "uz": "Pyotr va Pavel qal'asi — Sankt-Peterburgdagi eng qadimiy bino. U 1703-yilda Quyon orolida asos solingan." },
+      { "ru": "Каждый день в полдень в крепости стреляет пушка.", "uz": "Har kuni peşin payti qal'ada töp otiladi." },
+      { "ru": "В Петропавловском соборе похоронены российские императоры. Его золотой шпиль виден издалека.", "uz": "Pyotr va Pavel soborida Rossiya imperatorlari dafn etilgan. Uning oltin şpili uzoqdan körinib turadi." }
+    ] },
+  { "id": 32, "ru": "Спас на Крови", "uz": "Qon ustidagi Najotkor çerkovi", "q": "Church of the Saviour on Blood Saint Petersburg",
+    "matnlar": [
+      { "ru": "Храм Спас на Крови стоит там, где в 1881 году убили императора Александра II.", "uz": "Qon ustidagi Najotkor çerkovi 1881-yilda imperator Aleksandr II öldirilgan joyda turibdi." },
+      { "ru": "Стены храма покрыты мозаикой. Её площадь — больше шести тысяч квадратных метров.", "uz": "Çerkov devorlari mozaika bilan qoplangan. Uning maydoni olti ming kvadrat metrdan ortiq." },
+      { "ru": "Храм построили в стиле старых русских церквей. Он похож на собор Василия Блаженного.", "uz": "Çerkov qadimiy rus çerkovlari uslubida qurilgan. U Vasiliy Blajenniy soboriga öxşaydi." }
+    ] },
+  { "id": 33, "ru": "Медный всадник", "uz": "Mis çavandoz", "q": "Bronze Horseman Saint Petersburg",
+    "matnlar": [
+      { "ru": "Медный всадник — памятник Петру Первому в Санкт-Петербурге. Его открыли в 1782 году.", "uz": "Mis çavandoz — Sankt-Peterburgdagi Pyotr I haykali. U 1782-yilda oçilgan." },
+      { "ru": "Памятник стоит на огромном камне. Этот камень весит больше тысячи тонн.", "uz": "Haykal ulkan toş ustida turibdi. Bu toşning oğirligi ming tonnadan ortiq." },
+      { "ru": "Памятник сделан из бронзы. Название «Медный всадник» придумал поэт Пушкин.", "uz": "Haykal bronzadan yasalgan. «Mis çavandoz» nomini şoir Puşkin qöygan." }
+    ] },
+  { "id": 34, "ru": "Невский проспект", "uz": "Nevskiy prospekti", "q": "Nevsky Prospect Saint Petersburg",
+    "matnlar": [
+      { "ru": "Невский проспект — главная улица Санкт-Петербурга. Его длина — около четырёх с половиной километров.", "uz": "Nevskiy prospekti — Sankt-Peterburgning asosiy köçasi. Uning uzunligi taxminan tört yarim kilometr." },
+      { "ru": "На Невском проспекте много магазинов, кафе и театров.", "uz": "Nevskiy prospektida köplab dökonlar, kafelar va teatrlar bor." },
+      { "ru": "Проспект назван в честь князя Александра Невского.", "uz": "Prospekt knyaz Aleksandr Nevskiy şarafiga nomlangan." }
+    ] },
+  { "id": 35, "ru": "Мариинский театр", "uz": "Mariinskiy teatri", "q": "Mariinsky Theatre Saint Petersburg",
+    "matnlar": [
+      { "ru": "Мариинский театр — один из лучших театров оперы и балета в мире. Он находится в Санкт-Петербурге.", "uz": "Mariinskiy teatri — dunyodagi eng yaxşi opera va balet teatrlaridan biri. U Sankt-Peterburgda joylaşgan." },
+      { "ru": "Театр открыли в 1860 году. Он назван в честь императрицы Марии Александровны.", "uz": "Teatr 1860-yilda oçilgan. U imperatriça Mariya Aleksandrovna şarafiga nomlangan." },
+      { "ru": "Здесь танцевали Анна Павлова, Рудольф Нуреев и Михаил Барышников.", "uz": "Bu yerda Anna Pavlova, Rudolf Nureyev va Mixail Baryşnikov raqsga tuşgan." }
+    ] },
+  { "id": 36, "ru": "Ярославль", "uz": "Yaroslavl", "q": "Church of Elijah the Prophet Yaroslavl",
+    "matnlar": [
+      { "ru": "Ярославль — старинный город на Волге. Он входит в «Золотое кольцо» России.", "uz": "Yaroslavl — Volga böyidagi qadimiy şahar. U Rossiyaning «Oltin halqa»siga kiradi." },
+      { "ru": "По легенде, город основал князь Ярослав Мудрый около 1010 года.", "uz": "Rivoyatga köra, şaharga taxminan 1010-yilda knyaz Yaroslav Dono asos solgan." },
+      { "ru": "Центр Ярославля входит в список ЮНЕСКО. На гербе города — медведь.", "uz": "Yaroslavl markazi YUNESKO röyxatiga kiritilgan. Şahar gerbida ayiq tasvirlangan." }
+    ] },
+  { "id": 37, "ru": "Ростовский кремль", "uz": "Rostov Kremli", "q": "Rostov Kremlin",
+    "matnlar": [
+      { "ru": "Ростовский кремль стоит на берегу озера Неро. Ростов Великий — один из старейших городов России.", "uz": "Rostov Kremli Nero köli böyida turibdi. Rostov Velikiy — Rossiyaning eng qadimiy şaharlaridan biri." },
+      { "ru": "В кремле висят колокола. Самый большой весит тридцать две тонны.", "uz": "Kremlda qönğiroqlar osilgan. Eng kattasining oğirligi ötuz ikki tonna." },
+      { "ru": "Ростов входит в «Золотое кольцо». Здесь снимали комедию «Иван Васильевич меняет профессию».", "uz": "Rostov «Oltin halqa»ga kiradi. Bu yerda «Ivan Vasilyeviç kasbini özgartiradi» komediyasi suratga olingan." }
+    ] },
+  { "id": 38, "ru": "Успенский собор во Владимире", "uz": "Vladimirdagi Uspenskiy sobori", "q": "Dormition Cathedral Vladimir",
+    "matnlar": [
+      { "ru": "Успенский собор во Владимире построили в XII веке. Его белые стены и золотой купол знает вся страна.", "uz": "Vladimirdagi Uspenskiy sobori XII asrda qurilgan. Uning oq devorlari va oltin gumbazini butun mamlakat biladi." },
+      { "ru": "Собор входит в список ЮНЕСКО. Он стоит на высоком берегу реки Клязьмы.", "uz": "Sobor YUNESKO röyxatiga kiritilgan. U Klyazma daryosining baland qirğoğida turibdi." },
+      { "ru": "В соборе работал знаменитый художник Андрей Рублёв.", "uz": "Soborda maşhur rassom Andrey Rublyov işlagan." }
+    ] },
+  { "id": 39, "ru": "Псковский кремль", "uz": "Pskov Kremli", "q": "Pskov Kremlin Trinity Cathedral",
+    "matnlar": [
+      { "ru": "Псковский кремль называют Кромом. Он стоит там, где река Пскова впадает в Великую.", "uz": "Pskov Kremli Krom deb ataladi. U Pskova daryosi Velikayaga quyiladigan joyda turibdi." },
+      { "ru": "Псков — один из старейших городов России. Он впервые упоминается в летописи в 903 году.", "uz": "Pskov — Rossiyaning eng qadimiy şaharlaridan biri. U yilnomada ilk bor 903-yilda tilga olingan." },
+      { "ru": "В кремле стоит Троицкий собор. Его купола видно издалека.", "uz": "Kremlda Troitsa sobori turibdi. Uning gumbazlari uzoqdan körinib turadi." }
+    ] },
+  { "id": 40, "ru": "Великий Новгород", "uz": "Velikiy Novgorod", "q": "Novgorod Kremlin",
+    "matnlar": [
+      { "ru": "Великий Новгород — один из самых старых городов России. Ему больше тысячи лет.", "uz": "Velikiy Novgorod — Rossiyaning eng qadimiy şaharlaridan biri. Uning yoşi ming yildan ortiq." },
+      { "ru": "В кремле стоит памятник «Тысячелетие России». На нём — великие люди русской истории.", "uz": "Kremlda «Rossiyaning ming yilligi» yodgörligi turibdi. Unda rus tarixining buyuk insonlari tasvirlangan." },
+      { "ru": "В Новгороде нашли берестяные грамоты. Это письма на коре берёзы, которым почти тысяча лет.", "uz": "Novgorodda qayin pöstloğidagi xatlar topilgan. Bu yoşi qariyb ming yilga borgan xatlar." }
+    ] },
+  { "id": 41, "ru": "Соловецкий монастырь", "uz": "Solovetskiy monastiri", "q": "Solovetsky Monastery",
+    "matnlar": [
+      { "ru": "Соловецкий монастырь находится на островах в Белом море. Его основали в XV веке.", "uz": "Solovetskiy monastiri Oq dengizdagi orollarda joylaşgan. U XV asrda asos solingan." },
+      { "ru": "Монастырь окружают мощные стены из огромных камней.", "uz": "Monastirni ulkan toşlardan qurilgan qudratli devorlar örab turadi." },
+      { "ru": "Летом на Соловках бывают белые ночи, когда совсем не темно.", "uz": "Yozda Solovkida oq keçalar böladi, şunda umuman qoronği bölmaydi." }
+    ] },
+  { "id": 42, "ru": "Кунгурская пещера", "uz": "Kungur muz ğori", "q": "Kungur Ice Cave",
+    "matnlar": [
+      { "ru": "Кунгурская ледяная пещера находится на Урале, недалеко от города Кунгур. Её длина — больше пяти километров.", "uz": "Kungur muz ğori Uralda, Kungur şahri yaqinida joylaşgan. Uning uzunligi beş kilometrdan ortiq." },
+      { "ru": "В пещере есть ледяные сталагмиты и подземные озёра.", "uz": "Ğorda muz stalagmitlari va yer osti köllari bor." },
+      { "ru": "Туристы проходят по маршруту около полутора километров.", "uz": "Sayyohlar marşrut böyiça taxminan bir yarim kilometr yöl yuradi." }
+    ] },
+  { "id": 43, "ru": "Остров Ольхон", "uz": "Olxon oroli", "q": "Olkhon Island Baikal",
+    "matnlar": [
+      { "ru": "Ольхон — самый большой остров на озере Байкал. Его длина — около семидесяти километров.", "uz": "Olxon — Baykal kölidagi eng katta orol. Uning uzunligi taxminan yetmiş kilometr." },
+      { "ru": "На Ольхоне есть мыс Бурхан и скала Шаманка. Для местных жителей это священное место.", "uz": "Olxonda Burxan burni va Şamanka qoyasi bor. Mahalliy aholi uçun bu muqaddas joy." },
+      { "ru": "Летом на Ольхон приезжают тысячи туристов. Зимой сюда можно доехать по льду.", "uz": "Yozda Olxonga minglab sayyohlar keladi. Qişda bu yerga muz ustidan yetib keliş mumkin." }
+    ] },
+  { "id": 44, "ru": "Телецкое озеро", "uz": "Teletskoye köli", "q": "Lake Teletskoye Altai",
+    "matnlar": [
+      { "ru": "Телецкое озеро находится на Алтае. Вода в нём чистая, а вокруг — горы и тайга.", "uz": "Teletskoye köli Oltoyda joylaşgan. Uning suvi toza, atrofi esa toğlar va tayga." },
+      { "ru": "Алтайцы называют это озеро Алтын-Кёль, то есть «Золотое озеро».", "uz": "Oltoyliklar bu kölni Oltin-Köl, ya'ni «Oltin köl» deb ataşadi." },
+      { "ru": "Глубина озера — больше трёхсот метров.", "uz": "Kölning çuqurligi uç yuz metrdan ortiq." }
+    ] },
+  { "id": 45, "ru": "Гора Белуха", "uz": "Beluxa toği", "q": "Belukha mountain Altai",
+    "matnlar": [
+      { "ru": "Белуха — самая высокая гора Сибири. Её высота — 4506 метров.", "uz": "Beluxa — Sibirdagi eng baland toğ. Uning balandligi 4506 metr." },
+      { "ru": "Белуха находится на Алтае. Её вершина покрыта снегом и льдом круглый год.", "uz": "Beluxa Oltoyda joylaşgan. Uning çöqqisi yil böyi qor va muz bilan qoplangan." },
+      { "ru": "Гора Белуха входит в список ЮНЕСКО. Многие считают её священной.", "uz": "Beluxa toği YUNESKO röyxatiga kiritilgan. Köpçilik uni muqaddas deb biladi." }
+    ] },
+  { "id": 46, "ru": "Красноярские Столбы", "uz": "Krasnoyarsk ustunlari", "q": "Krasnoyarsk Stolby Nature Reserve",
+    "matnlar": [
+      { "ru": "«Красноярские Столбы» — заповедник рядом с городом Красноярском. Здесь стоят высокие скалы.", "uz": "«Krasnoyarsk ustunlari» — Krasnoyarsk şahri yaqinidagi qöriqxona. Bu yerda baland qoyalar turibdi." },
+      { "ru": "Скалы похожи на башни и фигуры людей. У многих есть названия: «Дед», «Перья», «Львиные ворота».", "uz": "Qoyalar minoralar va odam şakllariga öxşaydi. Köpining nomi bor: «Ded», «Perya», «Şer darvozasi»." },
+      { "ru": "Любимое занятие красноярцев — «столбизм». Так называют лазание по этим скалам.", "uz": "Krasnoyarsklilarning sevimli maşğuloti — «stolbizm». Bu şu qoyalarga tirmaşib çiqiş." }
+    ] },
+  { "id": 47, "ru": "Жигулёвские горы", "uz": "Jiguli toğlari", "q": "Zhiguli Mountains Volga",
+    "matnlar": [
+      { "ru": "Жигулёвские горы стоят на берегу Волги, в излучине реки — Самарской Луке.", "uz": "Jiguli toğlari Volga böyida, daryoning egilgan joyida — Samara Lukasida turibdi." },
+      { "ru": "Здесь находится Жигулёвский заповедник.", "uz": "Bu yerda Jiguli qöriqxonasi joylaşgan." },
+      { "ru": "Название автомобиля «Жигули» произошло от этих гор.", "uz": "«Jiguli» avtomobilining nomi şu toğlardan kelib çiqqan." }
+    ] },
+  { "id": 48, "ru": "Домбай", "uz": "Dombay", "q": "Dombay Karachay-Cherkessia mountains",
+    "matnlar": [
+      { "ru": "Домбай — горный курорт на Кавказе. Зимой здесь катаются на лыжах, летом ходят в походы.", "uz": "Dombay — Kavkazdagi toğ kurorti. Qişda bu yerda çanği uçişadi, yozda esa piyoda sayohatga çiqişadi." },
+      { "ru": "Домбай находится в Карачаево-Черкесии. Слово «домбай» значит «зубр» на местном языке.", "uz": "Dombay Qoraçay-Çerkesiyada joylaşgan. Mahalliy tilda «dombay» sözi «zubr» degani." },
+      { "ru": "Рядом с Домбаем есть Тебердинский заповедник.", "uz": "Dombay yonida Teberda qöriqxonasi bor." }
+    ] },
+  { "id": 49, "ru": "Красная Поляна", "uz": "Krasnaya Polyana", "q": "Krasnaya Polyana Sochi mountains",
+    "matnlar": [
+      { "ru": "Красная Поляна — горный курорт рядом с Сочи.", "uz": "Krasnaya Polyana — Soçi yaqinidagi toğ kurorti." },
+      { "ru": "В 2014 году здесь проходили соревнования по лыжам и сноуборду.", "uz": "2014-yilda bu yerda çanği va snoubord böyiça musobaqalar ötgan." },
+      { "ru": "Канатные дороги поднимают туристов высоко в горы.", "uz": "Arqon yöllar sayyohlarni toğlarga baland köteradi." }
+    ] },
+  { "id": 50, "ru": "Дербент", "uz": "Derbent", "q": "Derbent Naryn-Kala fortress",
+    "matnlar": [
+      { "ru": "Дербент — самый южный город России. Он находится в Дагестане, на берегу Каспийского моря.", "uz": "Derbent — Rossiyaning eng janubiy şahri. U Dağistonda, Kaspiy dengizi sohilida joylaşgan." },
+      { "ru": "Дербент — один из старейших городов мира. Говорят, ему больше пяти тысяч лет.", "uz": "Derbent — dunyodagi eng qadimiy şaharlardan biri. Aytişlariça, uning yoşi beş ming yildan ortiq." },
+      { "ru": "Крепость Нарын-кала входит в список ЮНЕСКО.", "uz": "Narin-Qala qal'asi YUNESKO röyxatiga kiritilgan." }
+    ] },
+  { "id": 51, "ru": "Озеро Селигер", "uz": "Seliger köli", "q": "Lake Seliger",
+    "matnlar": [
+      { "ru": "Селигер — большое озеро в Тверской области. В нём больше ста островов.", "uz": "Seliger — Tver viloyatidagi katta köl. Unda yuzdan ortiq orol bor." },
+      { "ru": "Здесь любят отдыхать с палатками, ловить рыбу и кататься на лодках.", "uz": "Bu yerda çodirda dam oliş, baliq tutiş va qayiqda sayr qiliş yoqtiriladi." },
+      { "ru": "Вокруг озера растут сосновые леса.", "uz": "Köl atrofida qarağay örmonlari ösadi." }
+    ] },
+  { "id": 52, "ru": "Ясная Поляна", "uz": "Yasnaya Polyana", "q": "Yasnaya Polyana Tolstoy estate",
+    "matnlar": [
+      { "ru": "Ясная Поляна — имение Льва Толстого в Тульской области. Здесь он родился и жил.", "uz": "Yasnaya Polyana — Lev Tolstoyning Tula viloyatidagi mulki. U şu yerda tuğilgan va yaşagan." },
+      { "ru": "В Ясной Поляне Толстой написал «Войну и мир» и «Анну Каренину».", "uz": "Tolstoy Yasnaya Polyanada «Uruş va tinçlik» hamda «Anna Karenina» asarlarini yozgan." },
+      { "ru": "Писатель похоронен в лесу недалеко от дома. Его могила очень простая — холм без памятника.", "uz": "Yozuvçi uyidan uzoq bölmagan örmonda dafn etilgan. Uning qabri juda oddiy — haykalsiz tuproq tepalik." }
+    ] },
+  { "id": 53, "ru": "Бородинское поле", "uz": "Borodino maydoni", "q": "Borodino field monument",
+    "matnlar": [
+      { "ru": "Бородинское поле находится недалеко от Москвы. Здесь в 1812 году было большое сражение с армией Наполеона.", "uz": "Borodino maydoni Moskvadan uzoq emas. Bu yerda 1812-yilda Napoleon armiyasi bilan katta jang bölgan." },
+      { "ru": "Это сражение называют Бородинской битвой. Поэт Михаил Лермонтов написал о ней стихотворение «Бородино».", "uz": "Bu jang Borodino jangi deb ataladi. Şoir Mixail Lermontov bu jang haqida «Borodino» şe'rini yozgan." },
+      { "ru": "Сегодня на поле стоят памятники и музей. Каждый год здесь показывают исторические сражения.", "uz": "Bugun maydonda yodgörliklar va muzey bor. Har yili bu yerda tarixiy janglar qayta körsatiladi." }
+    ] },
+  { "id": 54, "ru": "Астраханский кремль", "uz": "Astraxan Kremli", "q": "Astrakhan Kremlin",
+    "matnlar": [
+      { "ru": "Астрахань стоит на Волге, недалеко от Каспийского моря.", "uz": "Astraxan Volgada, Kaspiy dengizi yaqinida joylaşgan." },
+      { "ru": "Астраханский кремль построили в XVI веке.", "uz": "Astraxan Kremli XVI asrda qurilgan." },
+      { "ru": "Астрахань известна арбузами и рыбой. Здесь ловят осетров, а икра осетра очень дорогая.", "uz": "Astraxan tarvuzlari va baliği bilan maşhur. Bu yerda çörtanbaliq tutiladi, uning ikrasi esa juda qimmat." }
+    ] },
+  { "id": 55, "ru": "Царицыно", "uz": "Tsaritsino", "q": "Tsaritsyno Palace Moscow",
+    "matnlar": [
+      { "ru": "Царицыно — красивый дворцовый парк в Москве. Здесь стоят дворцы из красного кирпича и белого камня.", "uz": "Tsaritsino — Moskvadagi çiroyli saroy boğ. Bu yerda qizil ğişt va oq toşdan qurilgan saroylar turibdi." },
+      { "ru": "Царицыно начали строить по приказу императрицы Екатерины Великой.", "uz": "Tsaritsinoni qurişga imperatriça Yekaterina Buyuk buyruq bergan." },
+      { "ru": "Рядом с дворцом есть фонтан. Вечером на нём бывает световое шоу.", "uz": "Saroy yonida favvora bor. Keçqurun unda yoruğlik namoyişi böladi." }
+    ] },
+  { "id": 56, "ru": "ВДНХ", "uz": "VDNX", "q": "VDNKh Moscow fountain Friendship of Nations",
+    "matnlar": [
+      { "ru": "ВДНХ — большой парк и выставочный центр в Москве. Его открыли в 1939 году.", "uz": "VDNX — Moskvadagi katta boğ va körgazma markazi. U 1939-yilda oçilgan." },
+      { "ru": "Самый известный фонтан — «Дружба народов». Он золотой и очень красивый.", "uz": "Eng maşhur favvora — «Xalqlar dostligi». U oltin rangda va juda çiroyli." },
+      { "ru": "В центре ВДНХ есть павильон «Космос». Рядом с ним стоит ракета.", "uz": "VDNX markazida «Kosmos» pavilyoni bor. Uning yonida raketa turibdi." }
+    ] },
+  { "id": 57, "ru": "Московское метро", "uz": "Moskva metrosi", "q": "Komsomolskaya metro station Moscow",
+    "matnlar": [
+      { "ru": "Московское метро открыли в 1935 году. Это одно из самых красивых метро в мире.", "uz": "Moskva metrosi 1935-yilda oçilgan. Bu dunyodagi eng çiroyli metrolardan biri." },
+      { "ru": "Многие станции похожи на дворцы: мрамор, люстры и мозаика.", "uz": "Köp stansiyalar saroylarga öxşaydi: marmar, qandillar va mozaika." },
+      { "ru": "Каждый день в метро ездят миллионы людей.", "uz": "Har kuni metroda millionlab odamlar yuradi." }
+    ] },
+  { "id": 58, "ru": "Свияжск", "uz": "Sviyajsk", "q": "Sviyazhsk island Tatarstan",
+    "matnlar": [
+      { "ru": "Свияжск — маленький город-остров на Волге недалеко от Казани.", "uz": "Sviyajsk — Qozon yaqinida, Volgadagi kiçik orol-şahar." },
+      { "ru": "Город основал Иван Грозный в 1551 году.", "uz": "Şaharga 1551-yilda Ivan Grozniy asos solgan." },
+      { "ru": "Остров-град Свияжск входит в список ЮНЕСКО.", "uz": "Orol-şahar Sviyajsk YUNESKO röyxatiga kiritilgan." }
+    ] },
+  { "id": 59, "ru": "Русский мост", "uz": "Rus köprigi", "q": "Russky Bridge Vladivostok",
+    "matnlar": [
+      { "ru": "Русский мост во Владивостоке — вантовый мост с самым большим пролётом в мире. Пролёт — 1104 метра.", "uz": "Vladivostokdagi Rus köprigi — dunyoda eng katta oralıqqa ega vantli köprik. Uning oralığı 1104 metr." },
+      { "ru": "Мост соединяет материк и остров Русский. Его открыли в 2012 году.", "uz": "Köprik materik bilan Rus orolini böğlaydi. U 2012-yilda oçilgan." },
+      { "ru": "Высота пилонов — больше трёхсот метров.", "uz": "Köprik pilonlarining balandligi uç yuz metrdan ortiq." }
+    ] },
+  { "id": 60, "ru": "Авачинский вулкан", "uz": "Avaçinskiy vulqoni", "q": "Avachinsky volcano Kamchatka",
+    "matnlar": [
+      { "ru": "Авачинский вулкан стоит рядом с городом Петропавловск-Камчатский. Это действующий вулкан.", "uz": "Avaçinskiy vulqoni Petropavlovsk-Kamçatskiy şahri yonida turibdi. Bu faol vulqon." },
+      { "ru": "Его высота — около 2700 метров.", "uz": "Uning balandligi taxminan 2700 metr." },
+      { "ru": "Туристы поднимаются на вулкан, чтобы посмотреть на кратер.", "uz": "Sayyohlar kraterni körişga vulqonga çiqişadi." }
     ] }
 ]
