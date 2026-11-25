@@ -38,12 +38,25 @@ function loadData() {
 const data = Object.assign({ next: 1, current: null, lastWordsDate: null, lastQuizDate: null }, loadData());
 const saveData = () => fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + "\n");
 
+// Tarmoq bir zum uzilsa (masalan "Connection reset by peer"), 4 martagacha qayta urinamiz
+async function tarmoqQaytaUrin(method, sorov) {
+  for (let urinish = 1; ; urinish++) {
+    try {
+      return await sorov();
+    } catch (e) {
+      if (urinish >= 4) throw e;
+      console.warn(`::warning::${method}: tarmoq xatosi, ${5 * urinish} soniyadan keyin qayta urinish: ${e.message}`);
+      await new Promise((r) => setTimeout(r, 5000 * urinish));
+    }
+  }
+}
+
 async function tg(method, body, isForm = false) {
-  const res = await fetch(`${TG}/${method}`, {
+  const res = await tarmoqQaytaUrin(method, () => fetch(`${TG}/${method}`, {
     method: "POST",
     headers: isForm ? undefined : { "Content-Type": "application/json" },
     body: isForm ? body : JSON.stringify(body),
-  });
+  }));
   const json = await res.json();
   if (!json.ok) throw new Error(`Telegram ${method}: ${json.description}`);
   return json.result;
